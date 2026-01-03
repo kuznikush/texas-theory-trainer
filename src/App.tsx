@@ -55,14 +55,22 @@ export default function App() {
     setStarted(true);
   }
 
-  function select(choiceId: string) {
-    if (!current) return;
-    const isCorrect = choiceId === current.correctChoiceId;
-    setAnswers((prev) => ({
-      ...prev,
-      [current.id]: { selectedChoiceId: choiceId, isCorrect },
-    }));
+function select(choiceId: string) {
+  if (!current) return;
+
+  // In exam mode, do not allow changing an answer
+  if (config.mode === "exam" && answers[current.id]?.selectedChoiceId) {
+    return;
   }
+
+  const isCorrect = choiceId === current.correctChoiceId;
+
+  setAnswers((prev) => ({
+    ...prev,
+    [current.id]: { selectedChoiceId: choiceId, isCorrect },
+  }));
+}
+
 
   function go(delta: number) {
     setIndex((i) => Math.max(0, Math.min(i + delta, total - 1)));
