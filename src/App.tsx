@@ -202,6 +202,7 @@ function select(choiceId: string) {
 
   const a = answers[current.id];
   const selected = a?.selectedChoiceId;
+  const showFeedback = config.mode === "practice" && Boolean(selected);
 
   return (
     <div className="page">
@@ -218,16 +219,25 @@ function select(choiceId: string) {
         <div className="prompt">{current.prompt}</div>
 
         <div className="choices">
-          {current.choices.map((c) => (
-            <button
-              key={c.id}
-              className={`choice ${selected === c.id ? "picked" : ""}`}
-              onClick={() => select(c.id)}
-            >
-              <span className="choiceId">{c.id}</span>
-              <span>{c.text}</span>
-            </button>
-          ))}
+          {current.choices.map((c) => {
+            const isPicked = selected === c.id;
+            const isCorrectChoice = showFeedback && c.id === current.correctChoiceId;
+            const isWrongChoice =
+              showFeedback && isPicked && selected !== current.correctChoiceId;
+
+            return (
+              <button
+                key={c.id}
+                className={`choice ${isPicked ? "picked" : ""} ${
+                  isCorrectChoice ? "correct" : ""
+                } ${isWrongChoice ? "wrong" : ""}`}
+                onClick={() => select(c.id)}
+              >
+                <span className="choiceId">{c.id}</span>
+                <span>{c.text}</span>
+              </button>
+            );
+          })}
         </div>
 
         {config.mode === "practice" && selected && current.explanation && (

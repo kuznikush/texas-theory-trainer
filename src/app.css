@@ -77,6 +77,14 @@
 
 .choice:hover { border-color: #bbb; }
 .choice.picked { border-color: #111; }
+.choice.correct {
+  background: #e9f7ee;
+  border-color: #4fa36b;
+}
+.choice.wrong {
+  background: #fdecec;
+  border-color: #d87070;
+}
 
 .choiceId {
   font-weight: 700;
