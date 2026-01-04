@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300" role="img">
+  <defs>
+    <marker id="arrow" markerWidth="8" markerHeight="8" refX="6" refY="4" orient="auto">
+      <path d="M0,0 L8,4 L0,8 Z" fill="#222" />
+    </marker>
+  </defs>
+  <rect width="400" height="300" fill="#e7efe7" />
+  <rect x="0" y="110" width="400" height="80" fill="#9aa1a8" />
+  <rect x="160" y="0" width="80" height="300" fill="#9aa1a8" />
+  <line x1="0" y1="150" x2="400" y2="150" stroke="#f7f7f7" stroke-width="4" stroke-dasharray="16 10" />
+  <line x1="200" y1="0" x2="200" y2="300" stroke="#f7f7f7" stroke-width="4" stroke-dasharray="16 10" />
+  <rect x="245" y="205" width="16" height="42" rx="3" fill="#222" />
+  <circle cx="253" cy="213" r="5" fill="#555" />
+  <circle cx="253" cy="226" r="5" fill="#555" />
+  <circle cx="253" cy="239" r="5" fill="#2e7d32" />
+  <rect x="135" y="65" width="16" height="42" rx="3" fill="#222" />
+  <circle cx="143" cy="73" r="5" fill="#d32f2f" />
+  <circle cx="143" cy="86" r="5" fill="#555" />
+  <circle cx="143" cy="99" r="5" fill="#555" />
+  <path d="M 200 232 L 200 170 L 150 170" fill="none" stroke="#222" stroke-width="3" marker-end="url(#arrow)" />
+  <path d="M 200 68 L 200 130" fill="none" stroke="#222" stroke-width="3" marker-end="url(#arrow)" />
+  <rect x="191" y="210" width="18" height="30" rx="4" fill="#2f6fed" stroke="#1b1b1b" stroke-width="1" />
+  <text x="200.0" y="229.0" text-anchor="middle" font-size="12" fill="#fff" font-weight="700">A</text>
+  <rect x="191" y="40" width="18" height="30" rx="4" fill="#e24d4d" stroke="#1b1b1b" stroke-width="1" />
+  <text x="200.0" y="59.0" text-anchor="middle" font-size="12" fill="#fff" font-weight="700">B</text>
+  <text x="12" y="20" font-size="12" fill="#333">Protected left arrow.</text>
+</svg>
