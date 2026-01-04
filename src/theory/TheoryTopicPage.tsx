@@ -1,7 +1,12 @@
 import Accordion from "../components/Accordion";
 import { theoryImageManifest, theoryTopics } from "../data/theoryTopics";
+import RightOfWayTopicPage from "./RightOfWayTopicPage";
 
 export default function TheoryTopicPage({ slug }: { slug: string }) {
+  if (slug === "right-of-way") {
+    return <RightOfWayTopicPage />;
+  }
+
   const topic = theoryTopics.find((item) => item.slug === slug);
 
   if (!topic) {
