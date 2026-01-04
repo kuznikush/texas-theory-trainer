@@ -12,3 +12,9 @@ export function formatTime(sec: number): string {
   const s = sec % 60;
   return `${m}:${String(s).padStart(2, "0")}`;
 }
+
+export function resolveAssetPath(src: string) {
+  if (!src.startsWith("/")) return src;
+  const base = import.meta.env.BASE_URL ?? "/";
+  return `${base}${src.replace(/^\//, "")}`;
+}
