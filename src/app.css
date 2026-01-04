@@ -163,25 +163,62 @@ a {
 .accordion-item {
   border: 1px solid #e6e7ef;
   border-radius: 14px;
-  padding: 8px 12px;
   background: #f9fafc;
+  overflow: hidden;
 }
 
-.accordion-item summary {
+.accordion-item summary,
+.accordion-item .accordion-header {
   cursor: pointer;
   list-style: none;
+  padding: 8px 10px;
+  border-radius: 12px;
+  transition: background 0.2s ease, box-shadow 0.2s ease;
 }
 
 .accordion-item summary::-webkit-details-marker {
   display: none;
 }
 
+.accordion-item summary:hover,
+.accordion-item summary:focus-visible {
+  background: #eef1f8;
+  box-shadow: 0 0 0 1px rgba(70, 90, 160, 0.2);
+  outline: none;
+}
+
+.accordion-summary {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+}
+
+.accordion-title {
+  display: grid;
+  gap: 4px;
+}
+
 .accordion-summary h3 {
   margin: 6px 0;
 }
 
+.accordion-chevron {
+  font-size: 1.2rem;
+  color: #56627a;
+  transition: transform 0.2s ease;
+}
+
+.accordion-item[open] .accordion-chevron {
+  transform: rotate(90deg);
+}
+
 .accordion-content {
-  padding: 8px 4px 6px;
+  padding: 8px 10px 6px;
+  margin-top: 6px;
+  border-left: 3px solid #d7dcee;
+  background: #fdfdff;
+  border-radius: 10px;
 }
 
 .topic-image-grid {

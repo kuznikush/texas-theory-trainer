@@ -1,4 +1,5 @@
 import ZoomableImage from "../components/ZoomableImage";
+import ExpandableSection from "../components/ExpandableSection";
 import type { TheoryTopic } from "./content";
 
 const calloutLabels: Record<string, string> = {
@@ -63,14 +64,8 @@ export default function TopicPage({ topic }: { topic: TheoryTopic }) {
         <h2>Learn more</h2>
         <div className="accordion">
           {topic.sections.map((section) => (
-            <details key={section.id} className="accordion-item">
-              <summary>
-                <div className="accordion-summary">
-                  <h3>{section.title}</h3>
-                  <p className="muted">{section.summary}</p>
-                </div>
-              </summary>
-              <div className="accordion-content">
+            <ExpandableSection key={section.id} title={section.title} summary={section.summary}>
+              <>
                 {section.learnMore.map((paragraph) => (
                   <p key={paragraph}>{renderRichText(paragraph)}</p>
                 ))}
@@ -103,8 +98,8 @@ export default function TopicPage({ topic }: { topic: TheoryTopic }) {
                     </aside>
                   );
                 })}
-              </div>
-            </details>
+              </>
+            </ExpandableSection>
           ))}
         </div>
       </section>
