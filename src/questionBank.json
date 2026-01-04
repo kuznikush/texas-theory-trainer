@@ -646,8 +646,8 @@
         "text": "Neither; wait for a police officer"
       }
     ],
-    "correctChoiceId": "B",
-    "explanation": "When two vehicles arrive at the same time at a four-way stop, the driver on the left yields to the driver on the right. B is to A\u2019s right.",
+    "correctChoiceId": "A",
+    "explanation": "When two vehicles arrive at the same time at a four-way stop, the driver on the left yields to the driver on the right. A is to B\u2019s right.",
     "image": {
       "src": "/img/scenarios/scenario-001.svg",
       "alt": "Four-way stop with car A southbound and car B westbound.",
@@ -796,8 +796,8 @@
         "text": "The larger vehicle"
       }
     ],
-    "correctChoiceId": "B",
-    "explanation": "At an uncontrolled intersection, the driver on the left yields to the driver on the right. B is to A\u2019s right.",
+    "correctChoiceId": "A",
+    "explanation": "At an uncontrolled intersection, the driver on the left yields to the driver on the right. A is to B\u2019s right.",
     "image": {
       "src": "/img/scenarios/scenario-006.svg",
       "alt": "Uncontrolled intersection with A southbound and B westbound.",
@@ -1246,8 +1246,8 @@
         "text": "Whoever signals first"
       }
     ],
-    "correctChoiceId": "B",
-    "explanation": "At a four-way stop, drivers yield to the vehicle on their right. B is to A\u2019s right.",
+    "correctChoiceId": "A",
+    "explanation": "At a four-way stop, drivers yield to the vehicle on their right. A is to B\u2019s right.",
     "image": {
       "src": "/img/scenarios/scenario-021.svg",
       "alt": "Four-way stop with A turning right and B turning left.",
@@ -1426,8 +1426,8 @@
         "text": "The faster vehicle"
       }
     ],
-    "correctChoiceId": "A",
-    "explanation": "When arrival is simultaneous, the driver on the left yields to the driver on the right. A is to B\u2019s right.",
+    "correctChoiceId": "B",
+    "explanation": "When arrival is simultaneous, the driver on the left yields to the driver on the right. B is to A\u2019s right.",
     "image": {
       "src": "/img/scenarios/scenario-027.svg",
       "alt": "Two-way stop with A southbound and B eastbound.",

@@ -17,7 +17,7 @@
   <circle cx="128" cy="68" r="5" fill="#555" />
   <circle cx="128" cy="81" r="5" fill="#555" />
   <circle cx="128" cy="94" r="5" fill="#2e7d32" />
-  <path d="M 200 68 L 200 130 L 250 130" fill="none" stroke="#222" stroke-width="3" marker-end="url(#arrow)" />
+  <path d="M 200 68 L 200 130 L 150 130" fill="none" stroke="#222" stroke-width="3" marker-end="url(#arrow)" />
   <path d="M 75 150 L 130 150" fill="none" stroke="#222" stroke-width="3" marker-end="url(#arrow)" />
   <rect x="191" y="40" width="18" height="30" rx="4" fill="#2f6fed" stroke="#1b1b1b" stroke-width="1" />
   <text x="200.0" y="59.0" text-anchor="middle" font-size="12" fill="#fff" font-weight="700">A</text>
