@@ -1,6 +1,6 @@
 import { useEffect, useId, useRef, useState } from "react";
 import { resolveAssetPath } from "../utils";
-import type { TopicImage } from "../theory/content/rightOfWay";
+import type { TopicImage } from "../theory/content";
 
 export default function ZoomableImage({ image }: { image: TopicImage }) {
   const [isOpen, setIsOpen] = useState(false);
@@ -43,6 +43,7 @@ export default function ZoomableImage({ image }: { image: TopicImage }) {
         className="zoomable-image-trigger"
         onClick={() => setIsOpen(true)}
         aria-haspopup="dialog"
+        aria-labelledby={`${thumbnailCaptionId} ${thumbnailAttributionId}`}
       >
         <img src={imageSrc} alt={image.alt} loading="lazy" />
       </button>

@@ -1,10 +1,10 @@
-import type { TheoryTopic } from "../types";
+import type { TheoryTopic } from "./content";
 
 export default function TopicCard({ topic }: { topic: TheoryTopic }) {
   return (
     <a href={`#/theory/${topic.slug}`} className="topic-card">
       <div className="topic-card-emoji" aria-hidden="true">
-        {topic.emoji}
+        {topic.icon}
       </div>
       <div>
         <h3>{topic.title}</h3>
