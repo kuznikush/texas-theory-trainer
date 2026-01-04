@@ -1,6 +1,6 @@
 import { useMemo, useState } from "react";
 import type { ExamConfig, Question } from "./types";
-import { questionBank } from "./questionBank";
+import questionBankData from "./questionBank.json";
 import { shuffle } from "./utils";
 import "./app.css";
 
@@ -10,6 +10,8 @@ type AnswerState = {
     isCorrect?: boolean;
   };
 };
+
+const questionBank = questionBankData as Question[];
 
 const DEFAULT_CONFIG: ExamConfig = {
   mode: "practice",
@@ -134,7 +136,7 @@ function select(choiceId: string) {
           </button>
 
           <p className="muted small">
-            Add questions in <code>src/questionBank.ts</code>.
+            Add questions in <code>src/questionBank.json</code>.
           </p>
         </div>
       </div>
