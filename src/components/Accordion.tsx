@@ -1,5 +1,6 @@
 import type { TheoryImage, TheorySection } from "../types";
 import { resolveAssetPath } from "../utils";
+import ExpandableSection from "./ExpandableSection";
 
 const calloutLabels: Record<string, string> = {
   remember: "Remember",
@@ -18,14 +19,8 @@ export default function Accordion({
   return (
     <div className="accordion">
       {items.map((item) => (
-        <details key={item.id} className="accordion-item">
-          <summary>
-            <div className="accordion-summary">
-              <h3>{item.heading}</h3>
-              <p className="muted">{item.summary}</p>
-            </div>
-          </summary>
-          <div className="accordion-content">
+        <ExpandableSection key={item.id} title={item.heading} summary={item.summary}>
+          <>
             {item.details.map((paragraph) => (
               <p key={paragraph}>{paragraph}</p>
             ))}
@@ -64,8 +59,8 @@ export default function Accordion({
                 <p>{callout.text}</p>
               </aside>
             ))}
-          </div>
-        </details>
+          </>
+        </ExpandableSection>
       ))}
     </div>
   );
