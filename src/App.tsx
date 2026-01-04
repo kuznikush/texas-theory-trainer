@@ -21,6 +21,12 @@ const DEFAULT_CONFIG: ExamConfig = {
   timeLimitSec: 20 * 60,
 };
 
+function resolveImageSrc(src: string) {
+  if (!src.startsWith("/")) return src;
+  const base = import.meta.env.BASE_URL ?? "/";
+  return `${base}${src.replace(/^\//, "")}`;
+}
+
 function pickQuestions(bank: Question[], cfg: ExamConfig): Question[] {
   const base = cfg.shuffleQuestions ? shuffle(bank) : [...bank];
   return base.slice(0, Math.min(cfg.numQuestions, base.length)).map((q) => ({
@@ -220,7 +226,7 @@ function select(choiceId: string) {
 
         {current.image && (
           <figure className="scenario">
-            <img src={current.image.src} alt={current.image.alt} />
+            <img src={resolveImageSrc(current.image.src)} alt={current.image.alt} />
             <figcaption className="muted small">{current.image.credit}</figcaption>
           </figure>
         )}
