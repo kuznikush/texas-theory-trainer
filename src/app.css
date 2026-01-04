@@ -62,7 +62,7 @@
 }
 
 .scenario img {
-  max-width: 100%;
+  width: min(100%, 360px);
   height: auto;
   border-radius: 12px;
   border: 1px solid #e2e2e2;

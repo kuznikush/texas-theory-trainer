@@ -1529,9 +1529,9 @@
     "topic": "Signs & signals",
     "prompt": "What action is required at this sign?",
     "image": {
-      "src": "/img/scenarios/scenario-031.svg",
-      "alt": "Red stop sign on a post.",
-      "credit": "Created for this app"
+      "src": "/img/signs/stop-sign.svg",
+      "alt": "Stop sign.",
+      "credit": "Wikimedia Commons (SVG road sign)"
     },
     "choices": [
       {
@@ -1559,9 +1559,9 @@
     "topic": "Signs & signals",
     "prompt": "What does this sign tell you to do?",
     "image": {
-      "src": "/img/scenarios/scenario-032.svg",
-      "alt": "Yield sign on a post.",
-      "credit": "Created for this app"
+      "src": "/img/signs/yield-sign.svg",
+      "alt": "Yield sign.",
+      "credit": "Wikimedia Commons (SVG road sign)"
     },
     "choices": [
       {
@@ -1589,9 +1589,9 @@
     "topic": "Signs & signals",
     "prompt": "What does this sign indicate?",
     "image": {
-      "src": "/img/scenarios/scenario-033.svg",
+      "src": "/img/signs/speed-limit-45.svg",
       "alt": "Speed limit 45 sign.",
-      "credit": "Created for this app"
+      "credit": "Wikimedia Commons (SVG road sign)"
     },
     "choices": [
       {
@@ -1619,9 +1619,9 @@
     "topic": "Signs & signals",
     "prompt": "What does this sign mean?",
     "image": {
-      "src": "/img/scenarios/scenario-034.svg",
+      "src": "/img/signs/do-not-enter.svg",
       "alt": "Do not enter sign.",
-      "credit": "Created for this app"
+      "credit": "Wikimedia Commons (SVG road sign)"
     },
     "choices": [
       {
@@ -1649,9 +1649,9 @@
     "topic": "Signs & signals",
     "prompt": "This sign tells you that: ",
     "image": {
-      "src": "/img/scenarios/scenario-035.svg",
-      "alt": "One-way sign.",
-      "credit": "Created for this app"
+      "src": "/img/signs/one-way-right.svg",
+      "alt": "One-way sign pointing right.",
+      "credit": "Wikimedia Commons (SVG road sign)"
     },
     "choices": [
       {
@@ -1679,9 +1679,9 @@
     "topic": "Signs & signals",
     "prompt": "What does this sign prohibit?",
     "image": {
-      "src": "/img/scenarios/scenario-036.svg",
+      "src": "/img/signs/no-u-turn.svg",
       "alt": "No U-turn sign.",
-      "credit": "Created for this app"
+      "credit": "Wikimedia Commons (SVG road sign)"
     },
     "choices": [
       {
@@ -1709,9 +1709,9 @@
     "topic": "Signs & signals",
     "prompt": "What should you do when approaching this sign?",
     "image": {
-      "src": "/img/scenarios/scenario-037.svg",
-      "alt": "Railroad crossing sign (crossbuck).",
-      "credit": "Created for this app"
+      "src": "/img/signs/railroad-crossing.svg",
+      "alt": "Railroad crossing sign.",
+      "credit": "Wikimedia Commons (SVG road sign)"
     },
     "choices": [
       {
@@ -1739,9 +1739,9 @@
     "topic": "Signs & signals",
     "prompt": "This sign warns you that:",
     "image": {
-      "src": "/img/scenarios/scenario-038.svg",
-      "alt": "Merge ahead sign.",
-      "credit": "Created for this app"
+      "src": "/img/signs/merge-ahead.svg",
+      "alt": "Merge ahead warning sign.",
+      "credit": "Wikimedia Commons (SVG road sign)"
     },
     "choices": [
       {
@@ -1769,9 +1769,9 @@
     "topic": "Signs & signals",
     "prompt": "What does this sign indicate?",
     "image": {
-      "src": "/img/scenarios/scenario-039.svg",
-      "alt": "Pedestrian crossing sign.",
-      "credit": "Created for this app"
+      "src": "/img/signs/pedestrian-crossing.svg",
+      "alt": "Pedestrian crossing warning sign.",
+      "credit": "Wikimedia Commons (SVG road sign)"
     },
     "choices": [
       {
@@ -1799,9 +1799,9 @@
     "topic": "Signs & signals",
     "prompt": "What should you expect near this sign?",
     "image": {
-      "src": "/img/scenarios/scenario-040.svg",
-      "alt": "School crossing sign.",
-      "credit": "Created for this app"
+      "src": "/img/signs/school-crossing.svg",
+      "alt": "School crossing warning sign.",
+      "credit": "Wikimedia Commons (SVG road sign)"
     },
     "choices": [
       {
@@ -1829,9 +1829,9 @@
     "topic": "Signs & signals",
     "prompt": "What does this sign tell you about the road?",
     "image": {
-      "src": "/img/scenarios/scenario-041.svg",
+      "src": "/img/signs/curve-ahead.svg",
       "alt": "Curve ahead warning sign.",
-      "credit": "Created for this app"
+      "credit": "Wikimedia Commons (SVG road sign)"
     },
     "choices": [
       {
@@ -1859,9 +1859,9 @@
     "topic": "Signs & signals",
     "prompt": "What is the safe response to this sign?",
     "image": {
-      "src": "/img/scenarios/scenario-042.svg",
-      "alt": "Slippery when wet sign.",
-      "credit": "Created for this app"
+      "src": "/img/signs/slippery-when-wet.svg",
+      "alt": "Slippery when wet warning sign.",
+      "credit": "Wikimedia Commons (SVG road sign)"
     },
     "choices": [
       {
@@ -1889,9 +1889,9 @@
     "topic": "Signs & signals",
     "prompt": "This sign means: ",
     "image": {
-      "src": "/img/scenarios/scenario-043.svg",
+      "src": "/img/signs/lane-ends.svg",
       "alt": "Lane ends warning sign.",
-      "credit": "Created for this app"
+      "credit": "Wikimedia Commons (SVG road sign)"
     },
     "choices": [
       {
@@ -1919,9 +1919,9 @@
     "topic": "Signs & signals",
     "prompt": "What does this sign indicate?",
     "image": {
-      "src": "/img/scenarios/scenario-044.svg",
-      "alt": "No passing zone sign.",
-      "credit": "Created for this app"
+      "src": "/img/signs/no-passing-zone.svg",
+      "alt": "No passing zone warning sign.",
+      "credit": "Wikimedia Commons (SVG road sign)"
     },
     "choices": [
       {
@@ -1949,9 +1949,9 @@
     "topic": "Signs & signals",
     "prompt": "What should you expect after seeing this sign?",
     "image": {
-      "src": "/img/scenarios/scenario-045.svg",
-      "alt": "Signal ahead sign.",
-      "credit": "Created for this app"
+      "src": "/img/signs/signal-ahead.svg",
+      "alt": "Signal ahead warning sign.",
+      "credit": "Wikimedia Commons (SVG road sign)"
     },
     "choices": [
       {
@@ -1979,9 +1979,9 @@
     "topic": "Signs & signals",
     "prompt": "This sign warns you to: ",
     "image": {
-      "src": "/img/scenarios/scenario-046.svg",
-      "alt": "Stop ahead sign.",
-      "credit": "Created for this app"
+      "src": "/img/signs/stop-ahead.svg",
+      "alt": "Stop ahead warning sign.",
+      "credit": "Wikimedia Commons (SVG road sign)"
     },
     "choices": [
       {
@@ -2009,9 +2009,9 @@
     "topic": "Signs & signals",
     "prompt": "What does this sign mean for traffic flow?",
     "image": {
-      "src": "/img/scenarios/scenario-047.svg",
-      "alt": "Two-way traffic sign.",
-      "credit": "Created for this app"
+      "src": "/img/signs/two-way-traffic.svg",
+      "alt": "Two-way traffic warning sign.",
+      "credit": "Wikimedia Commons (SVG road sign)"
     },
     "choices": [
       {
@@ -2039,9 +2039,9 @@
     "topic": "Signs & signals",
     "prompt": "What does this sign tell you?",
     "image": {
-      "src": "/img/scenarios/scenario-048.svg",
-      "alt": "Divided highway ends sign.",
-      "credit": "Created for this app"
+      "src": "/img/signs/divided-highway-ends.svg",
+      "alt": "Divided highway ends warning sign.",
+      "credit": "Wikimedia Commons (SVG road sign)"
     },
     "choices": [
       {
@@ -2069,9 +2069,9 @@
     "topic": "Signs & signals",
     "prompt": "What should you do when you see this sign?",
     "image": {
-      "src": "/img/scenarios/scenario-049.svg",
-      "alt": "Roundabout ahead sign.",
-      "credit": "Created for this app"
+      "src": "/img/signs/roundabout-ahead.svg",
+      "alt": "Roundabout ahead warning sign.",
+      "credit": "Wikimedia Commons (SVG road sign)"
     },
     "choices": [
       {
@@ -2099,9 +2099,9 @@
     "topic": "Signs & signals",
     "prompt": "What does this sign tell you about turning?",
     "image": {
-      "src": "/img/scenarios/scenario-050.svg",
+      "src": "/img/signs/no-turn-on-red.svg",
       "alt": "No turn on red sign.",
-      "credit": "Created for this app"
+      "credit": "Wikimedia Commons (SVG road sign)"
     },
     "choices": [
       {
@@ -2129,9 +2129,9 @@
     "topic": "Signs & signals",
     "prompt": "How should you respond to this sign?",
     "image": {
-      "src": "/img/scenarios/scenario-051.svg",
+      "src": "/img/signs/left-turn-yield-on-green.svg",
       "alt": "Left turn yield on green sign.",
-      "credit": "Created for this app"
+      "credit": "Wikimedia Commons (SVG road sign)"
     },
     "choices": [
       {
@@ -2159,9 +2159,9 @@
     "topic": "Signs & signals",
     "prompt": "What does this sign indicate?",
     "image": {
-      "src": "/img/scenarios/scenario-052.svg",
+      "src": "/img/signs/keep-right.svg",
       "alt": "Keep right sign.",
-      "credit": "Created for this app"
+      "credit": "Wikimedia Commons (SVG road sign)"
     },
     "choices": [
       {
@@ -2189,9 +2189,9 @@
     "topic": "Signs & signals",
     "prompt": "What should you expect after this sign?",
     "image": {
-      "src": "/img/scenarios/scenario-053.svg",
+      "src": "/img/signs/road-work-ahead.svg",
       "alt": "Road work ahead sign.",
-      "credit": "Created for this app"
+      "credit": "Wikimedia Commons (SVG road sign)"
     },
     "choices": [
       {
@@ -2219,9 +2219,9 @@
     "topic": "Signs & signals",
     "prompt": "What does this sign mean?",
     "image": {
-      "src": "/img/scenarios/scenario-054.svg",
+      "src": "/img/signs/detour.svg",
       "alt": "Detour sign.",
-      "credit": "Created for this app"
+      "credit": "Wikimedia Commons (SVG road sign)"
     },
     "choices": [
       {
@@ -2249,9 +2249,9 @@
     "topic": "Signs & signals",
     "prompt": "What does this sign tell drivers?",
     "image": {
-      "src": "/img/scenarios/scenario-055.svg",
+      "src": "/img/signs/bike-lane.svg",
       "alt": "Bike lane sign.",
-      "credit": "Created for this app"
+      "credit": "Wikimedia Commons (SVG road sign)"
     },
     "choices": [
       {
@@ -2279,9 +2279,9 @@
     "topic": "Signs & signals",
     "prompt": "What is this sign warning you about?",
     "image": {
-      "src": "/img/scenarios/scenario-056.svg",
-      "alt": "Deer crossing sign.",
-      "credit": "Created for this app"
+      "src": "/img/signs/deer-crossing.svg",
+      "alt": "Deer crossing warning sign.",
+      "credit": "Wikimedia Commons (SVG road sign)"
     },
     "choices": [
       {
@@ -2309,9 +2309,9 @@
     "topic": "Signs & signals",
     "prompt": "How should you react to this sign?",
     "image": {
-      "src": "/img/scenarios/scenario-057.svg",
-      "alt": "Falling rocks sign.",
-      "credit": "Created for this app"
+      "src": "/img/signs/falling-rocks.svg",
+      "alt": "Falling rocks warning sign.",
+      "credit": "Wikimedia Commons (SVG road sign)"
     },
     "choices": [
       {
@@ -2339,9 +2339,9 @@
     "topic": "Signs & signals",
     "prompt": "What does this sign warn you about?",
     "image": {
-      "src": "/img/scenarios/scenario-058.svg",
-      "alt": "Steep hill sign.",
-      "credit": "Created for this app"
+      "src": "/img/signs/steep-hill.svg",
+      "alt": "Steep hill warning sign.",
+      "credit": "Wikimedia Commons (SVG road sign)"
     },
     "choices": [
       {
@@ -2369,9 +2369,9 @@
     "topic": "Signs & signals",
     "prompt": "What does this sign mean for taller vehicles?",
     "image": {
-      "src": "/img/scenarios/scenario-059.svg",
+      "src": "/img/signs/low-clearance-12-6.svg",
       "alt": "Low clearance 12 feet 6 inches sign.",
-      "credit": "Created for this app"
+      "credit": "Wikimedia Commons (SVG road sign)"
     },
     "choices": [
       {
@@ -2399,9 +2399,9 @@
     "topic": "Signs & signals",
     "prompt": "What should you expect near this sign?",
     "image": {
-      "src": "/img/scenarios/scenario-060.svg",
-      "alt": "Hospital ahead sign.",
-      "credit": "Created for this app"
+      "src": "/img/signs/hospital.svg",
+      "alt": "Hospital guide sign.",
+      "credit": "Wikimedia Commons (SVG road sign)"
     },
     "choices": [
       {
@@ -4923,5 +4923,1205 @@
     ],
     "correctChoiceId": "B",
     "explanation": "Hit-and-run offenses can carry serious penalties."
+  },
+  {
+    "id": "tx-img-061",
+    "topic": "Signs & signals",
+    "prompt": "What does this sign tell you?",
+    "image": {
+      "src": "/img/signs/wrong-way.svg",
+      "alt": "Wrong way sign.",
+      "credit": "Wikimedia Commons (SVG road sign)"
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "You are driving against traffic; turn around safely"
+      },
+      {
+        "id": "B",
+        "text": "The road is closed ahead"
+      },
+      {
+        "id": "C",
+        "text": "Passing is allowed"
+      },
+      {
+        "id": "D",
+        "text": "Yield to oncoming traffic only"
+      }
+    ],
+    "correctChoiceId": "A",
+    "explanation": "Wrong way signs warn that you are entering traffic in the opposite direction."
+  },
+  {
+    "id": "tx-img-062",
+    "topic": "Signs & signals",
+    "prompt": "This sign at an intersection means:",
+    "image": {
+      "src": "/img/signs/all-way-stop.svg",
+      "alt": "All-way stop sign plaque.",
+      "credit": "Wikimedia Commons (SVG road sign)"
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Only cross traffic must stop"
+      },
+      {
+        "id": "B",
+        "text": "All directions must stop and follow right-of-way rules"
+      },
+      {
+        "id": "C",
+        "text": "Stop only during heavy traffic"
+      },
+      {
+        "id": "D",
+        "text": "Yield signs are ahead"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "An all-way stop means every approach must stop and take turns based on right-of-way."
+  },
+  {
+    "id": "tx-img-063",
+    "topic": "Signs & signals",
+    "prompt": "What does this sign indicate?",
+    "image": {
+      "src": "/img/signs/speed-limit-70.svg",
+      "alt": "Speed limit 70 sign.",
+      "credit": "Wikimedia Commons (SVG road sign)"
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "The recommended speed is 70 mph"
+      },
+      {
+        "id": "B",
+        "text": "The maximum legal speed is 70 mph under normal conditions"
+      },
+      {
+        "id": "C",
+        "text": "You must drive exactly 70 mph"
+      },
+      {
+        "id": "D",
+        "text": "70 mph is only for trucks"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "A speed limit sign shows the top legal speed in good conditions unless otherwise posted."
+  },
+  {
+    "id": "tx-img-064",
+    "topic": "Signs & signals",
+    "prompt": "This sign means:",
+    "image": {
+      "src": "/img/signs/minimum-speed-45.svg",
+      "alt": "Minimum speed 45 sign.",
+      "credit": "Wikimedia Commons (SVG road sign)"
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "You must drive at least 45 mph unless conditions require slower"
+      },
+      {
+        "id": "B",
+        "text": "You must drive exactly 45 mph"
+      },
+      {
+        "id": "C",
+        "text": "45 mph is the maximum speed"
+      },
+      {
+        "id": "D",
+        "text": "45 mph is only for the left lane"
+      }
+    ],
+    "correctChoiceId": "A",
+    "explanation": "Minimum speed signs set the slowest allowed speed when conditions are normal."
+  },
+  {
+    "id": "tx-img-065",
+    "topic": "Signs & signals",
+    "prompt": "How should you drive when you see this sign?",
+    "image": {
+      "src": "/img/signs/keep-right-except-pass.svg",
+      "alt": "Keep right except to pass sign.",
+      "credit": "Wikimedia Commons (SVG road sign)"
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Use the left lane for cruising"
+      },
+      {
+        "id": "B",
+        "text": "Stay right unless you are passing"
+      },
+      {
+        "id": "C",
+        "text": "Drive on the shoulder to pass"
+      },
+      {
+        "id": "D",
+        "text": "Pass only on the right"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "This sign tells drivers to keep right and use the left lane mainly for passing."
+  },
+  {
+    "id": "tx-img-066",
+    "topic": "Signs & signals",
+    "prompt": "This sign is directed at drivers who are moving slowly. What should they do?",
+    "image": {
+      "src": "/img/signs/slower-traffic-keep-right.svg",
+      "alt": "Slower traffic keep right sign.",
+      "credit": "Wikimedia Commons (SVG road sign)"
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Move to the right lane"
+      },
+      {
+        "id": "B",
+        "text": "Stay in the left lane"
+      },
+      {
+        "id": "C",
+        "text": "Use the shoulder to allow passing"
+      },
+      {
+        "id": "D",
+        "text": "Stop until traffic clears"
+      }
+    ],
+    "correctChoiceId": "A",
+    "explanation": "The sign instructs slower vehicles to keep right so faster traffic can pass."
+  },
+  {
+    "id": "tx-img-067",
+    "topic": "Signs & signals",
+    "prompt": "What does this center lane sign mean?",
+    "image": {
+      "src": "/img/signs/center-lane-left-turn-only.svg",
+      "alt": "Center lane left turn only sign.",
+      "credit": "Wikimedia Commons (SVG road sign)"
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "The center lane is for passing"
+      },
+      {
+        "id": "B",
+        "text": "The center lane is only for left turns"
+      },
+      {
+        "id": "C",
+        "text": "The center lane is for buses only"
+      },
+      {
+        "id": "D",
+        "text": "The center lane is for parking"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "Two-way center lanes are reserved for left turns and not for passing."
+  },
+  {
+    "id": "tx-img-068",
+    "topic": "Signs & signals",
+    "prompt": "This sign tells drivers that the center lane is:",
+    "image": {
+      "src": "/img/signs/two-way-left-turn-only.svg",
+      "alt": "Two-way left turn only sign.",
+      "credit": "Wikimedia Commons (SVG road sign)"
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "For left turns from both directions only"
+      },
+      {
+        "id": "B",
+        "text": "A reversible lane for rush hour"
+      },
+      {
+        "id": "C",
+        "text": "Open for regular through traffic"
+      },
+      {
+        "id": "D",
+        "text": "For bicycles only"
+      }
+    ],
+    "correctChoiceId": "A",
+    "explanation": "A two-way left-turn lane is shared for left turns from either direction."
+  },
+  {
+    "id": "tx-img-069",
+    "topic": "Signs & signals",
+    "prompt": "Who may use the lane marked by this sign?",
+    "image": {
+      "src": "/img/signs/hov-2-plus.svg",
+      "alt": "HOV 2+ only sign.",
+      "credit": "Wikimedia Commons (SVG road sign)"
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Any vehicle during off-peak hours"
+      },
+      {
+        "id": "B",
+        "text": "Vehicles with two or more occupants"
+      },
+      {
+        "id": "C",
+        "text": "Motorcycles only"
+      },
+      {
+        "id": "D",
+        "text": "Trucks only"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "HOV 2+ signs restrict the lane to carpools meeting the occupancy requirement."
+  },
+  {
+    "id": "tx-img-070",
+    "topic": "Signs & signals",
+    "prompt": "This sign means the HOV restriction:",
+    "image": {
+      "src": "/img/signs/hov-lane-ends.svg",
+      "alt": "HOV lane ends sign.",
+      "credit": "Wikimedia Commons (SVG road sign)"
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Begins ahead"
+      },
+      {
+        "id": "B",
+        "text": "Ends and normal lane rules resume"
+      },
+      {
+        "id": "C",
+        "text": "Is enforced only at night"
+      },
+      {
+        "id": "D",
+        "text": "Is for buses only"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "HOV lane ends signs tell you that the restricted lane is ending."
+  },
+  {
+    "id": "tx-img-071",
+    "topic": "Signs & signals",
+    "prompt": "When you see this sign and the signal is flashing, you should:",
+    "image": {
+      "src": "/img/signs/ramp-metered-when-flashing.svg",
+      "alt": "Ramp metered when flashing sign.",
+      "credit": "Wikimedia Commons (SVG road sign)"
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Stop and wait for a green ramp signal"
+      },
+      {
+        "id": "B",
+        "text": "Merge without stopping"
+      },
+      {
+        "id": "C",
+        "text": "Drive on the shoulder"
+      },
+      {
+        "id": "D",
+        "text": "Turn around and use another ramp"
+      }
+    ],
+    "correctChoiceId": "A",
+    "explanation": "Ramp meters control merging by requiring drivers to stop for the signal when flashing."
+  },
+  {
+    "id": "tx-img-072",
+    "topic": "Signs & signals",
+    "prompt": "What does this sign require you to do?",
+    "image": {
+      "src": "/img/signs/do-not-block-intersection.svg",
+      "alt": "Do not block intersection sign.",
+      "credit": "Wikimedia Commons (SVG road sign)"
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Enter the intersection even if traffic is stopped"
+      },
+      {
+        "id": "B",
+        "text": "Stay out of the intersection until you can clear it"
+      },
+      {
+        "id": "C",
+        "text": "Stop only during rush hour"
+      },
+      {
+        "id": "D",
+        "text": "Block the intersection to allow turns"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "You should not enter an intersection unless you can pass through without stopping."
+  },
+  {
+    "id": "tx-img-073",
+    "topic": "Signs & signals",
+    "prompt": "This sign means the street ahead:",
+    "image": {
+      "src": "/img/signs/no-outlet.svg",
+      "alt": "No outlet warning sign.",
+      "credit": "Wikimedia Commons (SVG road sign)"
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Connects to another road"
+      },
+      {
+        "id": "B",
+        "text": "Does not provide a through route"
+      },
+      {
+        "id": "C",
+        "text": "Is closed for construction"
+      },
+      {
+        "id": "D",
+        "text": "Has a toll booth"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "No outlet signs warn that you cannot drive through to another street."
+  },
+  {
+    "id": "tx-img-074",
+    "topic": "Signs & signals",
+    "prompt": "What should you expect after seeing this sign?",
+    "image": {
+      "src": "/img/signs/dead-end.svg",
+      "alt": "Dead end warning sign.",
+      "credit": "Wikimedia Commons (SVG road sign)"
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "The road connects to a freeway"
+      },
+      {
+        "id": "B",
+        "text": "The road ends and you must turn around"
+      },
+      {
+        "id": "C",
+        "text": "A detour begins"
+      },
+      {
+        "id": "D",
+        "text": "The lane becomes one-way"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "Dead end signs warn that the road has no outlet and you must turn back."
+  },
+  {
+    "id": "tx-img-075",
+    "topic": "Signs & signals",
+    "prompt": "This sign warns that:",
+    "image": {
+      "src": "/img/signs/road-ends.svg",
+      "alt": "Road ends warning sign.",
+      "credit": "Wikimedia Commons (SVG road sign)"
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "The road will end ahead"
+      },
+      {
+        "id": "B",
+        "text": "Only trucks may continue"
+      },
+      {
+        "id": "C",
+        "text": "A bridge begins"
+      },
+      {
+        "id": "D",
+        "text": "A railroad crossing is ahead"
+      }
+    ],
+    "correctChoiceId": "A",
+    "explanation": "Road ends signs warn you to be prepared to stop or turn at the end of the road."
+  },
+  {
+    "id": "tx-img-076",
+    "topic": "Signs & signals",
+    "prompt": "What does this sign prohibit?",
+    "image": {
+      "src": "/img/signs/no-parking-anytime.svg",
+      "alt": "No parking anytime sign.",
+      "credit": "Wikimedia Commons (SVG road sign)"
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Parking at any time"
+      },
+      {
+        "id": "B",
+        "text": "Parking only at night"
+      },
+      {
+        "id": "C",
+        "text": "Stopping to load passengers"
+      },
+      {
+        "id": "D",
+        "text": "Parking longer than 2 hours"
+      }
+    ],
+    "correctChoiceId": "A",
+    "explanation": "No parking anytime signs mean you cannot park there at any time."
+  },
+  {
+    "id": "tx-img-077",
+    "topic": "Signs & signals",
+    "prompt": "This sign means you must not:",
+    "image": {
+      "src": "/img/signs/no-stopping-anytime.svg",
+      "alt": "No stopping anytime sign.",
+      "credit": "Wikimedia Commons (SVG road sign)"
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Stop even briefly"
+      },
+      {
+        "id": "B",
+        "text": "Park only on weekends"
+      },
+      {
+        "id": "C",
+        "text": "Use hazard lights"
+      },
+      {
+        "id": "D",
+        "text": "Drive below the speed limit"
+      }
+    ],
+    "correctChoiceId": "A",
+    "explanation": "No stopping anytime signs prohibit stopping, standing, or parking."
+  },
+  {
+    "id": "tx-img-078",
+    "topic": "Signs & signals",
+    "prompt": "This sign tells you that trucks:",
+    "image": {
+      "src": "/img/signs/no-trucks.svg",
+      "alt": "No trucks sign.",
+      "credit": "Wikimedia Commons (SVG road sign)"
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Are not allowed on this road"
+      },
+      {
+        "id": "B",
+        "text": "Must use the left lane"
+      },
+      {
+        "id": "C",
+        "text": "May park on the shoulder"
+      },
+      {
+        "id": "D",
+        "text": "May proceed only at night"
+      }
+    ],
+    "correctChoiceId": "A",
+    "explanation": "No trucks signs prohibit trucks from using that roadway."
+  },
+  {
+    "id": "tx-img-079",
+    "topic": "Signs & signals",
+    "prompt": "What does this sign indicate?",
+    "image": {
+      "src": "/img/signs/truck-route.svg",
+      "alt": "Truck route sign.",
+      "credit": "Wikimedia Commons (SVG road sign)"
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Trucks must take this route"
+      },
+      {
+        "id": "B",
+        "text": "Trucks are prohibited"
+      },
+      {
+        "id": "C",
+        "text": "This is a bike route"
+      },
+      {
+        "id": "D",
+        "text": "The road is closed"
+      }
+    ],
+    "correctChoiceId": "A",
+    "explanation": "Truck route signs mark designated routes for large commercial vehicles."
+  },
+  {
+    "id": "tx-img-080",
+    "topic": "Signs & signals",
+    "prompt": "This warning sign tells drivers to prepare for:",
+    "image": {
+      "src": "/img/signs/weigh-station-ahead.svg",
+      "alt": "Weigh station ahead warning sign.",
+      "credit": "Wikimedia Commons (SVG road sign)"
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "A toll booth"
+      },
+      {
+        "id": "B",
+        "text": "A truck inspection or weigh station"
+      },
+      {
+        "id": "C",
+        "text": "A school zone"
+      },
+      {
+        "id": "D",
+        "text": "A ferry crossing"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "Weigh station ahead signs warn commercial drivers to be ready to stop for inspection."
+  },
+  {
+    "id": "tx-img-081",
+    "topic": "Signs & signals",
+    "prompt": "What should you do when you see this sign near a stopped emergency vehicle?",
+    "image": {
+      "src": "/img/signs/move-over-slow-down.svg",
+      "alt": "Move over or slow down sign.",
+      "credit": "Wikimedia Commons (SVG road sign)"
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Move over a lane or slow down safely"
+      },
+      {
+        "id": "B",
+        "text": "Stop in your lane"
+      },
+      {
+        "id": "C",
+        "text": "Speed up to pass quickly"
+      },
+      {
+        "id": "D",
+        "text": "Use the shoulder to pass"
+      }
+    ],
+    "correctChoiceId": "A",
+    "explanation": "Texas law requires drivers to move over or slow down for stopped emergency vehicles."
+  },
+  {
+    "id": "tx-img-082",
+    "topic": "Signs & signals",
+    "prompt": "How should you obey this school speed sign?",
+    "image": {
+      "src": "/img/signs/school-speed-limit-flashing.svg",
+      "alt": "School speed limit when flashing sign.",
+      "credit": "Wikimedia Commons (SVG road sign)"
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Follow the lower speed only when the lights are flashing"
+      },
+      {
+        "id": "B",
+        "text": "Ignore the sign outside school hours"
+      },
+      {
+        "id": "C",
+        "text": "Follow it only on weekdays"
+      },
+      {
+        "id": "D",
+        "text": "Stop and wait for a crossing guard"
+      }
+    ],
+    "correctChoiceId": "A",
+    "explanation": "School speed limit signs with flashing beacons apply only when the lights are on."
+  },
+  {
+    "id": "tx-img-083",
+    "topic": "Signs & signals",
+    "prompt": "What should you do when you see this sign?",
+    "image": {
+      "src": "/img/signs/school-zone-ahead.svg",
+      "alt": "School zone warning sign.",
+      "credit": "Wikimedia Commons (SVG road sign)"
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Expect children and be ready to slow down"
+      },
+      {
+        "id": "B",
+        "text": "Speed up to clear the area"
+      },
+      {
+        "id": "C",
+        "text": "Use the shoulder to pass"
+      },
+      {
+        "id": "D",
+        "text": "Stop and turn around"
+      }
+    ],
+    "correctChoiceId": "A",
+    "explanation": "School zone signs warn that children may be present and speeds may be reduced."
+  },
+  {
+    "id": "tx-img-084",
+    "topic": "Signs & signals",
+    "prompt": "This sign means you must:",
+    "image": {
+      "src": "/img/signs/yield-to-pedestrians.svg",
+      "alt": "Yield to pedestrians in crosswalk sign.",
+      "credit": "Wikimedia Commons (SVG road sign)"
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Yield to pedestrians in the crosswalk"
+      },
+      {
+        "id": "B",
+        "text": "Honk to clear the crosswalk"
+      },
+      {
+        "id": "C",
+        "text": "Stop only if a signal is red"
+      },
+      {
+        "id": "D",
+        "text": "Pass pedestrians if they are walking slowly"
+      }
+    ],
+    "correctChoiceId": "A",
+    "explanation": "Drivers must yield to pedestrians who are lawfully within the crosswalk."
+  },
+  {
+    "id": "tx-img-085",
+    "topic": "Signs & signals",
+    "prompt": "What does this lane-use sign require?",
+    "image": {
+      "src": "/img/signs/left-lane-must-turn-left.svg",
+      "alt": "Left lane must turn left sign.",
+      "credit": "Wikimedia Commons (SVG road sign)"
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Vehicles in the left lane must turn left"
+      },
+      {
+        "id": "B",
+        "text": "Left turns are optional"
+      },
+      {
+        "id": "C",
+        "text": "Left lane is for passing only"
+      },
+      {
+        "id": "D",
+        "text": "Left lane is closed"
+      }
+    ],
+    "correctChoiceId": "A",
+    "explanation": "Lane-use signs tell you which movements are allowed from a specific lane."
+  },
+  {
+    "id": "tx-img-086",
+    "topic": "Signs & signals",
+    "prompt": "This sign means that drivers in the right lane must:",
+    "image": {
+      "src": "/img/signs/right-lane-must-turn-right.svg",
+      "alt": "Right lane must turn right sign.",
+      "credit": "Wikimedia Commons (SVG road sign)"
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Turn right"
+      },
+      {
+        "id": "B",
+        "text": "Go straight only"
+      },
+      {
+        "id": "C",
+        "text": "Turn left"
+      },
+      {
+        "id": "D",
+        "text": "Stop and wait"
+      }
+    ],
+    "correctChoiceId": "A",
+    "explanation": "Mandatory movement signs show which turn must be made from a lane."
+  },
+  {
+    "id": "tx-img-087",
+    "topic": "Signs & signals",
+    "prompt": "This sign prohibits:",
+    "image": {
+      "src": "/img/signs/no-left-turn.svg",
+      "alt": "No left turn sign.",
+      "credit": "Wikimedia Commons (SVG road sign)"
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Left turns"
+      },
+      {
+        "id": "B",
+        "text": "Right turns"
+      },
+      {
+        "id": "C",
+        "text": "U-turns"
+      },
+      {
+        "id": "D",
+        "text": "Going straight"
+      }
+    ],
+    "correctChoiceId": "A",
+    "explanation": "The sign tells drivers not to make a left turn at that location."
+  },
+  {
+    "id": "tx-img-088",
+    "topic": "Signs & signals",
+    "prompt": "What does this sign prohibit?",
+    "image": {
+      "src": "/img/signs/no-right-turn.svg",
+      "alt": "No right turn sign.",
+      "credit": "Wikimedia Commons (SVG road sign)"
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Right turns"
+      },
+      {
+        "id": "B",
+        "text": "Left turns"
+      },
+      {
+        "id": "C",
+        "text": "U-turns"
+      },
+      {
+        "id": "D",
+        "text": "Going straight"
+      }
+    ],
+    "correctChoiceId": "A",
+    "explanation": "The sign indicates right turns are not allowed."
+  },
+  {
+    "id": "tx-img-089",
+    "topic": "Signs & signals",
+    "prompt": "What does this sign mean?",
+    "image": {
+      "src": "/img/signs/no-turns.svg",
+      "alt": "No turns sign.",
+      "credit": "Wikimedia Commons (SVG road sign)"
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "No left or right turns allowed"
+      },
+      {
+        "id": "B",
+        "text": "Turns allowed only on green"
+      },
+      {
+        "id": "C",
+        "text": "U-turns required"
+      },
+      {
+        "id": "D",
+        "text": "Right turns only"
+      }
+    ],
+    "correctChoiceId": "A",
+    "explanation": "No turns signs prohibit turning in either direction."
+  },
+  {
+    "id": "tx-img-090",
+    "topic": "Signs & signals",
+    "prompt": "This sign tells you to:",
+    "image": {
+      "src": "/img/signs/stop-here-on-red.svg",
+      "alt": "Stop here on red sign.",
+      "credit": "Wikimedia Commons (SVG road sign)"
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Stop at the marked line when the signal is red"
+      },
+      {
+        "id": "B",
+        "text": "Stop only if pedestrians are present"
+      },
+      {
+        "id": "C",
+        "text": "Stop past the crosswalk"
+      },
+      {
+        "id": "D",
+        "text": "Proceed without stopping"
+      }
+    ],
+    "correctChoiceId": "A",
+    "explanation": "Stop here on red signs show the location where vehicles must stop for a red light."
+  },
+  {
+    "id": "tx-img-091",
+    "topic": "Signs & signals",
+    "prompt": "This sign means:",
+    "image": {
+      "src": "/img/signs/do-not-pass.svg",
+      "alt": "Do not pass sign.",
+      "credit": "Wikimedia Commons (SVG road sign)"
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Passing other vehicles is prohibited"
+      },
+      {
+        "id": "B",
+        "text": "Passing is required"
+      },
+      {
+        "id": "C",
+        "text": "Pass only on the shoulder"
+      },
+      {
+        "id": "D",
+        "text": "Passing is allowed for trucks only"
+      }
+    ],
+    "correctChoiceId": "A",
+    "explanation": "Do not pass signs mark areas where passing is unsafe."
+  },
+  {
+    "id": "tx-img-092",
+    "topic": "Signs & signals",
+    "prompt": "This sign warns that:",
+    "image": {
+      "src": "/img/signs/passing-lane-ends.svg",
+      "alt": "Passing lane ends warning sign.",
+      "credit": "Wikimedia Commons (SVG road sign)"
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "The passing lane will end; merge safely"
+      },
+      {
+        "id": "B",
+        "text": "Two lanes are being added"
+      },
+      {
+        "id": "C",
+        "text": "Passing is required"
+      },
+      {
+        "id": "D",
+        "text": "A detour begins"
+      }
+    ],
+    "correctChoiceId": "A",
+    "explanation": "Passing lane ends signs warn drivers to merge before the lane drops."
+  },
+  {
+    "id": "tx-img-093",
+    "topic": "Signs & signals",
+    "prompt": "What does this sign tell you about the roadway?",
+    "image": {
+      "src": "/img/signs/added-lane.svg",
+      "alt": "Added lane warning sign.",
+      "credit": "Wikimedia Commons (SVG road sign)"
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "A new lane is added; no merge is needed"
+      },
+      {
+        "id": "B",
+        "text": "A lane is ending"
+      },
+      {
+        "id": "C",
+        "text": "The road narrows to one lane"
+      },
+      {
+        "id": "D",
+        "text": "Only trucks may use the right lane"
+      }
+    ],
+    "correctChoiceId": "A",
+    "explanation": "Added lane signs indicate a new lane joins the roadway, so traffic does not have to merge."
+  },
+  {
+    "id": "tx-img-094",
+    "topic": "Signs & signals",
+    "prompt": "This sign warns that:",
+    "image": {
+      "src": "/img/signs/lane-ends-merge-left.svg",
+      "alt": "Lane ends merge left warning sign.",
+      "credit": "Wikimedia Commons (SVG road sign)"
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Your lane ends; merge left"
+      },
+      {
+        "id": "B",
+        "text": "A lane is added on the right"
+      },
+      {
+        "id": "C",
+        "text": "You must stop"
+      },
+      {
+        "id": "D",
+        "text": "You may pass on the shoulder"
+      }
+    ],
+    "correctChoiceId": "A",
+    "explanation": "Lane ends signs tell you to merge in the direction shown before the lane drops."
+  },
+  {
+    "id": "tx-img-095",
+    "topic": "Signs & signals",
+    "prompt": "What does this warning sign mean?",
+    "image": {
+      "src": "/img/signs/one-lane-bridge.svg",
+      "alt": "One lane bridge warning sign.",
+      "credit": "Wikimedia Commons (SVG road sign)"
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "The bridge is closed"
+      },
+      {
+        "id": "B",
+        "text": "The bridge is narrow; traffic may need to yield"
+      },
+      {
+        "id": "C",
+        "text": "Only trucks may use the bridge"
+      },
+      {
+        "id": "D",
+        "text": "A detour is ahead"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "One-lane bridge signs warn that the bridge is narrow and traffic may need to take turns."
+  },
+  {
+    "id": "tx-img-096",
+    "topic": "Signs & signals",
+    "prompt": "This sign warns that you should:",
+    "image": {
+      "src": "/img/signs/reduced-speed-ahead.svg",
+      "alt": "Reduced speed ahead warning sign.",
+      "credit": "Wikimedia Commons (SVG road sign)"
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Prepare to slow for a lower speed limit"
+      },
+      {
+        "id": "B",
+        "text": "Speed up to pass traffic"
+      },
+      {
+        "id": "C",
+        "text": "Stop immediately"
+      },
+      {
+        "id": "D",
+        "text": "Change lanes"
+      }
+    ],
+    "correctChoiceId": "A",
+    "explanation": "Reduced speed ahead signs warn that a lower speed zone is coming."
+  },
+  {
+    "id": "tx-img-097",
+    "topic": "Signs & signals",
+    "prompt": "When you pass this sign, you should:",
+    "image": {
+      "src": "/img/signs/end-school-zone.svg",
+      "alt": "End school zone sign.",
+      "credit": "Wikimedia Commons (SVG road sign)"
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Resume the normal speed limit if it is safe"
+      },
+      {
+        "id": "B",
+        "text": "Stop and wait for a crossing guard"
+      },
+      {
+        "id": "C",
+        "text": "Continue at the school speed limit"
+      },
+      {
+        "id": "D",
+        "text": "Turn on hazard lights"
+      }
+    ],
+    "correctChoiceId": "A",
+    "explanation": "End school zone signs mark where the special school-zone speed ends."
+  },
+  {
+    "id": "tx-img-098",
+    "topic": "Signs & signals",
+    "prompt": "What does this work zone sign indicate?",
+    "image": {
+      "src": "/img/signs/work-zone-speed-limit-45.svg",
+      "alt": "Work zone speed 45 sign.",
+      "credit": "Wikimedia Commons (SVG road sign)"
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "The work zone speed limit is 45 mph"
+      },
+      {
+        "id": "B",
+        "text": "Work zone ends ahead"
+      },
+      {
+        "id": "C",
+        "text": "Trucks only at 45 mph"
+      },
+      {
+        "id": "D",
+        "text": "The normal speed limit is 45 mph"
+      }
+    ],
+    "correctChoiceId": "A",
+    "explanation": "Work zone speed signs set the maximum speed for the construction area."
+  },
+  {
+    "id": "tx-img-099",
+    "topic": "Signs & signals",
+    "prompt": "This sign warns drivers that:",
+    "image": {
+      "src": "/img/signs/speed-limit-ahead.svg",
+      "alt": "Speed limit ahead warning sign.",
+      "credit": "Wikimedia Commons (SVG road sign)"
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "A new speed limit is coming; be ready to adjust"
+      },
+      {
+        "id": "B",
+        "text": "The current speed limit has ended"
+      },
+      {
+        "id": "C",
+        "text": "You must stop"
+      },
+      {
+        "id": "D",
+        "text": "Passing is required"
+      }
+    ],
+    "correctChoiceId": "A",
+    "explanation": "Speed limit ahead signs warn you to prepare for a change in the posted limit."
+  },
+  {
+    "id": "tx-img-100",
+    "topic": "Signs & signals",
+    "prompt": "What should you expect after seeing this sign?",
+    "image": {
+      "src": "/img/signs/toll-road-ahead.svg",
+      "alt": "Toll road ahead warning sign.",
+      "credit": "Wikimedia Commons (SVG road sign)"
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "A toll collection point ahead"
+      },
+      {
+        "id": "B",
+        "text": "A free parking area"
+      },
+      {
+        "id": "C",
+        "text": "A rest area"
+      },
+      {
+        "id": "D",
+        "text": "A school zone"
+      }
+    ],
+    "correctChoiceId": "A",
+    "explanation": "Toll road ahead signs alert drivers to upcoming toll collection."
   }
 ]
