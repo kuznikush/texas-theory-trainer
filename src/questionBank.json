@@ -1,0 +1,327 @@
+[
+  {
+    "id": "tx-001",
+    "topic": "Right-of-way",
+    "prompt": "At a four-way stop, you and another vehicle arrive at the same time from perpendicular streets. What should you do?",
+    "choices": [
+      { "id": "A", "text": "Yield to the vehicle on your right" },
+      { "id": "B", "text": "Proceed first because you stopped fully" },
+      { "id": "C", "text": "Wave the other driver through regardless" },
+      { "id": "D", "text": "Proceed only if you are turning left" }
+    ],
+    "correctChoiceId": "A",
+    "explanation": "At a four-way stop, the driver on the left yields to the driver on the right when arrival is simultaneous."
+  },
+  {
+    "id": "tx-002",
+    "topic": "Signs & signals",
+    "prompt": "A solid red traffic light means you should:",
+    "choices": [
+      { "id": "A", "text": "Slow down and proceed with caution" },
+      { "id": "B", "text": "Stop and remain stopped until the light changes" },
+      { "id": "C", "text": "Stop only if pedestrians are present" },
+      { "id": "D", "text": "Proceed if turning left" }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "A steady red signal requires a complete stop and you must remain stopped until a green or a permitted turn on red is allowed."
+  },
+  {
+    "id": "tx-003",
+    "topic": "Right-of-way",
+    "prompt": "When entering a highway from an on-ramp in Texas, who has the right-of-way?",
+    "choices": [
+      { "id": "A", "text": "Vehicles already on the highway" },
+      { "id": "B", "text": "Vehicles on the on-ramp" },
+      { "id": "C", "text": "The vehicle with the higher speed" },
+      { "id": "D", "text": "The vehicle signaling first" }
+    ],
+    "correctChoiceId": "A",
+    "explanation": "Drivers merging from an on-ramp must yield to traffic already on the highway."
+  },
+  {
+    "id": "tx-004",
+    "topic": "Signs & signals",
+    "prompt": "A flashing yellow traffic signal at an intersection means:",
+    "choices": [
+      { "id": "A", "text": "Stop completely, then proceed" },
+      { "id": "B", "text": "Proceed with caution and be prepared to stop" },
+      { "id": "C", "text": "Stop and wait for a green light" },
+      { "id": "D", "text": "The intersection is closed" }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "Flashing yellow indicates caution. Slow down and be prepared to yield or stop."
+  },
+  {
+    "id": "tx-005",
+    "topic": "Right-of-way",
+    "prompt": "You are turning left at an intersection with a green light but no green arrow. What must you do?",
+    "choices": [
+      { "id": "A", "text": "Yield to oncoming traffic and pedestrians" },
+      { "id": "B", "text": "Turn immediately because you have a green light" },
+      { "id": "C", "text": "Yield only to pedestrians" },
+      { "id": "D", "text": "Wait only if you see a red light" }
+    ],
+    "correctChoiceId": "A",
+    "explanation": "A steady green without a protected arrow requires yielding to oncoming traffic and pedestrians before turning left."
+  },
+  {
+    "id": "tx-006",
+    "topic": "Signs & signals",
+    "prompt": "A steady yellow traffic light warns that:",
+    "choices": [
+      { "id": "A", "text": "You must stop immediately, even if unsafe" },
+      { "id": "B", "text": "The light is about to turn red" },
+      { "id": "C", "text": "Pedestrians may start crossing now" },
+      { "id": "D", "text": "You may proceed at full speed" }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "Yellow means the signal is changing to red. You should stop if it is safe to do so."
+  },
+  {
+    "id": "tx-007",
+    "topic": "Right-of-way",
+    "prompt": "At an uncontrolled intersection (no signs or signals), who has the right-of-way?",
+    "choices": [
+      { "id": "A", "text": "The driver on the left" },
+      { "id": "B", "text": "The driver on the right" },
+      { "id": "C", "text": "The faster vehicle" },
+      { "id": "D", "text": "The larger vehicle" }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "When two vehicles arrive at an uncontrolled intersection at the same time, the driver on the left yields to the driver on the right."
+  },
+  {
+    "id": "tx-008",
+    "topic": "Signs & signals",
+    "prompt": "A red arrow pointing right means:",
+    "choices": [
+      { "id": "A", "text": "You may turn right after slowing" },
+      { "id": "B", "text": "You must stop and may not turn right" },
+      { "id": "C", "text": "You may turn right if no pedestrians are present" },
+      { "id": "D", "text": "You may turn right only from the left lane" }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "A red arrow prohibits movement in that direction. You must stop and wait for a green arrow."
+  },
+  {
+    "id": "tx-009",
+    "topic": "Right-of-way",
+    "prompt": "A school bus is stopped with flashing red lights and a stop arm on your roadway. What must you do?",
+    "choices": [
+      { "id": "A", "text": "Slow and pass if no children are visible" },
+      { "id": "B", "text": "Stop and remain stopped until the lights stop flashing" },
+      { "id": "C", "text": "Stop only if you are behind the bus" },
+      { "id": "D", "text": "Pass carefully on the left" }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "Texas law requires drivers to stop for a school bus with flashing red lights and a stop arm on the same roadway."
+  },
+  {
+    "id": "tx-010",
+    "topic": "Signs & signals",
+    "prompt": "A white rectangular sign with black lettering is usually a:",
+    "choices": [
+      { "id": "A", "text": "Warning sign" },
+      { "id": "B", "text": "Regulatory sign" },
+      { "id": "C", "text": "Guide sign" },
+      { "id": "D", "text": "Construction sign" }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "Regulatory signs are typically white rectangles with black lettering indicating rules such as speed limits or lane use."
+  },
+  {
+    "id": "tx-011",
+    "topic": "Right-of-way",
+    "prompt": "You are making a right turn at a green light while a pedestrian is crossing in the crosswalk. Who has the right-of-way?",
+    "choices": [
+      { "id": "A", "text": "The turning vehicle" },
+      { "id": "B", "text": "The pedestrian in the crosswalk" },
+      { "id": "C", "text": "Whoever entered the intersection first" },
+      { "id": "D", "text": "The vehicle with a green light" }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "Pedestrians in a crosswalk have the right-of-way, even when the traffic signal is green for vehicles."
+  },
+  {
+    "id": "tx-012",
+    "topic": "Signs & signals",
+    "prompt": "What does a diamond-shaped yellow sign indicate?",
+    "choices": [
+      { "id": "A", "text": "Regulatory information" },
+      { "id": "B", "text": "Warning of road conditions or hazards" },
+      { "id": "C", "text": "Services available ahead" },
+      { "id": "D", "text": "Recreation area" }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "Yellow diamond-shaped signs warn drivers of upcoming conditions or hazards."
+  },
+  {
+    "id": "tx-013",
+    "topic": "Right-of-way",
+    "prompt": "You are at a stop sign and a cross street has no stop sign. What should you do?",
+    "choices": [
+      { "id": "A", "text": "Proceed after a rolling stop" },
+      { "id": "B", "text": "Yield to traffic on the cross street" },
+      { "id": "C", "text": "Proceed if no cars are close" },
+      { "id": "D", "text": "Honk and go" }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "Drivers at a stop sign must yield to vehicles on the cross street that are not required to stop."
+  },
+  {
+    "id": "tx-014",
+    "topic": "Signs & signals",
+    "prompt": "A green arrow displayed with a red light means:",
+    "choices": [
+      { "id": "A", "text": "You may proceed only in the direction of the arrow" },
+      { "id": "B", "text": "You may proceed straight only" },
+      { "id": "C", "text": "Stop completely before turning" },
+      { "id": "D", "text": "Yield to all traffic and pedestrians" }
+    ],
+    "correctChoiceId": "A",
+    "explanation": "A green arrow indicates a protected movement in the arrow’s direction, even if the red light is still showing."
+  },
+  {
+    "id": "tx-015",
+    "topic": "Right-of-way",
+    "prompt": "At a two-way stop, a vehicle on the through road is approaching. You are at the stop sign. What should you do?",
+    "choices": [
+      { "id": "A", "text": "Proceed if you can beat the approaching car" },
+      { "id": "B", "text": "Yield to the vehicle on the through road" },
+      { "id": "C", "text": "Proceed if the other vehicle is turning" },
+      { "id": "D", "text": "Go first because you stopped" }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "Traffic on the through road has the right-of-way. Drivers at the stop sign must yield."
+  },
+  {
+    "id": "tx-016",
+    "topic": "Signs & signals",
+    "prompt": "An octagonal red sign means:",
+    "choices": [
+      { "id": "A", "text": "Yield" },
+      { "id": "B", "text": "Stop" },
+      { "id": "C", "text": "Do not enter" },
+      { "id": "D", "text": "Railroad crossing" }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "Only stop signs are octagonal and red. They require a complete stop."
+  },
+  {
+    "id": "tx-017",
+    "topic": "Right-of-way",
+    "prompt": "When an emergency vehicle with flashing lights is approaching from behind, you must:",
+    "choices": [
+      { "id": "A", "text": "Maintain your speed and stay in your lane" },
+      { "id": "B", "text": "Pull to the right and stop" },
+      { "id": "C", "text": "Accelerate to clear the lane" },
+      { "id": "D", "text": "Move left and continue driving" }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "Texas law requires drivers to yield by pulling to the right and stopping for approaching emergency vehicles using lights and sirens."
+  },
+  {
+    "id": "tx-018",
+    "topic": "Signs & signals",
+    "prompt": "A flashing red traffic signal should be treated as:",
+    "choices": [
+      { "id": "A", "text": "A yield sign" },
+      { "id": "B", "text": "A stop sign" },
+      { "id": "C", "text": "A green light" },
+      { "id": "D", "text": "A caution signal you may ignore" }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "Flashing red means stop completely and proceed only when safe, just like a stop sign."
+  },
+  {
+    "id": "tx-019",
+    "topic": "Right-of-way",
+    "prompt": "You are entering a roundabout and a vehicle is already circulating. What should you do?",
+    "choices": [
+      { "id": "A", "text": "Enter quickly; circulating traffic must yield" },
+      { "id": "B", "text": "Yield to the circulating vehicle" },
+      { "id": "C", "text": "Stop and wait for a signal from the other driver" },
+      { "id": "D", "text": "Enter only if turning right" }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "Drivers entering a roundabout must yield to vehicles already in the roundabout."
+  },
+  {
+    "id": "tx-020",
+    "topic": "Signs & signals",
+    "prompt": "A yellow pennant-shaped sign on the left side of the road indicates:",
+    "choices": [
+      { "id": "A", "text": "No passing zone" },
+      { "id": "B", "text": "School zone" },
+      { "id": "C", "text": "Railroad crossing ahead" },
+      { "id": "D", "text": "Divided highway ends" }
+    ],
+    "correctChoiceId": "A",
+    "explanation": "A yellow pennant-shaped sign marks the beginning of a no passing zone."
+  },
+  {
+    "id": "tx-021",
+    "topic": "Right-of-way",
+    "prompt": "You are approaching a crosswalk without a signal, and a pedestrian steps into the crosswalk. What should you do?",
+    "choices": [
+      { "id": "A", "text": "Proceed if you can clear the crosswalk" },
+      { "id": "B", "text": "Yield and stop for the pedestrian" },
+      { "id": "C", "text": "Honk to alert the pedestrian" },
+      { "id": "D", "text": "Slow down but continue through" }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "Pedestrians in a crosswalk have the right-of-way. You must yield and stop."
+  },
+  {
+    "id": "tx-022",
+    "topic": "Signs & signals",
+    "prompt": "A rectangular sign with the words 'DO NOT ENTER' means:",
+    "choices": [
+      { "id": "A", "text": "You may enter if no traffic is present" },
+      { "id": "B", "text": "You must not enter the roadway" },
+      { "id": "C", "text": "You may enter to turn around" },
+      { "id": "D", "text": "You must yield before entering" }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "A 'DO NOT ENTER' sign prohibits entering the roadway."
+  },
+  {
+    "id": "tx-023",
+    "topic": "Right-of-way",
+    "prompt": "When two vehicles arrive at the same time at a four-way stop and one is turning left, who has the right-of-way?",
+    "choices": [
+      { "id": "A", "text": "The vehicle turning left" },
+      { "id": "B", "text": "The vehicle going straight" },
+      { "id": "C", "text": "The larger vehicle" },
+      { "id": "D", "text": "The vehicle that signals first" }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "At a four-way stop, a vehicle turning left must yield to a vehicle going straight when arriving at the same time."
+  },
+  {
+    "id": "tx-024",
+    "topic": "Signs & signals",
+    "prompt": "What does a solid white line between lanes indicate?",
+    "choices": [
+      { "id": "A", "text": "Lane changes are discouraged or prohibited" },
+      { "id": "B", "text": "Passing is allowed on both sides" },
+      { "id": "C", "text": "Traffic is moving in opposite directions" },
+      { "id": "D", "text": "The lane is reserved for buses only" }
+    ],
+    "correctChoiceId": "A",
+    "explanation": "A solid white line indicates lane changes should be avoided or are not permitted."
+  },
+  {
+    "id": "tx-025",
+    "topic": "Right-of-way",
+    "prompt": "You are turning right on red where permitted. Who must you yield to?",
+    "choices": [
+      { "id": "A", "text": "Only oncoming vehicles" },
+      { "id": "B", "text": "All cross traffic, pedestrians, and cyclists" },
+      { "id": "C", "text": "Only pedestrians in marked crosswalks" },
+      { "id": "D", "text": "Only vehicles turning left" }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "After a complete stop, you must yield to all cross traffic and pedestrians before turning right on red."
+  }
+]
