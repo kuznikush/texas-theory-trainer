@@ -1,5 +1,21 @@
 import TopicCard from "../theory/TopicCard";
-import { theoryTopics } from "../data/theoryTopics";
+import {
+  laneChangesPassingTopic,
+  rightOfWayTopic,
+  rulesPenaltiesTopic,
+  signsSignalsTopic,
+  specialSituationsTopic,
+  speedSpaceTopic,
+} from "./content";
+
+const theoryTopics = [
+  rightOfWayTopic,
+  signsSignalsTopic,
+  speedSpaceTopic,
+  laneChangesPassingTopic,
+  specialSituationsTopic,
+  rulesPenaltiesTopic,
+];
 
 export default function TheoryLandingPage() {
   return (

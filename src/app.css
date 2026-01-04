@@ -207,7 +207,7 @@ a {
 .zoomable-image-grid {
   display: grid;
   gap: 16px;
-  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
   justify-items: center;
   margin: 12px 0;
 }
@@ -219,7 +219,7 @@ a {
   border: 1px solid #e5e5e5;
   padding: 12px;
   width: 100%;
-  max-width: 260px;
+  max-width: 240px;
 }
 
 .zoomable-image-trigger {
@@ -233,7 +233,7 @@ a {
 }
 
 .zoomable-image-trigger img {
-  max-width: 240px;
+  max-width: 220px;
   width: 100%;
   height: auto;
 }

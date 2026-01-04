@@ -1,12 +1,23 @@
-import Accordion from "../components/Accordion";
-import { theoryImageManifest, theoryTopics } from "../data/theoryTopics";
-import RightOfWayTopicPage from "./RightOfWayTopicPage";
+import {
+  laneChangesPassingTopic,
+  rightOfWayTopic,
+  rulesPenaltiesTopic,
+  signsSignalsTopic,
+  specialSituationsTopic,
+  speedSpaceTopic,
+} from "./content";
+import TopicPage from "./TopicPage";
+
+const theoryTopics = [
+  rightOfWayTopic,
+  signsSignalsTopic,
+  speedSpaceTopic,
+  laneChangesPassingTopic,
+  specialSituationsTopic,
+  rulesPenaltiesTopic,
+];
 
 export default function TheoryTopicPage({ slug }: { slug: string }) {
-  if (slug === "right-of-way") {
-    return <RightOfWayTopicPage />;
-  }
-
   const topic = theoryTopics.find((item) => item.slug === slug);
 
   if (!topic) {
@@ -21,49 +32,5 @@ export default function TheoryTopicPage({ slug }: { slug: string }) {
     );
   }
 
-  return (
-    <article className="theory-topic">
-      <header className="theory-topic-header">
-        <div>
-          <p className="breadcrumb">
-            <a href="#/theory">← Back to Theory</a>
-          </p>
-          <h1>
-            {topic.emoji} {topic.title}
-          </h1>
-          <p className="muted">{topic.intro}</p>
-        </div>
-      </header>
-
-      <section className="card">
-        <h2>What you’ll learn</h2>
-        <p>{topic.intro}</p>
-      </section>
-
-      <section className="card">
-        <h2>TL;DR</h2>
-        <ul>
-          {topic.tldr.map((bullet) => (
-            <li key={bullet}>{bullet}</li>
-          ))}
-        </ul>
-      </section>
-
-      <section className="card">
-        <h2>Learn more</h2>
-        <Accordion items={topic.sections} imageManifest={theoryImageManifest} />
-      </section>
-
-      {topic.commonMistakes && (
-        <section className="card callout mistake">
-          <h2>Common mistakes</h2>
-          <ul>
-            {topic.commonMistakes.map((mistake) => (
-              <li key={mistake}>{mistake}</li>
-            ))}
-          </ul>
-        </section>
-      )}
-    </article>
-  );
+  return <TopicPage topic={topic} />;
 }
