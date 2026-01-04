@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300" role="img">
+  <rect width="400" height="300" fill="#e7efe7" />
+  <rect x="190" y="230" width="20" height="50" fill="#7a7a7a" />
+  <polygon points="200,70 270,150 200,230 130,150" fill="#f2c94c" stroke="#cda12c" stroke-width="3" />
+  <text x="200" y="136.0" text-anchor="middle" font-size="12" fill="#111" font-weight="700">DIVIDED</text><text x="200" y="150.0" text-anchor="middle" font-size="12" fill="#111" font-weight="700">HWY</text><text x="200" y="164.0" text-anchor="middle" font-size="12" fill="#111" font-weight="700">ENDS</text>
+</svg>

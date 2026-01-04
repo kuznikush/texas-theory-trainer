@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300" role="img">
+  <rect width="400" height="300" fill="#e7efe7" />
+  <rect x="190" y="230" width="20" height="50" fill="#7a7a7a" />
+  <rect x="125" y="85" width="150" height="130" rx="8" fill="#f2994a" stroke="#c97a33" stroke-width="3" />
+  <text x="200" y="150.0" text-anchor="middle" font-size="16" fill="#111" font-weight="700">DETOUR</text>
+</svg>
