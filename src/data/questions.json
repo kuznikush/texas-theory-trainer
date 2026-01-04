@@ -1,0 +1,4927 @@
+[
+  {
+    "id": "tx-001",
+    "topic": "Right-of-way",
+    "prompt": "At a four-way stop, you and another vehicle arrive at the same time from perpendicular streets. What should you do?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Yield to the vehicle on your right"
+      },
+      {
+        "id": "B",
+        "text": "Proceed first because you stopped fully"
+      },
+      {
+        "id": "C",
+        "text": "Wave the other driver through regardless"
+      },
+      {
+        "id": "D",
+        "text": "Proceed only if you are turning left"
+      }
+    ],
+    "correctChoiceId": "A",
+    "explanation": "At a four-way stop, the driver on the left yields to the driver on the right when arrival is simultaneous."
+  },
+  {
+    "id": "tx-002",
+    "topic": "Signs & signals",
+    "prompt": "A solid red traffic light means you should:",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Slow down and proceed with caution"
+      },
+      {
+        "id": "B",
+        "text": "Stop and remain stopped until the light changes"
+      },
+      {
+        "id": "C",
+        "text": "Stop only if pedestrians are present"
+      },
+      {
+        "id": "D",
+        "text": "Proceed if turning left"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "A steady red signal requires a complete stop and you must remain stopped until a green or a permitted turn on red is allowed."
+  },
+  {
+    "id": "tx-003",
+    "topic": "Right-of-way",
+    "prompt": "When entering a highway from an on-ramp in Texas, who has the right-of-way?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Vehicles already on the highway"
+      },
+      {
+        "id": "B",
+        "text": "Vehicles on the on-ramp"
+      },
+      {
+        "id": "C",
+        "text": "The vehicle with the higher speed"
+      },
+      {
+        "id": "D",
+        "text": "The vehicle signaling first"
+      }
+    ],
+    "correctChoiceId": "A",
+    "explanation": "Drivers merging from an on-ramp must yield to traffic already on the highway."
+  },
+  {
+    "id": "tx-004",
+    "topic": "Signs & signals",
+    "prompt": "A flashing yellow traffic signal at an intersection means:",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Stop completely, then proceed"
+      },
+      {
+        "id": "B",
+        "text": "Proceed with caution and be prepared to stop"
+      },
+      {
+        "id": "C",
+        "text": "Stop and wait for a green light"
+      },
+      {
+        "id": "D",
+        "text": "The intersection is closed"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "Flashing yellow indicates caution. Slow down and be prepared to yield or stop."
+  },
+  {
+    "id": "tx-005",
+    "topic": "Right-of-way",
+    "prompt": "You are turning left at an intersection with a green light but no green arrow. What must you do?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Yield to oncoming traffic and pedestrians"
+      },
+      {
+        "id": "B",
+        "text": "Turn immediately because you have a green light"
+      },
+      {
+        "id": "C",
+        "text": "Yield only to pedestrians"
+      },
+      {
+        "id": "D",
+        "text": "Wait only if you see a red light"
+      }
+    ],
+    "correctChoiceId": "A",
+    "explanation": "A steady green without a protected arrow requires yielding to oncoming traffic and pedestrians before turning left."
+  },
+  {
+    "id": "tx-006",
+    "topic": "Signs & signals",
+    "prompt": "A steady yellow traffic light warns that:",
+    "choices": [
+      {
+        "id": "A",
+        "text": "You must stop immediately, even if unsafe"
+      },
+      {
+        "id": "B",
+        "text": "The light is about to turn red"
+      },
+      {
+        "id": "C",
+        "text": "Pedestrians may start crossing now"
+      },
+      {
+        "id": "D",
+        "text": "You may proceed at full speed"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "Yellow means the signal is changing to red. You should stop if it is safe to do so."
+  },
+  {
+    "id": "tx-007",
+    "topic": "Right-of-way",
+    "prompt": "At an uncontrolled intersection (no signs or signals), who has the right-of-way?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "The driver on the left"
+      },
+      {
+        "id": "B",
+        "text": "The driver on the right"
+      },
+      {
+        "id": "C",
+        "text": "The faster vehicle"
+      },
+      {
+        "id": "D",
+        "text": "The larger vehicle"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "When two vehicles arrive at an uncontrolled intersection at the same time, the driver on the left yields to the driver on the right."
+  },
+  {
+    "id": "tx-008",
+    "topic": "Signs & signals",
+    "prompt": "A red arrow pointing right means:",
+    "choices": [
+      {
+        "id": "A",
+        "text": "You may turn right after slowing"
+      },
+      {
+        "id": "B",
+        "text": "You must stop and may not turn right"
+      },
+      {
+        "id": "C",
+        "text": "You may turn right if no pedestrians are present"
+      },
+      {
+        "id": "D",
+        "text": "You may turn right only from the left lane"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "A red arrow prohibits movement in that direction. You must stop and wait for a green arrow."
+  },
+  {
+    "id": "tx-009",
+    "topic": "Right-of-way",
+    "prompt": "A school bus is stopped with flashing red lights and a stop arm on your roadway. What must you do?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Slow and pass if no children are visible"
+      },
+      {
+        "id": "B",
+        "text": "Stop and remain stopped until the lights stop flashing"
+      },
+      {
+        "id": "C",
+        "text": "Stop only if you are behind the bus"
+      },
+      {
+        "id": "D",
+        "text": "Pass carefully on the left"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "Texas law requires drivers to stop for a school bus with flashing red lights and a stop arm on the same roadway."
+  },
+  {
+    "id": "tx-010",
+    "topic": "Signs & signals",
+    "prompt": "A white rectangular sign with black lettering is usually a:",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Warning sign"
+      },
+      {
+        "id": "B",
+        "text": "Regulatory sign"
+      },
+      {
+        "id": "C",
+        "text": "Guide sign"
+      },
+      {
+        "id": "D",
+        "text": "Construction sign"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "Regulatory signs are typically white rectangles with black lettering indicating rules such as speed limits or lane use."
+  },
+  {
+    "id": "tx-011",
+    "topic": "Right-of-way",
+    "prompt": "You are making a right turn at a green light while a pedestrian is crossing in the crosswalk. Who has the right-of-way?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "The turning vehicle"
+      },
+      {
+        "id": "B",
+        "text": "The pedestrian in the crosswalk"
+      },
+      {
+        "id": "C",
+        "text": "Whoever entered the intersection first"
+      },
+      {
+        "id": "D",
+        "text": "The vehicle with a green light"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "Pedestrians in a crosswalk have the right-of-way, even when the traffic signal is green for vehicles."
+  },
+  {
+    "id": "tx-012",
+    "topic": "Signs & signals",
+    "prompt": "What does a diamond-shaped yellow sign indicate?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Regulatory information"
+      },
+      {
+        "id": "B",
+        "text": "Warning of road conditions or hazards"
+      },
+      {
+        "id": "C",
+        "text": "Services available ahead"
+      },
+      {
+        "id": "D",
+        "text": "Recreation area"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "Yellow diamond-shaped signs warn drivers of upcoming conditions or hazards."
+  },
+  {
+    "id": "tx-013",
+    "topic": "Right-of-way",
+    "prompt": "You are at a stop sign and a cross street has no stop sign. What should you do?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Proceed after a rolling stop"
+      },
+      {
+        "id": "B",
+        "text": "Yield to traffic on the cross street"
+      },
+      {
+        "id": "C",
+        "text": "Proceed if no cars are close"
+      },
+      {
+        "id": "D",
+        "text": "Honk and go"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "Drivers at a stop sign must yield to vehicles on the cross street that are not required to stop."
+  },
+  {
+    "id": "tx-014",
+    "topic": "Signs & signals",
+    "prompt": "A green arrow displayed with a red light means:",
+    "choices": [
+      {
+        "id": "A",
+        "text": "You may proceed only in the direction of the arrow"
+      },
+      {
+        "id": "B",
+        "text": "You may proceed straight only"
+      },
+      {
+        "id": "C",
+        "text": "Stop completely before turning"
+      },
+      {
+        "id": "D",
+        "text": "Yield to all traffic and pedestrians"
+      }
+    ],
+    "correctChoiceId": "A",
+    "explanation": "A green arrow indicates a protected movement in the arrow\u2019s direction, even if the red light is still showing."
+  },
+  {
+    "id": "tx-015",
+    "topic": "Right-of-way",
+    "prompt": "At a two-way stop, a vehicle on the through road is approaching. You are at the stop sign. What should you do?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Proceed if you can beat the approaching car"
+      },
+      {
+        "id": "B",
+        "text": "Yield to the vehicle on the through road"
+      },
+      {
+        "id": "C",
+        "text": "Proceed if the other vehicle is turning"
+      },
+      {
+        "id": "D",
+        "text": "Go first because you stopped"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "Traffic on the through road has the right-of-way. Drivers at the stop sign must yield."
+  },
+  {
+    "id": "tx-016",
+    "topic": "Signs & signals",
+    "prompt": "An octagonal red sign means:",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Yield"
+      },
+      {
+        "id": "B",
+        "text": "Stop"
+      },
+      {
+        "id": "C",
+        "text": "Do not enter"
+      },
+      {
+        "id": "D",
+        "text": "Railroad crossing"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "Only stop signs are octagonal and red. They require a complete stop."
+  },
+  {
+    "id": "tx-017",
+    "topic": "Right-of-way",
+    "prompt": "When an emergency vehicle with flashing lights is approaching from behind, you must:",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Maintain your speed and stay in your lane"
+      },
+      {
+        "id": "B",
+        "text": "Pull to the right and stop"
+      },
+      {
+        "id": "C",
+        "text": "Accelerate to clear the lane"
+      },
+      {
+        "id": "D",
+        "text": "Move left and continue driving"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "Texas law requires drivers to yield by pulling to the right and stopping for approaching emergency vehicles using lights and sirens."
+  },
+  {
+    "id": "tx-018",
+    "topic": "Signs & signals",
+    "prompt": "A flashing red traffic signal should be treated as:",
+    "choices": [
+      {
+        "id": "A",
+        "text": "A yield sign"
+      },
+      {
+        "id": "B",
+        "text": "A stop sign"
+      },
+      {
+        "id": "C",
+        "text": "A green light"
+      },
+      {
+        "id": "D",
+        "text": "A caution signal you may ignore"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "Flashing red means stop completely and proceed only when safe, just like a stop sign."
+  },
+  {
+    "id": "tx-019",
+    "topic": "Right-of-way",
+    "prompt": "You are entering a roundabout and a vehicle is already circulating. What should you do?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Enter quickly; circulating traffic must yield"
+      },
+      {
+        "id": "B",
+        "text": "Yield to the circulating vehicle"
+      },
+      {
+        "id": "C",
+        "text": "Stop and wait for a signal from the other driver"
+      },
+      {
+        "id": "D",
+        "text": "Enter only if turning right"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "Drivers entering a roundabout must yield to vehicles already in the roundabout."
+  },
+  {
+    "id": "tx-020",
+    "topic": "Signs & signals",
+    "prompt": "A yellow pennant-shaped sign on the left side of the road indicates:",
+    "choices": [
+      {
+        "id": "A",
+        "text": "No passing zone"
+      },
+      {
+        "id": "B",
+        "text": "School zone"
+      },
+      {
+        "id": "C",
+        "text": "Railroad crossing ahead"
+      },
+      {
+        "id": "D",
+        "text": "Divided highway ends"
+      }
+    ],
+    "correctChoiceId": "A",
+    "explanation": "A yellow pennant-shaped sign marks the beginning of a no passing zone."
+  },
+  {
+    "id": "tx-021",
+    "topic": "Right-of-way",
+    "prompt": "You are approaching a crosswalk without a signal, and a pedestrian steps into the crosswalk. What should you do?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Proceed if you can clear the crosswalk"
+      },
+      {
+        "id": "B",
+        "text": "Yield and stop for the pedestrian"
+      },
+      {
+        "id": "C",
+        "text": "Honk to alert the pedestrian"
+      },
+      {
+        "id": "D",
+        "text": "Slow down but continue through"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "Pedestrians in a crosswalk have the right-of-way. You must yield and stop."
+  },
+  {
+    "id": "tx-022",
+    "topic": "Signs & signals",
+    "prompt": "A rectangular sign with the words 'DO NOT ENTER' means:",
+    "choices": [
+      {
+        "id": "A",
+        "text": "You may enter if no traffic is present"
+      },
+      {
+        "id": "B",
+        "text": "You must not enter the roadway"
+      },
+      {
+        "id": "C",
+        "text": "You may enter to turn around"
+      },
+      {
+        "id": "D",
+        "text": "You must yield before entering"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "A 'DO NOT ENTER' sign prohibits entering the roadway."
+  },
+  {
+    "id": "tx-023",
+    "topic": "Right-of-way",
+    "prompt": "When two vehicles arrive at the same time at a four-way stop and one is turning left, who has the right-of-way?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "The vehicle turning left"
+      },
+      {
+        "id": "B",
+        "text": "The vehicle going straight"
+      },
+      {
+        "id": "C",
+        "text": "The larger vehicle"
+      },
+      {
+        "id": "D",
+        "text": "The vehicle that signals first"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "At a four-way stop, a vehicle turning left must yield to a vehicle going straight when arriving at the same time."
+  },
+  {
+    "id": "tx-024",
+    "topic": "Signs & signals",
+    "prompt": "What does a solid white line between lanes indicate?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Lane changes are discouraged or prohibited"
+      },
+      {
+        "id": "B",
+        "text": "Passing is allowed on both sides"
+      },
+      {
+        "id": "C",
+        "text": "Traffic is moving in opposite directions"
+      },
+      {
+        "id": "D",
+        "text": "The lane is reserved for buses only"
+      }
+    ],
+    "correctChoiceId": "A",
+    "explanation": "A solid white line indicates lane changes should be avoided or are not permitted."
+  },
+  {
+    "id": "tx-025",
+    "topic": "Right-of-way",
+    "prompt": "You are turning right on red where permitted. Who must you yield to?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Only oncoming vehicles"
+      },
+      {
+        "id": "B",
+        "text": "All cross traffic, pedestrians, and cyclists"
+      },
+      {
+        "id": "C",
+        "text": "Only pedestrians in marked crosswalks"
+      },
+      {
+        "id": "D",
+        "text": "Only vehicles turning left"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "After a complete stop, you must yield to all cross traffic and pedestrians before turning right on red."
+  },
+  {
+    "id": "tx-img-001",
+    "topic": "Right-of-way",
+    "prompt": "At the four-way stop shown, both A and B arrive at the same time. Who goes first?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Vehicle A"
+      },
+      {
+        "id": "B",
+        "text": "Vehicle B"
+      },
+      {
+        "id": "C",
+        "text": "They should go together"
+      },
+      {
+        "id": "D",
+        "text": "Neither; wait for a police officer"
+      }
+    ],
+    "correctChoiceId": "A",
+    "explanation": "When two vehicles arrive at the same time at a four-way stop, the driver on the left yields to the driver on the right. A is to B\u2019s right.",
+    "image": {
+      "src": "/img/scenarios/scenario-001.svg",
+      "alt": "Four-way stop with car A southbound and car B westbound.",
+      "credit": "Created for this app"
+    }
+  },
+  {
+    "id": "tx-img-002",
+    "topic": "Right-of-way",
+    "prompt": "Vehicle A is stopped at a stop sign on the side street. Vehicle B is on the through road. Who goes first?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Vehicle A"
+      },
+      {
+        "id": "B",
+        "text": "Vehicle B"
+      },
+      {
+        "id": "C",
+        "text": "Whichever signals first"
+      },
+      {
+        "id": "D",
+        "text": "They should go together"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "Traffic on the through road has the right-of-way. The driver at the stop sign must yield.",
+    "image": {
+      "src": "/img/scenarios/scenario-002.svg",
+      "alt": "Side street with stop sign for A, B on through road.",
+      "credit": "Created for this app"
+    }
+  },
+  {
+    "id": "tx-img-003",
+    "topic": "Right-of-way",
+    "prompt": "A is turning left on a green light. B is going straight through oncoming. Who goes first?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Vehicle A"
+      },
+      {
+        "id": "B",
+        "text": "Vehicle B"
+      },
+      {
+        "id": "C",
+        "text": "They should go together"
+      },
+      {
+        "id": "D",
+        "text": "A goes only if B flashes headlights"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "A left turn on a green light must yield to oncoming traffic going straight.",
+    "image": {
+      "src": "/img/scenarios/scenario-003.svg",
+      "alt": "Signalized intersection with A turning left and B going straight.",
+      "credit": "Created for this app"
+    }
+  },
+  {
+    "id": "tx-img-004",
+    "topic": "Signs & signals",
+    "prompt": "A wants to turn right on red. B has a green light going straight. Who goes first?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Vehicle A"
+      },
+      {
+        "id": "B",
+        "text": "Vehicle B"
+      },
+      {
+        "id": "C",
+        "text": "They should go together"
+      },
+      {
+        "id": "D",
+        "text": "Whoever is closer"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "Right turn on red is permitted only after a stop and must yield to cross traffic with a green light.",
+    "image": {
+      "src": "/img/scenarios/scenario-004.svg",
+      "alt": "Signalized intersection with A at red turning right and B moving through on green.",
+      "credit": "Created for this app"
+    }
+  },
+  {
+    "id": "tx-img-005",
+    "topic": "Right-of-way",
+    "prompt": "A is entering the main road from a yield sign. B is already on the main road. Who goes first?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Vehicle A"
+      },
+      {
+        "id": "B",
+        "text": "Vehicle B"
+      },
+      {
+        "id": "C",
+        "text": "They should go together"
+      },
+      {
+        "id": "D",
+        "text": "A goes first because it is merging"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "A yield sign means the entering driver must let main-road traffic go first.",
+    "image": {
+      "src": "/img/scenarios/scenario-005.svg",
+      "alt": "Yield sign for A entering from the side, B traveling on the main road.",
+      "credit": "Created for this app"
+    }
+  },
+  {
+    "id": "tx-img-006",
+    "topic": "Right-of-way",
+    "prompt": "There are no signs or signals. Both A and B arrive at the same time. Who goes first?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Vehicle A"
+      },
+      {
+        "id": "B",
+        "text": "Vehicle B"
+      },
+      {
+        "id": "C",
+        "text": "They should go together"
+      },
+      {
+        "id": "D",
+        "text": "The larger vehicle"
+      }
+    ],
+    "correctChoiceId": "A",
+    "explanation": "At an uncontrolled intersection, the driver on the left yields to the driver on the right. A is to B\u2019s right.",
+    "image": {
+      "src": "/img/scenarios/scenario-006.svg",
+      "alt": "Uncontrolled intersection with A southbound and B westbound.",
+      "credit": "Created for this app"
+    }
+  },
+  {
+    "id": "tx-img-007",
+    "topic": "Right-of-way",
+    "prompt": "A is stopped at a stop sign on the side street. B is on the through road. Who goes first?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Vehicle A"
+      },
+      {
+        "id": "B",
+        "text": "Vehicle B"
+      },
+      {
+        "id": "C",
+        "text": "They should go together"
+      },
+      {
+        "id": "D",
+        "text": "Whoever arrived first"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "The driver on the side street must yield to traffic on the through road.",
+    "image": {
+      "src": "/img/scenarios/scenario-007.svg",
+      "alt": "Stop sign for A on the east approach, B on the main road.",
+      "credit": "Created for this app"
+    }
+  },
+  {
+    "id": "tx-img-008",
+    "topic": "Right-of-way",
+    "prompt": "At the four-way stop, A arrived first. B and C arrived after A. Who goes first?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Vehicle A"
+      },
+      {
+        "id": "B",
+        "text": "Vehicle B"
+      },
+      {
+        "id": "C",
+        "text": "Vehicle C"
+      },
+      {
+        "id": "D",
+        "text": "B and C together"
+      }
+    ],
+    "correctChoiceId": "A",
+    "explanation": "At a four-way stop, the first vehicle to come to a complete stop goes first.",
+    "image": {
+      "src": "/img/scenarios/scenario-008.svg",
+      "alt": "Four-way stop with cars A, B, and C waiting.",
+      "credit": "Created for this app"
+    }
+  },
+  {
+    "id": "tx-img-009",
+    "topic": "Signs & signals",
+    "prompt": "A has a protected green left arrow. B has a red light. Who goes first?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Vehicle A"
+      },
+      {
+        "id": "B",
+        "text": "Vehicle B"
+      },
+      {
+        "id": "C",
+        "text": "They should go together"
+      },
+      {
+        "id": "D",
+        "text": "Whoever is closer"
+      }
+    ],
+    "correctChoiceId": "A",
+    "explanation": "A green arrow gives A a protected turn; cross traffic with a red light must wait.",
+    "image": {
+      "src": "/img/scenarios/scenario-009.svg",
+      "alt": "Traffic signal with a protected left turn for A and red for B.",
+      "credit": "Created for this app"
+    }
+  },
+  {
+    "id": "tx-img-010",
+    "topic": "Signs & signals",
+    "prompt": "A faces a red right arrow. B has a green light going straight. Who goes first?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Vehicle A"
+      },
+      {
+        "id": "B",
+        "text": "Vehicle B"
+      },
+      {
+        "id": "C",
+        "text": "They should go together"
+      },
+      {
+        "id": "D",
+        "text": "A can go after slowing"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "A red arrow means A must stop and wait. B proceeds on green.",
+    "image": {
+      "src": "/img/scenarios/scenario-010.svg",
+      "alt": "Signalized intersection with A facing a red right arrow and B with green.",
+      "credit": "Created for this app"
+    }
+  },
+  {
+    "id": "tx-img-011",
+    "topic": "Right-of-way",
+    "prompt": "B is stopped at a stop sign on the side street. A is on the through road. Who goes first?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Vehicle A"
+      },
+      {
+        "id": "B",
+        "text": "Vehicle B"
+      },
+      {
+        "id": "C",
+        "text": "They should go together"
+      },
+      {
+        "id": "D",
+        "text": "The faster vehicle"
+      }
+    ],
+    "correctChoiceId": "A",
+    "explanation": "Traffic on the main road has the right-of-way; the driver at the stop sign must wait.",
+    "image": {
+      "src": "/img/scenarios/scenario-011.svg",
+      "alt": "Through road with A traveling and B waiting at a stop sign.",
+      "credit": "Created for this app"
+    }
+  },
+  {
+    "id": "tx-img-012",
+    "topic": "Right-of-way",
+    "prompt": "At a two-way stop, A is turning left and B is going straight. Who goes first?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Vehicle A"
+      },
+      {
+        "id": "B",
+        "text": "Vehicle B"
+      },
+      {
+        "id": "C",
+        "text": "They should go together"
+      },
+      {
+        "id": "D",
+        "text": "Whoever signals first"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "A left turn must yield to a vehicle going straight from the opposite direction.",
+    "image": {
+      "src": "/img/scenarios/scenario-012.svg",
+      "alt": "Two-way stop with A turning left and B going straight.",
+      "credit": "Created for this app"
+    }
+  },
+  {
+    "id": "tx-img-013",
+    "topic": "Signs & signals",
+    "prompt": "A faces a flashing red signal. B has no stop sign. Who goes first?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Vehicle A"
+      },
+      {
+        "id": "B",
+        "text": "Vehicle B"
+      },
+      {
+        "id": "C",
+        "text": "They should go together"
+      },
+      {
+        "id": "D",
+        "text": "A goes first because it stopped"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "A flashing red is treated like a stop sign, so A must yield to cross traffic.",
+    "image": {
+      "src": "/img/scenarios/scenario-013.svg",
+      "alt": "Flashing red signal for A and cross traffic for B.",
+      "credit": "Created for this app"
+    }
+  },
+  {
+    "id": "tx-img-014",
+    "topic": "Signs & signals",
+    "prompt": "A has a flashing yellow signal on the main road. B is at a stop sign. Who goes first?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Vehicle A"
+      },
+      {
+        "id": "B",
+        "text": "Vehicle B"
+      },
+      {
+        "id": "C",
+        "text": "They should go together"
+      },
+      {
+        "id": "D",
+        "text": "B goes first because A must stop"
+      }
+    ],
+    "correctChoiceId": "A",
+    "explanation": "Flashing yellow means proceed with caution; B must stop and yield at the stop sign.",
+    "image": {
+      "src": "/img/scenarios/scenario-014.svg",
+      "alt": "Flashing yellow for A on the main road and a stop sign for B.",
+      "credit": "Created for this app"
+    }
+  },
+  {
+    "id": "tx-img-015",
+    "topic": "Right-of-way",
+    "prompt": "At a T-intersection, A is on the terminating road with a yield sign. B is on the through road. Who goes first?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Vehicle A"
+      },
+      {
+        "id": "B",
+        "text": "Vehicle B"
+      },
+      {
+        "id": "C",
+        "text": "They should go together"
+      },
+      {
+        "id": "D",
+        "text": "A goes first because it is entering"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "Drivers facing a yield sign must let through traffic go first.",
+    "image": {
+      "src": "/img/scenarios/scenario-015.svg",
+      "alt": "T-intersection with a yield sign for A and B on the through road.",
+      "credit": "Created for this app"
+    }
+  },
+  {
+    "id": "tx-img-016",
+    "topic": "Signs & signals",
+    "prompt": "A has a green light going straight. B wants to turn right on a red light. Who goes first?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Vehicle A"
+      },
+      {
+        "id": "B",
+        "text": "Vehicle B"
+      },
+      {
+        "id": "C",
+        "text": "They should go together"
+      },
+      {
+        "id": "D",
+        "text": "B can go because it is turning right"
+      }
+    ],
+    "correctChoiceId": "A",
+    "explanation": "Traffic with a green light goes first. Right on red must yield after stopping.",
+    "image": {
+      "src": "/img/scenarios/scenario-016.svg",
+      "alt": "Green light for A, red light for B turning right.",
+      "credit": "Created for this app"
+    }
+  },
+  {
+    "id": "tx-img-017",
+    "topic": "Right-of-way",
+    "prompt": "At a two-way stop, A and B arrive at the same time. Who goes first?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Vehicle A"
+      },
+      {
+        "id": "B",
+        "text": "Vehicle B"
+      },
+      {
+        "id": "C",
+        "text": "They should go together"
+      },
+      {
+        "id": "D",
+        "text": "Whoever signals first"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "When arrival is simultaneous, the driver on the left yields to the driver on the right. B is to A\u2019s right.",
+    "image": {
+      "src": "/img/scenarios/scenario-017.svg",
+      "alt": "Two-way stop with A westbound and B southbound.",
+      "credit": "Created for this app"
+    }
+  },
+  {
+    "id": "tx-img-018",
+    "topic": "Right-of-way",
+    "prompt": "At an uncontrolled T-intersection, A is on the through road and B is turning left from the side road. Who goes first?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Vehicle A"
+      },
+      {
+        "id": "B",
+        "text": "Vehicle B"
+      },
+      {
+        "id": "C",
+        "text": "They should go together"
+      },
+      {
+        "id": "D",
+        "text": "B goes first because it is turning"
+      }
+    ],
+    "correctChoiceId": "A",
+    "explanation": "Vehicles on the through road have the right-of-way over vehicles entering from a side road.",
+    "image": {
+      "src": "/img/scenarios/scenario-018.svg",
+      "alt": "Uncontrolled T-intersection with A on the through road and B turning left from the side.",
+      "credit": "Created for this app"
+    }
+  },
+  {
+    "id": "tx-img-019",
+    "topic": "Right-of-way",
+    "prompt": "A is turning left on a green light. B is going straight through the intersection. Who goes first?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Vehicle A"
+      },
+      {
+        "id": "B",
+        "text": "Vehicle B"
+      },
+      {
+        "id": "C",
+        "text": "They should go together"
+      },
+      {
+        "id": "D",
+        "text": "A goes first because it is already turning"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "A left turn on green must yield to oncoming traffic going straight.",
+    "image": {
+      "src": "/img/scenarios/scenario-019.svg",
+      "alt": "Signalized intersection with A turning left and B going straight.",
+      "credit": "Created for this app"
+    }
+  },
+  {
+    "id": "tx-img-020",
+    "topic": "Right-of-way",
+    "prompt": "A is turning right from a stop sign onto the main road. B is already on the main road. Who goes first?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Vehicle A"
+      },
+      {
+        "id": "B",
+        "text": "Vehicle B"
+      },
+      {
+        "id": "C",
+        "text": "They should go together"
+      },
+      {
+        "id": "D",
+        "text": "A goes first because it is turning right"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "Drivers turning from a stop sign must yield to traffic already on the main road.",
+    "image": {
+      "src": "/img/scenarios/scenario-020.svg",
+      "alt": "Stop sign for A turning right onto a main road with B approaching.",
+      "credit": "Created for this app"
+    }
+  },
+  {
+    "id": "tx-img-021",
+    "topic": "Right-of-way",
+    "prompt": "At the four-way stop, A is turning right and B is turning left. Both arrive at the same time. Who goes first?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Vehicle A"
+      },
+      {
+        "id": "B",
+        "text": "Vehicle B"
+      },
+      {
+        "id": "C",
+        "text": "They should go together"
+      },
+      {
+        "id": "D",
+        "text": "Whoever signals first"
+      }
+    ],
+    "correctChoiceId": "A",
+    "explanation": "At a four-way stop, drivers yield to the vehicle on their right. A is to B\u2019s right.",
+    "image": {
+      "src": "/img/scenarios/scenario-021.svg",
+      "alt": "Four-way stop with A turning right and B turning left.",
+      "credit": "Created for this app"
+    }
+  },
+  {
+    "id": "tx-img-022",
+    "topic": "Right-of-way",
+    "prompt": "At the two-way stop, A and B arrive at the same time. Who goes first?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Vehicle A"
+      },
+      {
+        "id": "B",
+        "text": "Vehicle B"
+      },
+      {
+        "id": "C",
+        "text": "They should go together"
+      },
+      {
+        "id": "D",
+        "text": "Whoever signals first"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "When two vehicles stop at the same time, the driver on the left yields to the driver on the right. B is to A\u2019s right.",
+    "image": {
+      "src": "/img/scenarios/scenario-022.svg",
+      "alt": "Two-way stop with A northbound and B eastbound.",
+      "credit": "Created for this app"
+    }
+  },
+  {
+    "id": "tx-img-023",
+    "topic": "Right-of-way",
+    "prompt": "A is turning left from a stop sign. B is on the main road going straight. Who goes first?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Vehicle A"
+      },
+      {
+        "id": "B",
+        "text": "Vehicle B"
+      },
+      {
+        "id": "C",
+        "text": "They should go together"
+      },
+      {
+        "id": "D",
+        "text": "A goes first because it stopped"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "The driver at the stop sign must yield to traffic on the main road.",
+    "image": {
+      "src": "/img/scenarios/scenario-023.svg",
+      "alt": "Stop sign for A turning left, B traveling straight on the main road.",
+      "credit": "Created for this app"
+    }
+  },
+  {
+    "id": "tx-img-024",
+    "topic": "Right-of-way",
+    "prompt": "A is turning right on a green light while B is going straight on the cross street with a green light. Who goes first?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Vehicle A"
+      },
+      {
+        "id": "B",
+        "text": "Vehicle B"
+      },
+      {
+        "id": "C",
+        "text": "They should go together"
+      },
+      {
+        "id": "D",
+        "text": "A goes first because it is turning right"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "A right turn on green must yield to cross traffic that has the green light.",
+    "image": {
+      "src": "/img/scenarios/scenario-024.svg",
+      "alt": "Green lights for A turning right and B going straight on the cross street.",
+      "credit": "Created for this app"
+    }
+  },
+  {
+    "id": "tx-img-025",
+    "topic": "Right-of-way",
+    "prompt": "A is turning right on green and B is turning left on green from the opposite direction. Who goes first?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Vehicle A"
+      },
+      {
+        "id": "B",
+        "text": "Vehicle B"
+      },
+      {
+        "id": "C",
+        "text": "They should go together"
+      },
+      {
+        "id": "D",
+        "text": "Whoever signals first"
+      }
+    ],
+    "correctChoiceId": "A",
+    "explanation": "A right turn generally proceeds while the opposing left turn must yield to oncoming traffic.",
+    "image": {
+      "src": "/img/scenarios/scenario-025.svg",
+      "alt": "Opposing turns on green with A turning right and B turning left.",
+      "credit": "Created for this app"
+    }
+  },
+  {
+    "id": "tx-img-026",
+    "topic": "Right-of-way",
+    "prompt": "A is at a yield sign on the side street. B is on the main road. Who goes first?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Vehicle A"
+      },
+      {
+        "id": "B",
+        "text": "Vehicle B"
+      },
+      {
+        "id": "C",
+        "text": "They should go together"
+      },
+      {
+        "id": "D",
+        "text": "A goes first because it is entering"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "A yield sign requires A to let through traffic go first.",
+    "image": {
+      "src": "/img/scenarios/scenario-026.svg",
+      "alt": "Yield sign for A with B traveling on the main road.",
+      "credit": "Created for this app"
+    }
+  },
+  {
+    "id": "tx-img-027",
+    "topic": "Right-of-way",
+    "prompt": "At the two-way stop, A and B arrive at the same time. Who goes first?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Vehicle A"
+      },
+      {
+        "id": "B",
+        "text": "Vehicle B"
+      },
+      {
+        "id": "C",
+        "text": "They should go together"
+      },
+      {
+        "id": "D",
+        "text": "The faster vehicle"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "When arrival is simultaneous, the driver on the left yields to the driver on the right. B is to A\u2019s right.",
+    "image": {
+      "src": "/img/scenarios/scenario-027.svg",
+      "alt": "Two-way stop with A southbound and B eastbound.",
+      "credit": "Created for this app"
+    }
+  },
+  {
+    "id": "tx-img-028",
+    "topic": "Right-of-way",
+    "prompt": "A is going straight on a green light. B is turning left from the opposite direction. Who goes first?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Vehicle A"
+      },
+      {
+        "id": "B",
+        "text": "Vehicle B"
+      },
+      {
+        "id": "C",
+        "text": "They should go together"
+      },
+      {
+        "id": "D",
+        "text": "B goes first because it is turning"
+      }
+    ],
+    "correctChoiceId": "A",
+    "explanation": "A vehicle turning left must yield to oncoming traffic going straight on green.",
+    "image": {
+      "src": "/img/scenarios/scenario-028.svg",
+      "alt": "Green lights with A going straight and B turning left from the opposite direction.",
+      "credit": "Created for this app"
+    }
+  },
+  {
+    "id": "tx-img-029",
+    "topic": "Right-of-way",
+    "prompt": "A is going straight on the main road. B is turning left from a stop sign. Who goes first?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Vehicle A"
+      },
+      {
+        "id": "B",
+        "text": "Vehicle B"
+      },
+      {
+        "id": "C",
+        "text": "They should go together"
+      },
+      {
+        "id": "D",
+        "text": "B goes first because it stopped"
+      }
+    ],
+    "correctChoiceId": "A",
+    "explanation": "The driver at the stop sign must yield to traffic on the main road.",
+    "image": {
+      "src": "/img/scenarios/scenario-029.svg",
+      "alt": "A on the main road and B turning left from a stop sign.",
+      "credit": "Created for this app"
+    }
+  },
+  {
+    "id": "tx-img-030",
+    "topic": "Right-of-way",
+    "prompt": "At the three-way stop, A arrived first, then B and C arrived together. Who goes first?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Vehicle A"
+      },
+      {
+        "id": "B",
+        "text": "Vehicle B"
+      },
+      {
+        "id": "C",
+        "text": "Vehicle C"
+      },
+      {
+        "id": "D",
+        "text": "B and C together"
+      }
+    ],
+    "correctChoiceId": "A",
+    "explanation": "The first vehicle to stop goes first. After A goes, B and C would follow by the right-of-way rules.",
+    "image": {
+      "src": "/img/scenarios/scenario-030.svg",
+      "alt": "Three-way stop with vehicles A, B, and C waiting.",
+      "credit": "Created for this app"
+    }
+  },
+  {
+    "id": "tx-img-031",
+    "topic": "Signs & signals",
+    "prompt": "What action is required at this sign?",
+    "image": {
+      "src": "/img/scenarios/scenario-031.svg",
+      "alt": "Red stop sign on a post.",
+      "credit": "Created for this app"
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Come to a complete stop before the line"
+      },
+      {
+        "id": "B",
+        "text": "Slow down and proceed without stopping"
+      },
+      {
+        "id": "C",
+        "text": "Stop only if other cars are present"
+      },
+      {
+        "id": "D",
+        "text": "Yield to traffic on your left only"
+      }
+    ],
+    "correctChoiceId": "A",
+    "explanation": "A stop sign always requires a full stop before entering the intersection."
+  },
+  {
+    "id": "tx-img-032",
+    "topic": "Signs & signals",
+    "prompt": "What does this sign tell you to do?",
+    "image": {
+      "src": "/img/scenarios/scenario-032.svg",
+      "alt": "Yield sign on a post.",
+      "credit": "Created for this app"
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Speed up to merge quickly"
+      },
+      {
+        "id": "B",
+        "text": "Slow down and give right-of-way to traffic"
+      },
+      {
+        "id": "C",
+        "text": "Stop every time, even if the way is clear"
+      },
+      {
+        "id": "D",
+        "text": "Proceed without checking for pedestrians"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "Yield means you must slow, look, and let other traffic go first if needed."
+  },
+  {
+    "id": "tx-img-033",
+    "topic": "Signs & signals",
+    "prompt": "What does this sign indicate?",
+    "image": {
+      "src": "/img/scenarios/scenario-033.svg",
+      "alt": "Speed limit 45 sign.",
+      "credit": "Created for this app"
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Minimum speed is 45 mph"
+      },
+      {
+        "id": "B",
+        "text": "Advisory speed for a curve"
+      },
+      {
+        "id": "C",
+        "text": "Maximum lawful speed is 45 mph in good conditions"
+      },
+      {
+        "id": "D",
+        "text": "You must drive exactly 45 mph"
+      }
+    ],
+    "correctChoiceId": "C",
+    "explanation": "A speed limit sign shows the maximum legal speed under normal conditions."
+  },
+  {
+    "id": "tx-img-034",
+    "topic": "Signs & signals",
+    "prompt": "What does this sign mean?",
+    "image": {
+      "src": "/img/scenarios/scenario-034.svg",
+      "alt": "Do not enter sign.",
+      "credit": "Created for this app"
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "No U-turns allowed"
+      },
+      {
+        "id": "B",
+        "text": "Do not drive into this roadway"
+      },
+      {
+        "id": "C",
+        "text": "One-way traffic ahead"
+      },
+      {
+        "id": "D",
+        "text": "Road closed to trucks only"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "Do not enter means the roadway is not open to traffic in your direction."
+  },
+  {
+    "id": "tx-img-035",
+    "topic": "Signs & signals",
+    "prompt": "This sign tells you that: ",
+    "image": {
+      "src": "/img/scenarios/scenario-035.svg",
+      "alt": "One-way sign.",
+      "credit": "Created for this app"
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Traffic may move in either direction"
+      },
+      {
+        "id": "B",
+        "text": "Traffic flows only in the direction shown"
+      },
+      {
+        "id": "C",
+        "text": "Passing is allowed only in the left lane"
+      },
+      {
+        "id": "D",
+        "text": "The road ends ahead"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "A one-way sign means all traffic must travel in the direction of the arrow."
+  },
+  {
+    "id": "tx-img-036",
+    "topic": "Signs & signals",
+    "prompt": "What does this sign prohibit?",
+    "image": {
+      "src": "/img/scenarios/scenario-036.svg",
+      "alt": "No U-turn sign.",
+      "credit": "Created for this app"
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Right turns"
+      },
+      {
+        "id": "B",
+        "text": "U-turns"
+      },
+      {
+        "id": "C",
+        "text": "Left turns"
+      },
+      {
+        "id": "D",
+        "text": "Turns on red"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "The red slash across the U-turn symbol means U-turns are not allowed."
+  },
+  {
+    "id": "tx-img-037",
+    "topic": "Signs & signals",
+    "prompt": "What should you do when approaching this sign?",
+    "image": {
+      "src": "/img/scenarios/scenario-037.svg",
+      "alt": "Railroad crossing sign (crossbuck).",
+      "credit": "Created for this app"
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Speed up to cross quickly"
+      },
+      {
+        "id": "B",
+        "text": "Prepare to stop and look for a train"
+      },
+      {
+        "id": "C",
+        "text": "Stop only if a gate is down"
+      },
+      {
+        "id": "D",
+        "text": "Ignore the sign if you hear no horn"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "A railroad crossing sign warns you to slow, look, and yield to trains."
+  },
+  {
+    "id": "tx-img-038",
+    "topic": "Signs & signals",
+    "prompt": "This sign warns you that:",
+    "image": {
+      "src": "/img/scenarios/scenario-038.svg",
+      "alt": "Merge ahead sign.",
+      "credit": "Created for this app"
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "A lane is closed immediately"
+      },
+      {
+        "id": "B",
+        "text": "Traffic will merge and you should adjust speed"
+      },
+      {
+        "id": "C",
+        "text": "Two-way traffic begins"
+      },
+      {
+        "id": "D",
+        "text": "Passing is not allowed"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "Merge signs warn that traffic will join and drivers should make space."
+  },
+  {
+    "id": "tx-img-039",
+    "topic": "Signs & signals",
+    "prompt": "What does this sign indicate?",
+    "image": {
+      "src": "/img/scenarios/scenario-039.svg",
+      "alt": "Pedestrian crossing sign.",
+      "credit": "Created for this app"
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Pedestrians may cross; be ready to stop"
+      },
+      {
+        "id": "B",
+        "text": "Pedestrians are not allowed"
+      },
+      {
+        "id": "C",
+        "text": "Sidewalk ends"
+      },
+      {
+        "id": "D",
+        "text": "Bicycle crossing only"
+      }
+    ],
+    "correctChoiceId": "A",
+    "explanation": "This warning sign tells you to watch for people crossing the road."
+  },
+  {
+    "id": "tx-img-040",
+    "topic": "Signs & signals",
+    "prompt": "What should you expect near this sign?",
+    "image": {
+      "src": "/img/scenarios/scenario-040.svg",
+      "alt": "School crossing sign.",
+      "credit": "Created for this app"
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "A playground with no traffic controls"
+      },
+      {
+        "id": "B",
+        "text": "Children crossing; slow down and watch carefully"
+      },
+      {
+        "id": "C",
+        "text": "A hospital entrance"
+      },
+      {
+        "id": "D",
+        "text": "A no-parking zone"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "School crossing signs warn drivers to slow and watch for children."
+  },
+  {
+    "id": "tx-img-041",
+    "topic": "Signs & signals",
+    "prompt": "What does this sign tell you about the road?",
+    "image": {
+      "src": "/img/scenarios/scenario-041.svg",
+      "alt": "Curve ahead warning sign.",
+      "credit": "Created for this app"
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Road ends ahead"
+      },
+      {
+        "id": "B",
+        "text": "A sharp curve is ahead; slow down"
+      },
+      {
+        "id": "C",
+        "text": "Only left turns allowed"
+      },
+      {
+        "id": "D",
+        "text": "Do not pass on the shoulder"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "Curve warning signs mean you should reduce speed before entering the curve."
+  },
+  {
+    "id": "tx-img-042",
+    "topic": "Signs & signals",
+    "prompt": "What is the safe response to this sign?",
+    "image": {
+      "src": "/img/scenarios/scenario-042.svg",
+      "alt": "Slippery when wet sign.",
+      "credit": "Created for this app"
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Speed up to avoid skidding"
+      },
+      {
+        "id": "B",
+        "text": "Slow down and avoid sudden steering"
+      },
+      {
+        "id": "C",
+        "text": "Drive in the center of the road"
+      },
+      {
+        "id": "D",
+        "text": "Stop and wait for the road to dry"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "A slippery when wet sign warns that traction is reduced, so slow down."
+  },
+  {
+    "id": "tx-img-043",
+    "topic": "Signs & signals",
+    "prompt": "This sign means: ",
+    "image": {
+      "src": "/img/scenarios/scenario-043.svg",
+      "alt": "Lane ends warning sign.",
+      "credit": "Created for this app"
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "The road narrows; merge when safe"
+      },
+      {
+        "id": "B",
+        "text": "Passing is required"
+      },
+      {
+        "id": "C",
+        "text": "No stopping anytime"
+      },
+      {
+        "id": "D",
+        "text": "A detour is ahead"
+      }
+    ],
+    "correctChoiceId": "A",
+    "explanation": "Lane ends signs warn that a lane will drop, so you must merge safely."
+  },
+  {
+    "id": "tx-img-044",
+    "topic": "Signs & signals",
+    "prompt": "What does this sign indicate?",
+    "image": {
+      "src": "/img/scenarios/scenario-044.svg",
+      "alt": "No passing zone sign.",
+      "credit": "Created for this app"
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Passing is allowed only on the right"
+      },
+      {
+        "id": "B",
+        "text": "Do not pass in this area"
+      },
+      {
+        "id": "C",
+        "text": "Two lanes are merging"
+      },
+      {
+        "id": "D",
+        "text": "The speed limit is reduced"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "A no passing zone sign marks areas where passing is unsafe."
+  },
+  {
+    "id": "tx-img-045",
+    "topic": "Signs & signals",
+    "prompt": "What should you expect after seeing this sign?",
+    "image": {
+      "src": "/img/scenarios/scenario-045.svg",
+      "alt": "Signal ahead sign.",
+      "credit": "Created for this app"
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "A traffic signal ahead; be ready to stop"
+      },
+      {
+        "id": "B",
+        "text": "A railroad crossing"
+      },
+      {
+        "id": "C",
+        "text": "A no-turn intersection"
+      },
+      {
+        "id": "D",
+        "text": "A one-way street"
+      }
+    ],
+    "correctChoiceId": "A",
+    "explanation": "Signal ahead signs warn of an upcoming traffic light."
+  },
+  {
+    "id": "tx-img-046",
+    "topic": "Signs & signals",
+    "prompt": "This sign warns you to: ",
+    "image": {
+      "src": "/img/scenarios/scenario-046.svg",
+      "alt": "Stop ahead sign.",
+      "credit": "Created for this app"
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Speed up to clear the area"
+      },
+      {
+        "id": "B",
+        "text": "Be prepared to stop at a stop sign"
+      },
+      {
+        "id": "C",
+        "text": "Yield to merging traffic"
+      },
+      {
+        "id": "D",
+        "text": "Expect a traffic signal"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "Stop ahead signs warn that a stop sign is coming and you should slow down."
+  },
+  {
+    "id": "tx-img-047",
+    "topic": "Signs & signals",
+    "prompt": "What does this sign mean for traffic flow?",
+    "image": {
+      "src": "/img/scenarios/scenario-047.svg",
+      "alt": "Two-way traffic sign.",
+      "credit": "Created for this app"
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "All traffic goes one direction"
+      },
+      {
+        "id": "B",
+        "text": "Opposing traffic is ahead; keep right"
+      },
+      {
+        "id": "C",
+        "text": "The road ends ahead"
+      },
+      {
+        "id": "D",
+        "text": "Passing is required"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "Two-way traffic signs warn that vehicles will be coming toward you."
+  },
+  {
+    "id": "tx-img-048",
+    "topic": "Signs & signals",
+    "prompt": "What does this sign tell you?",
+    "image": {
+      "src": "/img/scenarios/scenario-048.svg",
+      "alt": "Divided highway ends sign.",
+      "credit": "Created for this app"
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "A median begins"
+      },
+      {
+        "id": "B",
+        "text": "The divided highway is ending; watch for opposing traffic"
+      },
+      {
+        "id": "C",
+        "text": "No passing allowed"
+      },
+      {
+        "id": "D",
+        "text": "A detour starts"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "This warning sign means opposing traffic will be closer once the divider ends."
+  },
+  {
+    "id": "tx-img-049",
+    "topic": "Signs & signals",
+    "prompt": "What should you do when you see this sign?",
+    "image": {
+      "src": "/img/scenarios/scenario-049.svg",
+      "alt": "Roundabout ahead sign.",
+      "credit": "Created for this app"
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Stop in the circle"
+      },
+      {
+        "id": "B",
+        "text": "Yield to traffic already in the roundabout"
+      },
+      {
+        "id": "C",
+        "text": "Enter without slowing"
+      },
+      {
+        "id": "D",
+        "text": "Always take the leftmost exit"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "Roundabout signs warn you to slow and yield to circulating traffic."
+  },
+  {
+    "id": "tx-img-050",
+    "topic": "Signs & signals",
+    "prompt": "What does this sign tell you about turning?",
+    "image": {
+      "src": "/img/scenarios/scenario-050.svg",
+      "alt": "No turn on red sign.",
+      "credit": "Created for this app"
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Right turns are allowed on red after a stop"
+      },
+      {
+        "id": "B",
+        "text": "You may turn on red only after yielding"
+      },
+      {
+        "id": "C",
+        "text": "You must wait for green before turning"
+      },
+      {
+        "id": "D",
+        "text": "Left turns are always allowed on red"
+      }
+    ],
+    "correctChoiceId": "C",
+    "explanation": "A no turn on red sign means you must wait for a green signal."
+  },
+  {
+    "id": "tx-img-051",
+    "topic": "Signs & signals",
+    "prompt": "How should you respond to this sign?",
+    "image": {
+      "src": "/img/scenarios/scenario-051.svg",
+      "alt": "Left turn yield on green sign.",
+      "credit": "Created for this app"
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Turn left without slowing"
+      },
+      {
+        "id": "B",
+        "text": "Yield to oncoming traffic before turning"
+      },
+      {
+        "id": "C",
+        "text": "Turn left only on a green arrow"
+      },
+      {
+        "id": "D",
+        "text": "Stop and wait for the next signal cycle"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "This sign means a green ball does not give a protected left; you must yield."
+  },
+  {
+    "id": "tx-img-052",
+    "topic": "Signs & signals",
+    "prompt": "What does this sign indicate?",
+    "image": {
+      "src": "/img/scenarios/scenario-052.svg",
+      "alt": "Keep right sign.",
+      "credit": "Created for this app"
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Keep to the right of a divider or island"
+      },
+      {
+        "id": "B",
+        "text": "Right lane ends"
+      },
+      {
+        "id": "C",
+        "text": "No right turns"
+      },
+      {
+        "id": "D",
+        "text": "Two-way traffic ahead"
+      }
+    ],
+    "correctChoiceId": "A",
+    "explanation": "Keep right signs direct drivers to pass to the right of an obstruction."
+  },
+  {
+    "id": "tx-img-053",
+    "topic": "Signs & signals",
+    "prompt": "What should you expect after this sign?",
+    "image": {
+      "src": "/img/scenarios/scenario-053.svg",
+      "alt": "Road work ahead sign.",
+      "credit": "Created for this app"
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "A school zone"
+      },
+      {
+        "id": "B",
+        "text": "Construction; slow down and follow directions"
+      },
+      {
+        "id": "C",
+        "text": "A rest area"
+      },
+      {
+        "id": "D",
+        "text": "A detour has ended"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "Orange signs warn of work zones where speeds may be reduced."
+  },
+  {
+    "id": "tx-img-054",
+    "topic": "Signs & signals",
+    "prompt": "What does this sign mean?",
+    "image": {
+      "src": "/img/scenarios/scenario-054.svg",
+      "alt": "Detour sign.",
+      "credit": "Created for this app"
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Follow the detour route"
+      },
+      {
+        "id": "B",
+        "text": "Road is closed to all vehicles"
+      },
+      {
+        "id": "C",
+        "text": "Construction ends here"
+      },
+      {
+        "id": "D",
+        "text": "Passing is required"
+      }
+    ],
+    "correctChoiceId": "A",
+    "explanation": "Detour signs guide you to an alternate route around a closure."
+  },
+  {
+    "id": "tx-img-055",
+    "topic": "Signs & signals",
+    "prompt": "What does this sign tell drivers?",
+    "image": {
+      "src": "/img/scenarios/scenario-055.svg",
+      "alt": "Bike lane sign.",
+      "credit": "Created for this app"
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Bicycles are not allowed"
+      },
+      {
+        "id": "B",
+        "text": "Expect a marked bike lane; watch for cyclists"
+      },
+      {
+        "id": "C",
+        "text": "You must stop for bikes at all times"
+      },
+      {
+        "id": "D",
+        "text": "Bicycles must use the sidewalk"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "Bike lane signs indicate a dedicated lane for bicycles, so watch carefully."
+  },
+  {
+    "id": "tx-img-056",
+    "topic": "Signs & signals",
+    "prompt": "What is this sign warning you about?",
+    "image": {
+      "src": "/img/scenarios/scenario-056.svg",
+      "alt": "Deer crossing sign.",
+      "credit": "Created for this app"
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Livestock on the road only during daylight"
+      },
+      {
+        "id": "B",
+        "text": "Wild animals may cross; slow and watch"
+      },
+      {
+        "id": "C",
+        "text": "No hunting zone"
+      },
+      {
+        "id": "D",
+        "text": "A park entrance"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "Animal crossing signs warn that wildlife may enter the roadway."
+  },
+  {
+    "id": "tx-img-057",
+    "topic": "Signs & signals",
+    "prompt": "How should you react to this sign?",
+    "image": {
+      "src": "/img/scenarios/scenario-057.svg",
+      "alt": "Falling rocks sign.",
+      "credit": "Created for this app"
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Speed up to clear the area"
+      },
+      {
+        "id": "B",
+        "text": "Watch for rocks on the roadway and slow down"
+      },
+      {
+        "id": "C",
+        "text": "Stop and wait for a pilot car"
+      },
+      {
+        "id": "D",
+        "text": "Turn around immediately"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "Falling rock signs warn of debris on or near the roadway."
+  },
+  {
+    "id": "tx-img-058",
+    "topic": "Signs & signals",
+    "prompt": "What does this sign warn you about?",
+    "image": {
+      "src": "/img/scenarios/scenario-058.svg",
+      "alt": "Steep hill sign.",
+      "credit": "Created for this app"
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "A steep grade ahead; reduce speed"
+      },
+      {
+        "id": "B",
+        "text": "A tunnel is ahead"
+      },
+      {
+        "id": "C",
+        "text": "A slippery bridge"
+      },
+      {
+        "id": "D",
+        "text": "Trucks must stop"
+      }
+    ],
+    "correctChoiceId": "A",
+    "explanation": "A steep hill sign warns drivers to slow and be prepared for a grade."
+  },
+  {
+    "id": "tx-img-059",
+    "topic": "Signs & signals",
+    "prompt": "What does this sign mean for taller vehicles?",
+    "image": {
+      "src": "/img/scenarios/scenario-059.svg",
+      "alt": "Low clearance 12 feet 6 inches sign.",
+      "credit": "Created for this app"
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Trucks must use the left lane"
+      },
+      {
+        "id": "B",
+        "text": "Vehicles taller than the clearance cannot pass"
+      },
+      {
+        "id": "C",
+        "text": "The bridge is closed"
+      },
+      {
+        "id": "D",
+        "text": "Height check station ahead"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "Low clearance signs show the maximum vehicle height allowed."
+  },
+  {
+    "id": "tx-img-060",
+    "topic": "Signs & signals",
+    "prompt": "What should you expect near this sign?",
+    "image": {
+      "src": "/img/scenarios/scenario-060.svg",
+      "alt": "Hospital ahead sign.",
+      "credit": "Created for this app"
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "An airport entrance"
+      },
+      {
+        "id": "B",
+        "text": "A hospital area; drive quietly and watch for ambulances"
+      },
+      {
+        "id": "C",
+        "text": "A school crossing"
+      },
+      {
+        "id": "D",
+        "text": "A detour begins"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "Hospital signs indicate a medical area where emergency vehicles may enter."
+  },
+  {
+    "id": "tx-026",
+    "topic": "Speed & space",
+    "prompt": "In good weather, what is a safe following distance?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "About one second"
+      },
+      {
+        "id": "B",
+        "text": "About two seconds"
+      },
+      {
+        "id": "C",
+        "text": "At least three seconds"
+      },
+      {
+        "id": "D",
+        "text": "One car length"
+      }
+    ],
+    "correctChoiceId": "C",
+    "explanation": "A three-second gap gives you time to react and brake smoothly."
+  },
+  {
+    "id": "tx-027",
+    "topic": "Speed & space",
+    "prompt": "How should you adjust following distance on wet roads?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Keep the same gap"
+      },
+      {
+        "id": "B",
+        "text": "Increase the gap"
+      },
+      {
+        "id": "C",
+        "text": "Follow closer to avoid spray"
+      },
+      {
+        "id": "D",
+        "text": "Only increase at night"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "Wet pavement reduces traction, so you need more time to stop."
+  },
+  {
+    "id": "tx-028",
+    "topic": "Speed & space",
+    "prompt": "A driver is tailgating you. What should you do?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Brake suddenly"
+      },
+      {
+        "id": "B",
+        "text": "Speed up to get away"
+      },
+      {
+        "id": "C",
+        "text": "Increase your following distance and change lanes if possible"
+      },
+      {
+        "id": "D",
+        "text": "Move to the shoulder"
+      }
+    ],
+    "correctChoiceId": "C",
+    "explanation": "Creating extra space ahead gives you more room to brake gradually."
+  },
+  {
+    "id": "tx-029",
+    "topic": "Speed & space",
+    "prompt": "When stopped behind another vehicle on a hill, you should stop:",
+    "choices": [
+      {
+        "id": "A",
+        "text": "So close you can touch bumpers"
+      },
+      {
+        "id": "B",
+        "text": "Far enough to see the rear tires of the car ahead"
+      },
+      {
+        "id": "C",
+        "text": "Only one foot back"
+      },
+      {
+        "id": "D",
+        "text": "With your front wheel turned"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "Leaving space reduces the risk of a rollback collision."
+  },
+  {
+    "id": "tx-030",
+    "topic": "Speed & space",
+    "prompt": "If you cannot see a large truck's mirrors, you are: ",
+    "choices": [
+      {
+        "id": "A",
+        "text": "At a safe distance"
+      },
+      {
+        "id": "B",
+        "text": "Too close to the truck"
+      },
+      {
+        "id": "C",
+        "text": "Far enough to pass"
+      },
+      {
+        "id": "D",
+        "text": "In a blind spot that is safe"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "Stay back so the truck driver can see you and you can see the road ahead."
+  },
+  {
+    "id": "tx-031",
+    "topic": "Speed & space",
+    "prompt": "How does stopping distance change as speed increases?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "It stays the same"
+      },
+      {
+        "id": "B",
+        "text": "It increases a lot as speed rises"
+      },
+      {
+        "id": "C",
+        "text": "It gets shorter"
+      },
+      {
+        "id": "D",
+        "text": "It depends only on tire size"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "Higher speeds mean much longer distances to stop."
+  },
+  {
+    "id": "tx-032",
+    "topic": "Speed & space",
+    "prompt": "What should you do before going down a steep hill?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Accelerate to maintain speed"
+      },
+      {
+        "id": "B",
+        "text": "Shift to a lower gear and slow before the grade"
+      },
+      {
+        "id": "C",
+        "text": "Turn off your headlights"
+      },
+      {
+        "id": "D",
+        "text": "Coast in neutral"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "Lower gears help control speed and reduce brake wear."
+  },
+  {
+    "id": "tx-033",
+    "topic": "Speed & space",
+    "prompt": "At night, you should drive at a speed that allows you to: ",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Stop within the distance you can see"
+      },
+      {
+        "id": "B",
+        "text": "Keep up with faster traffic"
+      },
+      {
+        "id": "C",
+        "text": "Reach the next light before it changes"
+      },
+      {
+        "id": "D",
+        "text": "Pass as many cars as possible"
+      }
+    ],
+    "correctChoiceId": "A",
+    "explanation": "You must be able to stop within your headlight range."
+  },
+  {
+    "id": "tx-034",
+    "topic": "Speed & space",
+    "prompt": "What is the safest response to heavy traffic ahead?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Wait until the last second to brake"
+      },
+      {
+        "id": "B",
+        "text": "Gradually reduce speed and increase space"
+      },
+      {
+        "id": "C",
+        "text": "Change lanes quickly without signaling"
+      },
+      {
+        "id": "D",
+        "text": "Maintain speed and hope it clears"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "Early braking gives drivers behind you time to respond."
+  },
+  {
+    "id": "tx-035",
+    "topic": "Speed & space",
+    "prompt": "When following a motorcycle, you should: ",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Follow closely because they stop faster"
+      },
+      {
+        "id": "B",
+        "text": "Use the same following distance as for a car"
+      },
+      {
+        "id": "C",
+        "text": "Leave extra space"
+      },
+      {
+        "id": "D",
+        "text": "Stay in their lane"
+      }
+    ],
+    "correctChoiceId": "C",
+    "explanation": "Motorcycles can stop quickly and are harder to see, so extra space helps."
+  },
+  {
+    "id": "tx-036",
+    "topic": "Speed & space",
+    "prompt": "If a vehicle ahead is signaling to turn, you should: ",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Speed up to pass immediately"
+      },
+      {
+        "id": "B",
+        "text": "Slow down and be ready to stop"
+      },
+      {
+        "id": "C",
+        "text": "Honk until they turn"
+      },
+      {
+        "id": "D",
+        "text": "Move into the shoulder"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "Turning vehicles may stop unexpectedly; leave room to react."
+  },
+  {
+    "id": "tx-037",
+    "topic": "Speed & space",
+    "prompt": "To avoid hydroplaning during heavy rain, you should: ",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Brake hard if the car starts to slide"
+      },
+      {
+        "id": "B",
+        "text": "Reduce speed and avoid sudden moves"
+      },
+      {
+        "id": "C",
+        "text": "Drive in the middle of the road"
+      },
+      {
+        "id": "D",
+        "text": "Increase speed to clear water"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "Slowing down helps your tires maintain contact with the road."
+  },
+  {
+    "id": "tx-038",
+    "topic": "Speed & space",
+    "prompt": "When returning to your lane after passing, you should: ",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Move back as soon as your front bumper clears"
+      },
+      {
+        "id": "B",
+        "text": "Wait until you can see the passed vehicle in your mirror"
+      },
+      {
+        "id": "C",
+        "text": "Cut in quickly to block others"
+      },
+      {
+        "id": "D",
+        "text": "Signal after you move"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "Seeing the other vehicle in your mirror confirms you have enough space."
+  },
+  {
+    "id": "tx-039",
+    "topic": "Speed & space",
+    "prompt": "What should you do if visibility becomes very limited?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Keep the same speed"
+      },
+      {
+        "id": "B",
+        "text": "Slow down and increase following distance"
+      },
+      {
+        "id": "C",
+        "text": "Turn off headlights"
+      },
+      {
+        "id": "D",
+        "text": "Drive in the center lane regardless"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "Reduced visibility requires more time and space to react."
+  },
+  {
+    "id": "tx-040",
+    "topic": "Speed & space",
+    "prompt": "When approaching a crosswalk with pedestrians nearby, you should: ",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Accelerate to clear the area"
+      },
+      {
+        "id": "B",
+        "text": "Slow down and be ready to stop"
+      },
+      {
+        "id": "C",
+        "text": "Honk to warn them"
+      },
+      {
+        "id": "D",
+        "text": "Assume they will wait"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "Pedestrians can step into the crosswalk quickly, so be prepared."
+  },
+  {
+    "id": "tx-041",
+    "topic": "Speed & space",
+    "prompt": "On gravel or loose surfaces, you should: ",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Increase speed for stability"
+      },
+      {
+        "id": "B",
+        "text": "Reduce speed and increase following distance"
+      },
+      {
+        "id": "C",
+        "text": "Brake hard to test traction"
+      },
+      {
+        "id": "D",
+        "text": "Drive with one wheel off the road"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "Loose surfaces reduce grip and lengthen stopping distances."
+  },
+  {
+    "id": "tx-042",
+    "topic": "Speed & space",
+    "prompt": "If you are being passed, a safe response is to: ",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Speed up to prevent the pass"
+      },
+      {
+        "id": "B",
+        "text": "Maintain your speed and stay in your lane"
+      },
+      {
+        "id": "C",
+        "text": "Move to the left lane"
+      },
+      {
+        "id": "D",
+        "text": "Honk repeatedly"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "Keeping a steady speed helps the other driver complete the pass safely."
+  },
+  {
+    "id": "tx-043",
+    "topic": "Speed & space",
+    "prompt": "To reduce rear-end crash risk at a stoplight, you should: ",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Stop very close to the car ahead"
+      },
+      {
+        "id": "B",
+        "text": "Stop with space and watch mirrors"
+      },
+      {
+        "id": "C",
+        "text": "Turn off your brake lights"
+      },
+      {
+        "id": "D",
+        "text": "Immediately change lanes"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "Leaving space and watching behind you gives options if someone approaches fast."
+  },
+  {
+    "id": "tx-044",
+    "topic": "Speed & space",
+    "prompt": "What is the safest way to handle a sudden stop ahead?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Brake smoothly and check mirrors"
+      },
+      {
+        "id": "B",
+        "text": "Swerve into another lane without checking"
+      },
+      {
+        "id": "C",
+        "text": "Close your eyes and brake hard"
+      },
+      {
+        "id": "D",
+        "text": "Speed up and pass"
+      }
+    ],
+    "correctChoiceId": "A",
+    "explanation": "Smooth braking with mirror checks helps avoid being rear-ended."
+  },
+  {
+    "id": "tx-045",
+    "topic": "Speed & space",
+    "prompt": "When a large truck is ahead, you should avoid: ",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Driving in its blind spots"
+      },
+      {
+        "id": "B",
+        "text": "Leaving extra space"
+      },
+      {
+        "id": "C",
+        "text": "Letting it merge"
+      },
+      {
+        "id": "D",
+        "text": "Passing only when you can see ahead"
+      }
+    ],
+    "correctChoiceId": "A",
+    "explanation": "Trucks have large blind spots; avoid lingering there."
+  },
+  {
+    "id": "tx-046",
+    "topic": "Speed & space",
+    "prompt": "If you must stop on a highway shoulder, you should: ",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Turn on hazard lights and move as far right as possible"
+      },
+      {
+        "id": "B",
+        "text": "Stop in the travel lane"
+      },
+      {
+        "id": "C",
+        "text": "Turn off all lights"
+      },
+      {
+        "id": "D",
+        "text": "Get out on the traffic side"
+      }
+    ],
+    "correctChoiceId": "A",
+    "explanation": "Move out of traffic and make your vehicle visible."
+  },
+  {
+    "id": "tx-047",
+    "topic": "Speed & space",
+    "prompt": "When merging onto a freeway, you should: ",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Stop at the end of the ramp"
+      },
+      {
+        "id": "B",
+        "text": "Match the speed of traffic as you merge"
+      },
+      {
+        "id": "C",
+        "text": "Drive much slower than traffic"
+      },
+      {
+        "id": "D",
+        "text": "Signal only after merging"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "Matching speeds makes it easier to enter without disrupting traffic."
+  },
+  {
+    "id": "tx-048",
+    "topic": "Speed & space",
+    "prompt": "What is a safe approach to a yellow traffic light?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Speed up no matter what"
+      },
+      {
+        "id": "B",
+        "text": "Prepare to stop if you can do so safely"
+      },
+      {
+        "id": "C",
+        "text": "Stop in the intersection"
+      },
+      {
+        "id": "D",
+        "text": "Reverse to avoid stopping"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "A steady yellow means the light is changing; stop if safe."
+  },
+  {
+    "id": "tx-049",
+    "topic": "Speed & space",
+    "prompt": "When following a bus or large vehicle, you should: ",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Stay close to block other drivers"
+      },
+      {
+        "id": "B",
+        "text": "Leave extra space to see around it"
+      },
+      {
+        "id": "C",
+        "text": "Drive in its blind spot"
+      },
+      {
+        "id": "D",
+        "text": "Pass immediately on the shoulder"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "Extra space improves visibility and gives you more time to react."
+  },
+  {
+    "id": "tx-050",
+    "topic": "Speed & space",
+    "prompt": "If traffic is moving slowly, you should: ",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Weave between lanes to save time"
+      },
+      {
+        "id": "B",
+        "text": "Keep a steady pace and maintain space"
+      },
+      {
+        "id": "C",
+        "text": "Tailgate to discourage lane changes"
+      },
+      {
+        "id": "D",
+        "text": "Ignore your mirrors"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "Smooth, consistent driving reduces stop-and-go crashes."
+  },
+  {
+    "id": "tx-051",
+    "topic": "Lane changes & passing",
+    "prompt": "What should you do before changing lanes?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Check mirrors and blind spot, then signal"
+      },
+      {
+        "id": "B",
+        "text": "Signal and move immediately"
+      },
+      {
+        "id": "C",
+        "text": "Honk and change lanes"
+      },
+      {
+        "id": "D",
+        "text": "Change lanes only if you see no car ahead"
+      }
+    ],
+    "correctChoiceId": "A",
+    "explanation": "Check mirrors and your blind spot, signal, then move when safe."
+  },
+  {
+    "id": "tx-052",
+    "topic": "Lane changes & passing",
+    "prompt": "Passing on a two-lane road is safest when: ",
+    "choices": [
+      {
+        "id": "A",
+        "text": "You are within 100 feet of a curve"
+      },
+      {
+        "id": "B",
+        "text": "The left lane is clear and you can return safely"
+      },
+      {
+        "id": "C",
+        "text": "There is a solid yellow line on your side"
+      },
+      {
+        "id": "D",
+        "text": "You are approaching an intersection"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "Only pass when you have a long, clear view and can return safely."
+  },
+  {
+    "id": "tx-053",
+    "topic": "Lane changes & passing",
+    "prompt": "When is passing on the right allowed?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Only on a one-way road or a road with two or more lanes in your direction"
+      },
+      {
+        "id": "B",
+        "text": "Never under any circumstances"
+      },
+      {
+        "id": "C",
+        "text": "Whenever the car ahead is slower"
+      },
+      {
+        "id": "D",
+        "text": "Only at night"
+      }
+    ],
+    "correctChoiceId": "A",
+    "explanation": "Passing on the right is limited to multi-lane or one-way roads when safe."
+  },
+  {
+    "id": "tx-054",
+    "topic": "Lane changes & passing",
+    "prompt": "You should NOT pass when: ",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Approaching a hill or curve with limited visibility"
+      },
+      {
+        "id": "B",
+        "text": "The road is straight and clear"
+      },
+      {
+        "id": "C",
+        "text": "The vehicle ahead is turning right"
+      },
+      {
+        "id": "D",
+        "text": "You are on a multi-lane highway"
+      }
+    ],
+    "correctChoiceId": "A",
+    "explanation": "Limited visibility makes passing dangerous on two-lane roads."
+  },
+  {
+    "id": "tx-055",
+    "topic": "Lane changes & passing",
+    "prompt": "A double solid yellow line means: ",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Passing is allowed for both directions"
+      },
+      {
+        "id": "B",
+        "text": "Passing is not allowed for either direction"
+      },
+      {
+        "id": "C",
+        "text": "Passing is allowed if no traffic is coming"
+      },
+      {
+        "id": "D",
+        "text": "Passing is allowed for trucks only"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "Double solid yellow lines mark no-passing zones for both directions."
+  },
+  {
+    "id": "tx-056",
+    "topic": "Lane changes & passing",
+    "prompt": "A broken yellow line on your side means: ",
+    "choices": [
+      {
+        "id": "A",
+        "text": "You may pass if it is safe"
+      },
+      {
+        "id": "B",
+        "text": "You must stay in your lane"
+      },
+      {
+        "id": "C",
+        "text": "Passing is never allowed"
+      },
+      {
+        "id": "D",
+        "text": "The road is one-way"
+      }
+    ],
+    "correctChoiceId": "A",
+    "explanation": "A broken yellow line indicates passing is permitted when safe."
+  },
+  {
+    "id": "tx-057",
+    "topic": "Lane changes & passing",
+    "prompt": "What is the safest way to use your turn signal for a lane change?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Signal after you move"
+      },
+      {
+        "id": "B",
+        "text": "Signal early and keep it on while changing"
+      },
+      {
+        "id": "C",
+        "text": "Flash it once"
+      },
+      {
+        "id": "D",
+        "text": "Signal only if another car is nearby"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "Early signaling gives other drivers time to react."
+  },
+  {
+    "id": "tx-058",
+    "topic": "Lane changes & passing",
+    "prompt": "Why should you check your blind spot before changing lanes?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Mirrors show every angle"
+      },
+      {
+        "id": "B",
+        "text": "Some vehicles may not be visible in mirrors"
+      },
+      {
+        "id": "C",
+        "text": "It is only required at night"
+      },
+      {
+        "id": "D",
+        "text": "It helps you speed up"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "Motorcycles and small cars can hide in blind spots."
+  },
+  {
+    "id": "tx-059",
+    "topic": "Lane changes & passing",
+    "prompt": "If another driver is passing you, you should: ",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Increase speed"
+      },
+      {
+        "id": "B",
+        "text": "Maintain your speed and stay right"
+      },
+      {
+        "id": "C",
+        "text": "Move into their lane"
+      },
+      {
+        "id": "D",
+        "text": "Brake suddenly"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "Maintaining speed helps the other driver pass safely."
+  },
+  {
+    "id": "tx-060",
+    "topic": "Lane changes & passing",
+    "prompt": "When merging onto a freeway, you should: ",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Yield to freeway traffic and merge smoothly"
+      },
+      {
+        "id": "B",
+        "text": "Stop at the end of the ramp"
+      },
+      {
+        "id": "C",
+        "text": "Drive across lanes without signaling"
+      },
+      {
+        "id": "D",
+        "text": "Enter at a much slower speed"
+      }
+    ],
+    "correctChoiceId": "A",
+    "explanation": "Traffic already on the freeway has the right-of-way."
+  },
+  {
+    "id": "tx-061",
+    "topic": "Lane changes & passing",
+    "prompt": "If the vehicle you are passing speeds up, you should: ",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Speed up even more"
+      },
+      {
+        "id": "B",
+        "text": "Drop back and return to your lane"
+      },
+      {
+        "id": "C",
+        "text": "Move onto the shoulder to pass"
+      },
+      {
+        "id": "D",
+        "text": "Keep driving side by side"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "Do not compete for space; return to your lane safely."
+  },
+  {
+    "id": "tx-062",
+    "topic": "Lane changes & passing",
+    "prompt": "What is a safe rule for lane changes on a multi-lane road?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Make one lane change at a time"
+      },
+      {
+        "id": "B",
+        "text": "Cross two lanes at once to save time"
+      },
+      {
+        "id": "C",
+        "text": "Change lanes without checking behind"
+      },
+      {
+        "id": "D",
+        "text": "Signal only after you move"
+      }
+    ],
+    "correctChoiceId": "A",
+    "explanation": "One lane change at a time lets you check each space properly."
+  },
+  {
+    "id": "tx-063",
+    "topic": "Lane changes & passing",
+    "prompt": "If you miss your exit on the freeway, you should: ",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Back up on the shoulder"
+      },
+      {
+        "id": "B",
+        "text": "Stop and turn around"
+      },
+      {
+        "id": "C",
+        "text": "Take the next exit"
+      },
+      {
+        "id": "D",
+        "text": "Make a U-turn on the ramp"
+      }
+    ],
+    "correctChoiceId": "C",
+    "explanation": "Never back up on a freeway; continue to the next exit."
+  },
+  {
+    "id": "tx-064",
+    "topic": "Lane changes & passing",
+    "prompt": "What is the purpose of a center left-turn lane?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "For passing slow vehicles"
+      },
+      {
+        "id": "B",
+        "text": "For left turns into or out of driveways"
+      },
+      {
+        "id": "C",
+        "text": "For parking"
+      },
+      {
+        "id": "D",
+        "text": "For right turns only"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "Center turn lanes are only for left turns, not for through travel."
+  },
+  {
+    "id": "tx-065",
+    "topic": "Lane changes & passing",
+    "prompt": "When passing a bicyclist, you should: ",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Move over if possible and give plenty of space"
+      },
+      {
+        "id": "B",
+        "text": "Pass without changing lanes"
+      },
+      {
+        "id": "C",
+        "text": "Honk and pass closely"
+      },
+      {
+        "id": "D",
+        "text": "Speed up so you spend less time passing"
+      }
+    ],
+    "correctChoiceId": "A",
+    "explanation": "Changing lanes when possible gives cyclists a safe buffer."
+  },
+  {
+    "id": "tx-066",
+    "topic": "Lane changes & passing",
+    "prompt": "The left lane on a multi-lane highway is generally for: ",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Slower traffic"
+      },
+      {
+        "id": "B",
+        "text": "Passing and faster traffic"
+      },
+      {
+        "id": "C",
+        "text": "Stopping in emergencies"
+      },
+      {
+        "id": "D",
+        "text": "Trucks only"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "Keep right except to pass or when traffic conditions require."
+  },
+  {
+    "id": "tx-067",
+    "topic": "Lane changes & passing",
+    "prompt": "You should not change lanes in an intersection because: ",
+    "choices": [
+      {
+        "id": "A",
+        "text": "It increases conflict points and reduces space"
+      },
+      {
+        "id": "B",
+        "text": "It is always legal"
+      },
+      {
+        "id": "C",
+        "text": "It saves time"
+      },
+      {
+        "id": "D",
+        "text": "It is required for right turns"
+      }
+    ],
+    "correctChoiceId": "A",
+    "explanation": "Changing lanes in intersections is risky and can surprise others."
+  },
+  {
+    "id": "tx-068",
+    "topic": "Lane changes & passing",
+    "prompt": "When entering a lane after passing, you should signal: ",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Only if another car is close"
+      },
+      {
+        "id": "B",
+        "text": "Before moving back into the lane"
+      },
+      {
+        "id": "C",
+        "text": "After you are fully in the lane"
+      },
+      {
+        "id": "D",
+        "text": "Never"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "Signal before returning so the passed driver knows your intention."
+  },
+  {
+    "id": "tx-069",
+    "topic": "Lane changes & passing",
+    "prompt": "What is the safest way to handle a short merge area?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Accelerate to match traffic and merge early"
+      },
+      {
+        "id": "B",
+        "text": "Stop at the end of the lane"
+      },
+      {
+        "id": "C",
+        "text": "Force your way in at the last moment"
+      },
+      {
+        "id": "D",
+        "text": "Drive on the shoulder"
+      }
+    ],
+    "correctChoiceId": "A",
+    "explanation": "Merging early and matching speed reduces conflicts."
+  },
+  {
+    "id": "tx-070",
+    "topic": "Lane changes & passing",
+    "prompt": "If a lane is ending, you should: ",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Speed up and cut in at the last second"
+      },
+      {
+        "id": "B",
+        "text": "Merge early when you find a safe gap"
+      },
+      {
+        "id": "C",
+        "text": "Stop and wait"
+      },
+      {
+        "id": "D",
+        "text": "Drive in the closed lane to the end without signaling"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "Merging early keeps traffic flowing and reduces sudden braking."
+  },
+  {
+    "id": "tx-071",
+    "topic": "Lane changes & passing",
+    "prompt": "When driving in heavy traffic, you should avoid: ",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Frequent lane changes"
+      },
+      {
+        "id": "B",
+        "text": "Using mirrors"
+      },
+      {
+        "id": "C",
+        "text": "Leaving space ahead"
+      },
+      {
+        "id": "D",
+        "text": "Signaling"
+      }
+    ],
+    "correctChoiceId": "A",
+    "explanation": "Weaving increases crash risk and slows overall traffic."
+  },
+  {
+    "id": "tx-072",
+    "topic": "Lane changes & passing",
+    "prompt": "If a car ahead is turning left, you may pass on the right if: ",
+    "choices": [
+      {
+        "id": "A",
+        "text": "There is a legal lane or shoulder and it is safe"
+      },
+      {
+        "id": "B",
+        "text": "You are in a hurry"
+      },
+      {
+        "id": "C",
+        "text": "The car ahead is slowing"
+      },
+      {
+        "id": "D",
+        "text": "There is a double yellow line"
+      }
+    ],
+    "correctChoiceId": "A",
+    "explanation": "Passing on the right is only allowed when there is space and it is safe."
+  },
+  {
+    "id": "tx-073",
+    "topic": "Lane changes & passing",
+    "prompt": "Before moving into a gap, you should make sure: ",
+    "choices": [
+      {
+        "id": "A",
+        "text": "The gap is large enough and you have signaled"
+      },
+      {
+        "id": "B",
+        "text": "The car behind honks"
+      },
+      {
+        "id": "C",
+        "text": "You move quickly without looking"
+      },
+      {
+        "id": "D",
+        "text": "You are right next to the other car"
+      }
+    ],
+    "correctChoiceId": "A",
+    "explanation": "Good gaps give you time to merge without forcing others to brake."
+  },
+  {
+    "id": "tx-074",
+    "topic": "Lane changes & passing",
+    "prompt": "When a vehicle is merging from a ramp, you should: ",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Block the merge lane"
+      },
+      {
+        "id": "B",
+        "text": "Create space if possible"
+      },
+      {
+        "id": "C",
+        "text": "Speed up to close the gap"
+      },
+      {
+        "id": "D",
+        "text": "Stop in your lane"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "Allowing space helps traffic merge smoothly and reduces sudden braking."
+  },
+  {
+    "id": "tx-075",
+    "topic": "Lane changes & passing",
+    "prompt": "What is a safe approach to passing on a two-lane road?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Pass only if you can see far ahead and return safely"
+      },
+      {
+        "id": "B",
+        "text": "Pass whenever the car ahead is slower"
+      },
+      {
+        "id": "C",
+        "text": "Pass on curves to save time"
+      },
+      {
+        "id": "D",
+        "text": "Pass in intersections"
+      }
+    ],
+    "correctChoiceId": "A",
+    "explanation": "Clear visibility and space to return are essential for safe passing."
+  },
+  {
+    "id": "tx-076",
+    "topic": "Special situations",
+    "prompt": "When you enter a school zone, you should: ",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Ignore the posted times"
+      },
+      {
+        "id": "B",
+        "text": "Follow the reduced speed when active"
+      },
+      {
+        "id": "C",
+        "text": "Drive the normal speed limit"
+      },
+      {
+        "id": "D",
+        "text": "Pass stopped school buses"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "School zones use lower speeds during posted times to protect children."
+  },
+  {
+    "id": "tx-077",
+    "topic": "Special situations",
+    "prompt": "When a school bus has red lights flashing, you must: ",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Slow down and pass carefully"
+      },
+      {
+        "id": "B",
+        "text": "Stop and remain stopped until the lights stop"
+      },
+      {
+        "id": "C",
+        "text": "Honk and proceed"
+      },
+      {
+        "id": "D",
+        "text": "Stop only if children are in the road"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "Red flashing lights mean you must stop for children loading or unloading."
+  },
+  {
+    "id": "tx-078",
+    "topic": "Special situations",
+    "prompt": "If you see a train approaching a crossing, you should: ",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Speed up to get across"
+      },
+      {
+        "id": "B",
+        "text": "Stop and wait for the train to pass"
+      },
+      {
+        "id": "C",
+        "text": "Go around the gates"
+      },
+      {
+        "id": "D",
+        "text": "Stop only if the train is close"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "Trains always have the right-of-way at crossings."
+  },
+  {
+    "id": "tx-079",
+    "topic": "Special situations",
+    "prompt": "In a work zone, you should: ",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Follow the posted speed and watch for workers"
+      },
+      {
+        "id": "B",
+        "text": "Ignore flaggers"
+      },
+      {
+        "id": "C",
+        "text": "Change lanes without signaling"
+      },
+      {
+        "id": "D",
+        "text": "Pass equipment on the shoulder"
+      }
+    ],
+    "correctChoiceId": "A",
+    "explanation": "Work zones require extra attention and slower speeds."
+  },
+  {
+    "id": "tx-080",
+    "topic": "Special situations",
+    "prompt": "When an emergency vehicle approaches with lights and siren, you should: ",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Maintain speed"
+      },
+      {
+        "id": "B",
+        "text": "Pull to the right and stop"
+      },
+      {
+        "id": "C",
+        "text": "Drive in the left lane"
+      },
+      {
+        "id": "D",
+        "text": "Stop in the intersection"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "Yielding by pulling over lets emergency vehicles pass safely."
+  },
+  {
+    "id": "tx-081",
+    "topic": "Special situations",
+    "prompt": "At a roundabout, you should: ",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Yield to traffic already in the circle"
+      },
+      {
+        "id": "B",
+        "text": "Enter without slowing"
+      },
+      {
+        "id": "C",
+        "text": "Stop inside the circle"
+      },
+      {
+        "id": "D",
+        "text": "Drive clockwise"
+      }
+    ],
+    "correctChoiceId": "A",
+    "explanation": "Roundabouts require yielding to circulating traffic."
+  },
+  {
+    "id": "tx-082",
+    "topic": "Special situations",
+    "prompt": "If you encounter a flooded roadway, you should: ",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Drive through slowly"
+      },
+      {
+        "id": "B",
+        "text": "Turn around and find another route"
+      },
+      {
+        "id": "C",
+        "text": "Speed up to avoid stalling"
+      },
+      {
+        "id": "D",
+        "text": "Follow the vehicle ahead regardless"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "Water depth is hard to judge and can stall or sweep a vehicle away."
+  },
+  {
+    "id": "tx-083",
+    "topic": "Special situations",
+    "prompt": "If a deer runs into the road, the safest action is to: ",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Swerve into the opposite lane"
+      },
+      {
+        "id": "B",
+        "text": "Brake firmly and stay in your lane"
+      },
+      {
+        "id": "C",
+        "text": "Accelerate to pass it"
+      },
+      {
+        "id": "D",
+        "text": "Turn off your headlights"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "Braking while staying in your lane reduces the risk of a more serious crash."
+  },
+  {
+    "id": "tx-084",
+    "topic": "Special situations",
+    "prompt": "When driving in fog, you should use: ",
+    "choices": [
+      {
+        "id": "A",
+        "text": "High beams"
+      },
+      {
+        "id": "B",
+        "text": "Low beams and reduced speed"
+      },
+      {
+        "id": "C",
+        "text": "No lights"
+      },
+      {
+        "id": "D",
+        "text": "Hazard lights only"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "Low beams reduce glare and help you see the road edge."
+  },
+  {
+    "id": "tx-085",
+    "topic": "Special situations",
+    "prompt": "If your vehicle breaks down on a busy road, you should: ",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Stop in a travel lane"
+      },
+      {
+        "id": "B",
+        "text": "Move to the shoulder and turn on hazard lights"
+      },
+      {
+        "id": "C",
+        "text": "Turn off all lights"
+      },
+      {
+        "id": "D",
+        "text": "Stand behind your car in traffic"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "Getting out of traffic and using hazards makes you more visible."
+  },
+  {
+    "id": "tx-086",
+    "topic": "Special situations",
+    "prompt": "What should you do if you have a tire blowout?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Brake hard immediately"
+      },
+      {
+        "id": "B",
+        "text": "Hold the wheel firmly and ease off the accelerator"
+      },
+      {
+        "id": "C",
+        "text": "Turn sharply to the shoulder"
+      },
+      {
+        "id": "D",
+        "text": "Turn off the engine"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "Keeping control and slowing gradually helps you steer safely."
+  },
+  {
+    "id": "tx-087",
+    "topic": "Special situations",
+    "prompt": "To recover from a skid, you should: ",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Steer in the direction you want the front of the car to go"
+      },
+      {
+        "id": "B",
+        "text": "Steer opposite the skid"
+      },
+      {
+        "id": "C",
+        "text": "Brake hard and hold"
+      },
+      {
+        "id": "D",
+        "text": "Accelerate quickly"
+      }
+    ],
+    "correctChoiceId": "A",
+    "explanation": "Steering where you want to go helps regain traction."
+  },
+  {
+    "id": "tx-088",
+    "topic": "Special situations",
+    "prompt": "Bridges and overpasses can be slippery first because: ",
+    "choices": [
+      {
+        "id": "A",
+        "text": "They get more sunlight"
+      },
+      {
+        "id": "B",
+        "text": "They freeze sooner than other road surfaces"
+      },
+      {
+        "id": "C",
+        "text": "They are always salted"
+      },
+      {
+        "id": "D",
+        "text": "They never get wet"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "Elevated surfaces freeze faster in cold weather."
+  },
+  {
+    "id": "tx-089",
+    "topic": "Special situations",
+    "prompt": "If you see a stopped emergency vehicle on the shoulder, you should: ",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Move over or slow down"
+      },
+      {
+        "id": "B",
+        "text": "Speed up to pass quickly"
+      },
+      {
+        "id": "C",
+        "text": "Stop next to it"
+      },
+      {
+        "id": "D",
+        "text": "Ignore it"
+      }
+    ],
+    "correctChoiceId": "A",
+    "explanation": "Move over laws require giving space or slowing down for stopped emergency vehicles."
+  },
+  {
+    "id": "tx-090",
+    "topic": "Special situations",
+    "prompt": "When driving in heavy rain, you should: ",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Use cruise control"
+      },
+      {
+        "id": "B",
+        "text": "Slow down and increase following distance"
+      },
+      {
+        "id": "C",
+        "text": "Turn off headlights"
+      },
+      {
+        "id": "D",
+        "text": "Drive in the center of the road"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "Rain reduces traction and visibility, so slow down."
+  },
+  {
+    "id": "tx-091",
+    "topic": "Special situations",
+    "prompt": "If you approach a pedestrian in a crosswalk, you must: ",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Stop and let them cross"
+      },
+      {
+        "id": "B",
+        "text": "Honk to warn them"
+      },
+      {
+        "id": "C",
+        "text": "Drive around them"
+      },
+      {
+        "id": "D",
+        "text": "Assume they will wait"
+      }
+    ],
+    "correctChoiceId": "A",
+    "explanation": "Pedestrians in a crosswalk have the right-of-way."
+  },
+  {
+    "id": "tx-092",
+    "topic": "Special situations",
+    "prompt": "In neighborhoods, you should: ",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Drive the speed limit regardless of children"
+      },
+      {
+        "id": "B",
+        "text": "Reduce speed and watch for people and pets"
+      },
+      {
+        "id": "C",
+        "text": "Pass parked cars closely"
+      },
+      {
+        "id": "D",
+        "text": "Use high beams"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "Residential areas often have children and limited visibility."
+  },
+  {
+    "id": "tx-093",
+    "topic": "Special situations",
+    "prompt": "When approaching farm equipment on a rural road, you should: ",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Pass immediately on the right"
+      },
+      {
+        "id": "B",
+        "text": "Slow down and pass only when safe"
+      },
+      {
+        "id": "C",
+        "text": "Honk continuously"
+      },
+      {
+        "id": "D",
+        "text": "Drive on the shoulder"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "Farm equipment moves slowly and needs space; wait for a safe pass."
+  },
+  {
+    "id": "tx-094",
+    "topic": "Special situations",
+    "prompt": "Motorcycles in traffic should be given: ",
+    "choices": [
+      {
+        "id": "A",
+        "text": "The same space as a car"
+      },
+      {
+        "id": "B",
+        "text": "Extra space and no lane sharing"
+      },
+      {
+        "id": "C",
+        "text": "Less space because they are small"
+      },
+      {
+        "id": "D",
+        "text": "A reason to honk"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "Motorcycles are smaller and more vulnerable, so leave extra space."
+  },
+  {
+    "id": "tx-095",
+    "topic": "Special situations",
+    "prompt": "When approaching an uncontrolled intersection, you should: ",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Maintain speed"
+      },
+      {
+        "id": "B",
+        "text": "Slow down and be ready to yield"
+      },
+      {
+        "id": "C",
+        "text": "Stop every time"
+      },
+      {
+        "id": "D",
+        "text": "Honk and proceed"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "Uncontrolled intersections require caution and readiness to yield."
+  },
+  {
+    "id": "tx-096",
+    "topic": "Special situations",
+    "prompt": "If your car begins to hydroplane, you should: ",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Brake hard"
+      },
+      {
+        "id": "B",
+        "text": "Ease off the accelerator and steer straight"
+      },
+      {
+        "id": "C",
+        "text": "Turn sharply"
+      },
+      {
+        "id": "D",
+        "text": "Speed up"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "Gentle steering and easing off the gas helps regain traction."
+  },
+  {
+    "id": "tx-097",
+    "topic": "Special situations",
+    "prompt": "If you are approaching a railroad crossing with flashing lights, you must: ",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Stop and wait"
+      },
+      {
+        "id": "B",
+        "text": "Slow down but continue"
+      },
+      {
+        "id": "C",
+        "text": "Cross if no train is visible"
+      },
+      {
+        "id": "D",
+        "text": "Drive around the gate"
+      }
+    ],
+    "correctChoiceId": "A",
+    "explanation": "Flashing lights indicate an approaching train; you must stop."
+  },
+  {
+    "id": "tx-098",
+    "topic": "Special situations",
+    "prompt": "When driving near bicyclists, you should: ",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Pass closely to avoid oncoming traffic"
+      },
+      {
+        "id": "B",
+        "text": "Give them space and wait for a safe pass"
+      },
+      {
+        "id": "C",
+        "text": "Honk continuously"
+      },
+      {
+        "id": "D",
+        "text": "Force them off the road"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "Bicyclists need room to maneuver; wait until you can pass safely."
+  },
+  {
+    "id": "tx-099",
+    "topic": "Special situations",
+    "prompt": "A flagger in a work zone signals you to stop. You should: ",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Obey the flagger's directions"
+      },
+      {
+        "id": "B",
+        "text": "Ignore the flagger"
+      },
+      {
+        "id": "C",
+        "text": "Drive around the cones"
+      },
+      {
+        "id": "D",
+        "text": "Stop only if you see workers"
+      }
+    ],
+    "correctChoiceId": "A",
+    "explanation": "Flaggers direct traffic for safety; their instructions are law."
+  },
+  {
+    "id": "tx-100",
+    "topic": "Special situations",
+    "prompt": "At night on an unlit road, you should: ",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Drive faster to reduce time in the dark"
+      },
+      {
+        "id": "B",
+        "text": "Slow down and use headlights appropriately"
+      },
+      {
+        "id": "C",
+        "text": "Turn off lights to see stars"
+      },
+      {
+        "id": "D",
+        "text": "Stay in the left lane"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "Reduced visibility at night means you should slow down."
+  },
+  {
+    "id": "tx-101",
+    "topic": "Rules & penalties",
+    "prompt": "Who must wear seat belts in a passenger vehicle?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Only the driver"
+      },
+      {
+        "id": "B",
+        "text": "Only front-seat passengers"
+      },
+      {
+        "id": "C",
+        "text": "Everyone in the vehicle"
+      },
+      {
+        "id": "D",
+        "text": "Only passengers under 18"
+      }
+    ],
+    "correctChoiceId": "C",
+    "explanation": "Texas law requires all occupants to wear seat belts."
+  },
+  {
+    "id": "tx-102",
+    "topic": "Rules & penalties",
+    "prompt": "What is the legal BAC limit for most adult drivers?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "0.02"
+      },
+      {
+        "id": "B",
+        "text": "0.05"
+      },
+      {
+        "id": "C",
+        "text": "0.08"
+      },
+      {
+        "id": "D",
+        "text": "0.10"
+      }
+    ],
+    "correctChoiceId": "C",
+    "explanation": "A BAC of 0.08 or higher is illegal for adult drivers."
+  },
+  {
+    "id": "tx-103",
+    "topic": "Rules & penalties",
+    "prompt": "For drivers under 21, driving after drinking alcohol is: ",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Allowed if you are careful"
+      },
+      {
+        "id": "B",
+        "text": "Allowed only at night"
+      },
+      {
+        "id": "C",
+        "text": "Illegal at any detectable level"
+      },
+      {
+        "id": "D",
+        "text": "Allowed with permission"
+      }
+    ],
+    "correctChoiceId": "C",
+    "explanation": "Texas has zero tolerance for alcohol for drivers under 21."
+  },
+  {
+    "id": "tx-104",
+    "topic": "Rules & penalties",
+    "prompt": "If you are involved in a crash with injuries, you must: ",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Leave to avoid traffic"
+      },
+      {
+        "id": "B",
+        "text": "Stop and call for help"
+      },
+      {
+        "id": "C",
+        "text": "Exchange info only if asked"
+      },
+      {
+        "id": "D",
+        "text": "Move vehicles without checking"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "You must stop, help the injured, and report serious crashes."
+  },
+  {
+    "id": "tx-105",
+    "topic": "Rules & penalties",
+    "prompt": "What should you do at a red traffic light?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Proceed if no cars are coming"
+      },
+      {
+        "id": "B",
+        "text": "Stop and wait for green"
+      },
+      {
+        "id": "C",
+        "text": "Slow and roll through"
+      },
+      {
+        "id": "D",
+        "text": "Honk and go"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "A red light means stop and remain stopped until it changes."
+  },
+  {
+    "id": "tx-106",
+    "topic": "Rules & penalties",
+    "prompt": "A right turn on red is allowed when: ",
+    "choices": [
+      {
+        "id": "A",
+        "text": "You stop first and no sign prohibits it"
+      },
+      {
+        "id": "B",
+        "text": "You slow down but do not stop"
+      },
+      {
+        "id": "C",
+        "text": "There is a green arrow"
+      },
+      {
+        "id": "D",
+        "text": "You see no pedestrians"
+      }
+    ],
+    "correctChoiceId": "A",
+    "explanation": "You must stop and yield, and only turn if permitted by signs."
+  },
+  {
+    "id": "tx-107",
+    "topic": "Rules & penalties",
+    "prompt": "What is required at a stop sign?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "A rolling stop"
+      },
+      {
+        "id": "B",
+        "text": "A complete stop before the line or crosswalk"
+      },
+      {
+        "id": "C",
+        "text": "A stop only if pedestrians are present"
+      },
+      {
+        "id": "D",
+        "text": "Stopping after you enter the intersection"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "A full stop is required at stop signs."
+  },
+  {
+    "id": "tx-108",
+    "topic": "Rules & penalties",
+    "prompt": "If a police officer asks for your license and insurance, you must: ",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Provide them when requested"
+      },
+      {
+        "id": "B",
+        "text": "Refuse unless you are cited"
+      },
+      {
+        "id": "C",
+        "text": "Show only if you were speeding"
+      },
+      {
+        "id": "D",
+        "text": "Provide only your name"
+      }
+    ],
+    "correctChoiceId": "A",
+    "explanation": "Drivers must show license and insurance upon request."
+  },
+  {
+    "id": "tx-109",
+    "topic": "Rules & penalties",
+    "prompt": "Driving without insurance in Texas is: ",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Optional if you are careful"
+      },
+      {
+        "id": "B",
+        "text": "Illegal"
+      },
+      {
+        "id": "C",
+        "text": "Allowed for short trips"
+      },
+      {
+        "id": "D",
+        "text": "Required only for new drivers"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "Texas law requires liability insurance or proof of responsibility."
+  },
+  {
+    "id": "tx-110",
+    "topic": "Rules & penalties",
+    "prompt": "Using a phone to read or write messages while driving is: ",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Allowed if traffic is light"
+      },
+      {
+        "id": "B",
+        "text": "Illegal while driving"
+      },
+      {
+        "id": "C",
+        "text": "Allowed only in the left lane"
+      },
+      {
+        "id": "D",
+        "text": "Required for navigation"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "Texas law prohibits reading or writing electronic messages while driving."
+  },
+  {
+    "id": "tx-111",
+    "topic": "Rules & penalties",
+    "prompt": "When should headlights be used?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Only when it is completely dark"
+      },
+      {
+        "id": "B",
+        "text": "From 30 minutes after sunset to 30 minutes before sunrise and in low visibility"
+      },
+      {
+        "id": "C",
+        "text": "Only in the rain"
+      },
+      {
+        "id": "D",
+        "text": "Only on highways"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "Headlights are required at night and whenever visibility is poor."
+  },
+  {
+    "id": "tx-112",
+    "topic": "Rules & penalties",
+    "prompt": "An open container of alcohol in the passenger area is: ",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Allowed if the driver is sober"
+      },
+      {
+        "id": "B",
+        "text": "Illegal"
+      },
+      {
+        "id": "C",
+        "text": "Allowed in the back seat"
+      },
+      {
+        "id": "D",
+        "text": "Allowed in a cup holder"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "Texas prohibits open alcohol containers in the passenger area."
+  },
+  {
+    "id": "tx-113",
+    "topic": "Rules & penalties",
+    "prompt": "If you damage another vehicle or property, you should: ",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Leave a note and go"
+      },
+      {
+        "id": "B",
+        "text": "Stop and exchange information"
+      },
+      {
+        "id": "C",
+        "text": "Drive away if no one is hurt"
+      },
+      {
+        "id": "D",
+        "text": "Call a friend"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "Drivers must stop and provide information after a crash."
+  },
+  {
+    "id": "tx-114",
+    "topic": "Rules & penalties",
+    "prompt": "Driving too fast for conditions can: ",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Be legal if below the posted limit"
+      },
+      {
+        "id": "B",
+        "text": "Result in a citation"
+      },
+      {
+        "id": "C",
+        "text": "Never be enforced"
+      },
+      {
+        "id": "D",
+        "text": "Only matter in construction zones"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "Speed limits do not allow unsafe driving in poor conditions."
+  },
+  {
+    "id": "tx-115",
+    "topic": "Rules & penalties",
+    "prompt": "When turning, you should: ",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Signal and turn from the correct lane"
+      },
+      {
+        "id": "B",
+        "text": "Turn from any lane to save time"
+      },
+      {
+        "id": "C",
+        "text": "Signal only if other cars are close"
+      },
+      {
+        "id": "D",
+        "text": "Turn without checking mirrors"
+      }
+    ],
+    "correctChoiceId": "A",
+    "explanation": "Proper signaling and lane position helps other drivers predict your move."
+  },
+  {
+    "id": "tx-116",
+    "topic": "Rules & penalties",
+    "prompt": "Driving on the shoulder to pass another vehicle is: ",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Allowed in emergencies only"
+      },
+      {
+        "id": "B",
+        "text": "Always legal"
+      },
+      {
+        "id": "C",
+        "text": "Required when traffic is slow"
+      },
+      {
+        "id": "D",
+        "text": "Allowed if the shoulder is paved"
+      }
+    ],
+    "correctChoiceId": "A",
+    "explanation": "Using the shoulder to pass is generally illegal except for emergencies."
+  },
+  {
+    "id": "tx-117",
+    "topic": "Rules & penalties",
+    "prompt": "If you see a pedestrian already in a crosswalk, you must: ",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Yield and let them finish crossing"
+      },
+      {
+        "id": "B",
+        "text": "Honk and proceed"
+      },
+      {
+        "id": "C",
+        "text": "Drive around them"
+      },
+      {
+        "id": "D",
+        "text": "Assume they will hurry"
+      }
+    ],
+    "correctChoiceId": "A",
+    "explanation": "Pedestrians in crosswalks have the right-of-way."
+  },
+  {
+    "id": "tx-118",
+    "topic": "Rules & penalties",
+    "prompt": "If you are convicted of DUI, one possible consequence is: ",
+    "choices": [
+      {
+        "id": "A",
+        "text": "No impact on your license"
+      },
+      {
+        "id": "B",
+        "text": "License suspension"
+      },
+      {
+        "id": "C",
+        "text": "A reward for safe driving"
+      },
+      {
+        "id": "D",
+        "text": "No court involvement"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "DUI convictions can lead to license suspension and other penalties."
+  },
+  {
+    "id": "tx-119",
+    "topic": "Rules & penalties",
+    "prompt": "Child passengers should ride in: ",
+    "choices": [
+      {
+        "id": "A",
+        "text": "A seat belt only, regardless of age"
+      },
+      {
+        "id": "B",
+        "text": "An approved child seat or booster as required"
+      },
+      {
+        "id": "C",
+        "text": "The front seat always"
+      },
+      {
+        "id": "D",
+        "text": "A lap-only belt"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "Texas requires proper child restraint systems based on age and size."
+  },
+  {
+    "id": "tx-120",
+    "topic": "Rules & penalties",
+    "prompt": "If you are stopped at a red light, you may turn left on red only: ",
+    "choices": [
+      {
+        "id": "A",
+        "text": "From a one-way street to another one-way street, if allowed"
+      },
+      {
+        "id": "B",
+        "text": "From any two-way street"
+      },
+      {
+        "id": "C",
+        "text": "Never under any condition"
+      },
+      {
+        "id": "D",
+        "text": "Only if there is a green arrow"
+      }
+    ],
+    "correctChoiceId": "A",
+    "explanation": "Left on red is allowed only from one-way to one-way when permitted by signs."
+  },
+  {
+    "id": "tx-121",
+    "topic": "Rules & penalties",
+    "prompt": "If your vehicle is in a crash and blocks traffic, you should: ",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Leave it in place no matter what"
+      },
+      {
+        "id": "B",
+        "text": "Move it out of traffic if it is safe and drivable"
+      },
+      {
+        "id": "C",
+        "text": "Drive away immediately"
+      },
+      {
+        "id": "D",
+        "text": "Abandon it on the road"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "Texas encourages moving drivable vehicles out of traffic after minor crashes."
+  },
+  {
+    "id": "tx-122",
+    "topic": "Rules & penalties",
+    "prompt": "When approaching a flashing red signal, you must: ",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Stop and proceed only when safe"
+      },
+      {
+        "id": "B",
+        "text": "Treat it like a green light"
+      },
+      {
+        "id": "C",
+        "text": "Speed up"
+      },
+      {
+        "id": "D",
+        "text": "Yield only to cars on your left"
+      }
+    ],
+    "correctChoiceId": "A",
+    "explanation": "Flashing red signals are treated the same as stop signs."
+  },
+  {
+    "id": "tx-123",
+    "topic": "Rules & penalties",
+    "prompt": "A flashing yellow signal means: ",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Stop and wait"
+      },
+      {
+        "id": "B",
+        "text": "Proceed with caution"
+      },
+      {
+        "id": "C",
+        "text": "Road closed"
+      },
+      {
+        "id": "D",
+        "text": "No turn allowed"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "Flashing yellow indicates caution; slow down and check for conflicts."
+  },
+  {
+    "id": "tx-124",
+    "topic": "Rules & penalties",
+    "prompt": "If you lend your car to someone, you should ensure they: ",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Have a valid license"
+      },
+      {
+        "id": "B",
+        "text": "Have a high score on a test"
+      },
+      {
+        "id": "C",
+        "text": "Are driving only short distances"
+      },
+      {
+        "id": "D",
+        "text": "Know the radio controls"
+      }
+    ],
+    "correctChoiceId": "A",
+    "explanation": "Vehicle owners should only allow licensed drivers to operate their cars."
+  },
+  {
+    "id": "tx-125",
+    "topic": "Rules & penalties",
+    "prompt": "A driver who leaves the scene of a crash can face: ",
+    "choices": [
+      {
+        "id": "A",
+        "text": "No penalties"
+      },
+      {
+        "id": "B",
+        "text": "Criminal charges and license consequences"
+      },
+      {
+        "id": "C",
+        "text": "A reward for avoiding traffic"
+      },
+      {
+        "id": "D",
+        "text": "No insurance impact"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "Hit-and-run offenses can carry serious penalties."
+  }
+]

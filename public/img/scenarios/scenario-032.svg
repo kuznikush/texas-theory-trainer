@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300" role="img">
+  <rect width="400" height="300" fill="#e7efe7" />
+  <rect x="190" y="230" width="20" height="50" fill="#7a7a7a" />
+  <polygon points="200,70 270,210 130,210" fill="#c53030" stroke="#8c1f1f" stroke-width="3" /><polygon points="200,90 250,200 150,200" fill="#ffffff" stroke="#ffffff" />
+  <text x="200" y="150.0" text-anchor="middle" font-size="16" fill="#ffffff" font-weight="700">YIELD</text>
+</svg>

@@ -1,6 +1,6 @@
 import { useMemo, useState } from "react";
 import type { ExamConfig, Question } from "./types";
-import questionBankData from "./questionBank.json";
+import questionBankData from "./data/questions.json";
 import { shuffle } from "./utils";
 import "./app.css";
 
@@ -136,7 +136,7 @@ function select(choiceId: string) {
           </button>
 
           <p className="muted small">
-            Add questions in <code>src/questionBank.json</code>.
+            Add questions in <code>src/data/questions.json</code>.
           </p>
         </div>
       </div>
