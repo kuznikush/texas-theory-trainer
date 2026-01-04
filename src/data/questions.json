@@ -1280,7 +1280,7 @@
     "explanation": "When two vehicles stop at the same time, the driver on the left yields to the driver on the right. B is to A\u2019s right.",
     "image": {
       "src": "/img/scenarios/scenario-022.svg",
-      "alt": "Two-way stop with A northbound and B eastbound.",
+      "alt": "Two-way stop with A northbound and B approaching from the right.",
       "credit": "Created for this app"
     }
   },
@@ -1310,7 +1310,7 @@
     "explanation": "The driver at the stop sign must yield to traffic on the main road.",
     "image": {
       "src": "/img/scenarios/scenario-023.svg",
-      "alt": "Stop sign for A turning left, B traveling straight on the main road.",
+      "alt": "A turning left from a stop sign, B traveling straight on the main road.",
       "credit": "Created for this app"
     }
   },
@@ -1430,7 +1430,7 @@
     "explanation": "When arrival is simultaneous, the driver on the left yields to the driver on the right. B is to A\u2019s right.",
     "image": {
       "src": "/img/scenarios/scenario-027.svg",
-      "alt": "Two-way stop with A southbound and B eastbound.",
+      "alt": "Two-way stop with A southbound and B approaching from the right.",
       "credit": "Created for this app"
     }
   },
