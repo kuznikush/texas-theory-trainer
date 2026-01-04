@@ -218,6 +218,13 @@ function select(choiceId: string) {
       <div className="card">
         <div className="prompt">{current.prompt}</div>
 
+        {current.image && (
+          <figure className="scenario">
+            <img src={current.image.src} alt={current.image.alt} />
+            <figcaption className="muted small">{current.image.credit}</figcaption>
+          </figure>
+        )}
+
         <div className="choices">
           {current.choices.map((c) => {
             const isPicked = selected === c.id;

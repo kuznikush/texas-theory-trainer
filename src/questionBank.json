@@ -4,10 +4,22 @@
     "topic": "Right-of-way",
     "prompt": "At a four-way stop, you and another vehicle arrive at the same time from perpendicular streets. What should you do?",
     "choices": [
-      { "id": "A", "text": "Yield to the vehicle on your right" },
-      { "id": "B", "text": "Proceed first because you stopped fully" },
-      { "id": "C", "text": "Wave the other driver through regardless" },
-      { "id": "D", "text": "Proceed only if you are turning left" }
+      {
+        "id": "A",
+        "text": "Yield to the vehicle on your right"
+      },
+      {
+        "id": "B",
+        "text": "Proceed first because you stopped fully"
+      },
+      {
+        "id": "C",
+        "text": "Wave the other driver through regardless"
+      },
+      {
+        "id": "D",
+        "text": "Proceed only if you are turning left"
+      }
     ],
     "correctChoiceId": "A",
     "explanation": "At a four-way stop, the driver on the left yields to the driver on the right when arrival is simultaneous."
@@ -17,10 +29,22 @@
     "topic": "Signs & signals",
     "prompt": "A solid red traffic light means you should:",
     "choices": [
-      { "id": "A", "text": "Slow down and proceed with caution" },
-      { "id": "B", "text": "Stop and remain stopped until the light changes" },
-      { "id": "C", "text": "Stop only if pedestrians are present" },
-      { "id": "D", "text": "Proceed if turning left" }
+      {
+        "id": "A",
+        "text": "Slow down and proceed with caution"
+      },
+      {
+        "id": "B",
+        "text": "Stop and remain stopped until the light changes"
+      },
+      {
+        "id": "C",
+        "text": "Stop only if pedestrians are present"
+      },
+      {
+        "id": "D",
+        "text": "Proceed if turning left"
+      }
     ],
     "correctChoiceId": "B",
     "explanation": "A steady red signal requires a complete stop and you must remain stopped until a green or a permitted turn on red is allowed."
@@ -30,10 +54,22 @@
     "topic": "Right-of-way",
     "prompt": "When entering a highway from an on-ramp in Texas, who has the right-of-way?",
     "choices": [
-      { "id": "A", "text": "Vehicles already on the highway" },
-      { "id": "B", "text": "Vehicles on the on-ramp" },
-      { "id": "C", "text": "The vehicle with the higher speed" },
-      { "id": "D", "text": "The vehicle signaling first" }
+      {
+        "id": "A",
+        "text": "Vehicles already on the highway"
+      },
+      {
+        "id": "B",
+        "text": "Vehicles on the on-ramp"
+      },
+      {
+        "id": "C",
+        "text": "The vehicle with the higher speed"
+      },
+      {
+        "id": "D",
+        "text": "The vehicle signaling first"
+      }
     ],
     "correctChoiceId": "A",
     "explanation": "Drivers merging from an on-ramp must yield to traffic already on the highway."
@@ -43,10 +79,22 @@
     "topic": "Signs & signals",
     "prompt": "A flashing yellow traffic signal at an intersection means:",
     "choices": [
-      { "id": "A", "text": "Stop completely, then proceed" },
-      { "id": "B", "text": "Proceed with caution and be prepared to stop" },
-      { "id": "C", "text": "Stop and wait for a green light" },
-      { "id": "D", "text": "The intersection is closed" }
+      {
+        "id": "A",
+        "text": "Stop completely, then proceed"
+      },
+      {
+        "id": "B",
+        "text": "Proceed with caution and be prepared to stop"
+      },
+      {
+        "id": "C",
+        "text": "Stop and wait for a green light"
+      },
+      {
+        "id": "D",
+        "text": "The intersection is closed"
+      }
     ],
     "correctChoiceId": "B",
     "explanation": "Flashing yellow indicates caution. Slow down and be prepared to yield or stop."
@@ -56,10 +104,22 @@
     "topic": "Right-of-way",
     "prompt": "You are turning left at an intersection with a green light but no green arrow. What must you do?",
     "choices": [
-      { "id": "A", "text": "Yield to oncoming traffic and pedestrians" },
-      { "id": "B", "text": "Turn immediately because you have a green light" },
-      { "id": "C", "text": "Yield only to pedestrians" },
-      { "id": "D", "text": "Wait only if you see a red light" }
+      {
+        "id": "A",
+        "text": "Yield to oncoming traffic and pedestrians"
+      },
+      {
+        "id": "B",
+        "text": "Turn immediately because you have a green light"
+      },
+      {
+        "id": "C",
+        "text": "Yield only to pedestrians"
+      },
+      {
+        "id": "D",
+        "text": "Wait only if you see a red light"
+      }
     ],
     "correctChoiceId": "A",
     "explanation": "A steady green without a protected arrow requires yielding to oncoming traffic and pedestrians before turning left."
@@ -69,10 +129,22 @@
     "topic": "Signs & signals",
     "prompt": "A steady yellow traffic light warns that:",
     "choices": [
-      { "id": "A", "text": "You must stop immediately, even if unsafe" },
-      { "id": "B", "text": "The light is about to turn red" },
-      { "id": "C", "text": "Pedestrians may start crossing now" },
-      { "id": "D", "text": "You may proceed at full speed" }
+      {
+        "id": "A",
+        "text": "You must stop immediately, even if unsafe"
+      },
+      {
+        "id": "B",
+        "text": "The light is about to turn red"
+      },
+      {
+        "id": "C",
+        "text": "Pedestrians may start crossing now"
+      },
+      {
+        "id": "D",
+        "text": "You may proceed at full speed"
+      }
     ],
     "correctChoiceId": "B",
     "explanation": "Yellow means the signal is changing to red. You should stop if it is safe to do so."
@@ -82,10 +154,22 @@
     "topic": "Right-of-way",
     "prompt": "At an uncontrolled intersection (no signs or signals), who has the right-of-way?",
     "choices": [
-      { "id": "A", "text": "The driver on the left" },
-      { "id": "B", "text": "The driver on the right" },
-      { "id": "C", "text": "The faster vehicle" },
-      { "id": "D", "text": "The larger vehicle" }
+      {
+        "id": "A",
+        "text": "The driver on the left"
+      },
+      {
+        "id": "B",
+        "text": "The driver on the right"
+      },
+      {
+        "id": "C",
+        "text": "The faster vehicle"
+      },
+      {
+        "id": "D",
+        "text": "The larger vehicle"
+      }
     ],
     "correctChoiceId": "B",
     "explanation": "When two vehicles arrive at an uncontrolled intersection at the same time, the driver on the left yields to the driver on the right."
@@ -95,10 +179,22 @@
     "topic": "Signs & signals",
     "prompt": "A red arrow pointing right means:",
     "choices": [
-      { "id": "A", "text": "You may turn right after slowing" },
-      { "id": "B", "text": "You must stop and may not turn right" },
-      { "id": "C", "text": "You may turn right if no pedestrians are present" },
-      { "id": "D", "text": "You may turn right only from the left lane" }
+      {
+        "id": "A",
+        "text": "You may turn right after slowing"
+      },
+      {
+        "id": "B",
+        "text": "You must stop and may not turn right"
+      },
+      {
+        "id": "C",
+        "text": "You may turn right if no pedestrians are present"
+      },
+      {
+        "id": "D",
+        "text": "You may turn right only from the left lane"
+      }
     ],
     "correctChoiceId": "B",
     "explanation": "A red arrow prohibits movement in that direction. You must stop and wait for a green arrow."
@@ -108,10 +204,22 @@
     "topic": "Right-of-way",
     "prompt": "A school bus is stopped with flashing red lights and a stop arm on your roadway. What must you do?",
     "choices": [
-      { "id": "A", "text": "Slow and pass if no children are visible" },
-      { "id": "B", "text": "Stop and remain stopped until the lights stop flashing" },
-      { "id": "C", "text": "Stop only if you are behind the bus" },
-      { "id": "D", "text": "Pass carefully on the left" }
+      {
+        "id": "A",
+        "text": "Slow and pass if no children are visible"
+      },
+      {
+        "id": "B",
+        "text": "Stop and remain stopped until the lights stop flashing"
+      },
+      {
+        "id": "C",
+        "text": "Stop only if you are behind the bus"
+      },
+      {
+        "id": "D",
+        "text": "Pass carefully on the left"
+      }
     ],
     "correctChoiceId": "B",
     "explanation": "Texas law requires drivers to stop for a school bus with flashing red lights and a stop arm on the same roadway."
@@ -121,10 +229,22 @@
     "topic": "Signs & signals",
     "prompt": "A white rectangular sign with black lettering is usually a:",
     "choices": [
-      { "id": "A", "text": "Warning sign" },
-      { "id": "B", "text": "Regulatory sign" },
-      { "id": "C", "text": "Guide sign" },
-      { "id": "D", "text": "Construction sign" }
+      {
+        "id": "A",
+        "text": "Warning sign"
+      },
+      {
+        "id": "B",
+        "text": "Regulatory sign"
+      },
+      {
+        "id": "C",
+        "text": "Guide sign"
+      },
+      {
+        "id": "D",
+        "text": "Construction sign"
+      }
     ],
     "correctChoiceId": "B",
     "explanation": "Regulatory signs are typically white rectangles with black lettering indicating rules such as speed limits or lane use."
@@ -134,10 +254,22 @@
     "topic": "Right-of-way",
     "prompt": "You are making a right turn at a green light while a pedestrian is crossing in the crosswalk. Who has the right-of-way?",
     "choices": [
-      { "id": "A", "text": "The turning vehicle" },
-      { "id": "B", "text": "The pedestrian in the crosswalk" },
-      { "id": "C", "text": "Whoever entered the intersection first" },
-      { "id": "D", "text": "The vehicle with a green light" }
+      {
+        "id": "A",
+        "text": "The turning vehicle"
+      },
+      {
+        "id": "B",
+        "text": "The pedestrian in the crosswalk"
+      },
+      {
+        "id": "C",
+        "text": "Whoever entered the intersection first"
+      },
+      {
+        "id": "D",
+        "text": "The vehicle with a green light"
+      }
     ],
     "correctChoiceId": "B",
     "explanation": "Pedestrians in a crosswalk have the right-of-way, even when the traffic signal is green for vehicles."
@@ -147,10 +279,22 @@
     "topic": "Signs & signals",
     "prompt": "What does a diamond-shaped yellow sign indicate?",
     "choices": [
-      { "id": "A", "text": "Regulatory information" },
-      { "id": "B", "text": "Warning of road conditions or hazards" },
-      { "id": "C", "text": "Services available ahead" },
-      { "id": "D", "text": "Recreation area" }
+      {
+        "id": "A",
+        "text": "Regulatory information"
+      },
+      {
+        "id": "B",
+        "text": "Warning of road conditions or hazards"
+      },
+      {
+        "id": "C",
+        "text": "Services available ahead"
+      },
+      {
+        "id": "D",
+        "text": "Recreation area"
+      }
     ],
     "correctChoiceId": "B",
     "explanation": "Yellow diamond-shaped signs warn drivers of upcoming conditions or hazards."
@@ -160,10 +304,22 @@
     "topic": "Right-of-way",
     "prompt": "You are at a stop sign and a cross street has no stop sign. What should you do?",
     "choices": [
-      { "id": "A", "text": "Proceed after a rolling stop" },
-      { "id": "B", "text": "Yield to traffic on the cross street" },
-      { "id": "C", "text": "Proceed if no cars are close" },
-      { "id": "D", "text": "Honk and go" }
+      {
+        "id": "A",
+        "text": "Proceed after a rolling stop"
+      },
+      {
+        "id": "B",
+        "text": "Yield to traffic on the cross street"
+      },
+      {
+        "id": "C",
+        "text": "Proceed if no cars are close"
+      },
+      {
+        "id": "D",
+        "text": "Honk and go"
+      }
     ],
     "correctChoiceId": "B",
     "explanation": "Drivers at a stop sign must yield to vehicles on the cross street that are not required to stop."
@@ -173,23 +329,47 @@
     "topic": "Signs & signals",
     "prompt": "A green arrow displayed with a red light means:",
     "choices": [
-      { "id": "A", "text": "You may proceed only in the direction of the arrow" },
-      { "id": "B", "text": "You may proceed straight only" },
-      { "id": "C", "text": "Stop completely before turning" },
-      { "id": "D", "text": "Yield to all traffic and pedestrians" }
+      {
+        "id": "A",
+        "text": "You may proceed only in the direction of the arrow"
+      },
+      {
+        "id": "B",
+        "text": "You may proceed straight only"
+      },
+      {
+        "id": "C",
+        "text": "Stop completely before turning"
+      },
+      {
+        "id": "D",
+        "text": "Yield to all traffic and pedestrians"
+      }
     ],
     "correctChoiceId": "A",
-    "explanation": "A green arrow indicates a protected movement in the arrow’s direction, even if the red light is still showing."
+    "explanation": "A green arrow indicates a protected movement in the arrow\u2019s direction, even if the red light is still showing."
   },
   {
     "id": "tx-015",
     "topic": "Right-of-way",
     "prompt": "At a two-way stop, a vehicle on the through road is approaching. You are at the stop sign. What should you do?",
     "choices": [
-      { "id": "A", "text": "Proceed if you can beat the approaching car" },
-      { "id": "B", "text": "Yield to the vehicle on the through road" },
-      { "id": "C", "text": "Proceed if the other vehicle is turning" },
-      { "id": "D", "text": "Go first because you stopped" }
+      {
+        "id": "A",
+        "text": "Proceed if you can beat the approaching car"
+      },
+      {
+        "id": "B",
+        "text": "Yield to the vehicle on the through road"
+      },
+      {
+        "id": "C",
+        "text": "Proceed if the other vehicle is turning"
+      },
+      {
+        "id": "D",
+        "text": "Go first because you stopped"
+      }
     ],
     "correctChoiceId": "B",
     "explanation": "Traffic on the through road has the right-of-way. Drivers at the stop sign must yield."
@@ -199,10 +379,22 @@
     "topic": "Signs & signals",
     "prompt": "An octagonal red sign means:",
     "choices": [
-      { "id": "A", "text": "Yield" },
-      { "id": "B", "text": "Stop" },
-      { "id": "C", "text": "Do not enter" },
-      { "id": "D", "text": "Railroad crossing" }
+      {
+        "id": "A",
+        "text": "Yield"
+      },
+      {
+        "id": "B",
+        "text": "Stop"
+      },
+      {
+        "id": "C",
+        "text": "Do not enter"
+      },
+      {
+        "id": "D",
+        "text": "Railroad crossing"
+      }
     ],
     "correctChoiceId": "B",
     "explanation": "Only stop signs are octagonal and red. They require a complete stop."
@@ -212,10 +404,22 @@
     "topic": "Right-of-way",
     "prompt": "When an emergency vehicle with flashing lights is approaching from behind, you must:",
     "choices": [
-      { "id": "A", "text": "Maintain your speed and stay in your lane" },
-      { "id": "B", "text": "Pull to the right and stop" },
-      { "id": "C", "text": "Accelerate to clear the lane" },
-      { "id": "D", "text": "Move left and continue driving" }
+      {
+        "id": "A",
+        "text": "Maintain your speed and stay in your lane"
+      },
+      {
+        "id": "B",
+        "text": "Pull to the right and stop"
+      },
+      {
+        "id": "C",
+        "text": "Accelerate to clear the lane"
+      },
+      {
+        "id": "D",
+        "text": "Move left and continue driving"
+      }
     ],
     "correctChoiceId": "B",
     "explanation": "Texas law requires drivers to yield by pulling to the right and stopping for approaching emergency vehicles using lights and sirens."
@@ -225,10 +429,22 @@
     "topic": "Signs & signals",
     "prompt": "A flashing red traffic signal should be treated as:",
     "choices": [
-      { "id": "A", "text": "A yield sign" },
-      { "id": "B", "text": "A stop sign" },
-      { "id": "C", "text": "A green light" },
-      { "id": "D", "text": "A caution signal you may ignore" }
+      {
+        "id": "A",
+        "text": "A yield sign"
+      },
+      {
+        "id": "B",
+        "text": "A stop sign"
+      },
+      {
+        "id": "C",
+        "text": "A green light"
+      },
+      {
+        "id": "D",
+        "text": "A caution signal you may ignore"
+      }
     ],
     "correctChoiceId": "B",
     "explanation": "Flashing red means stop completely and proceed only when safe, just like a stop sign."
@@ -238,10 +454,22 @@
     "topic": "Right-of-way",
     "prompt": "You are entering a roundabout and a vehicle is already circulating. What should you do?",
     "choices": [
-      { "id": "A", "text": "Enter quickly; circulating traffic must yield" },
-      { "id": "B", "text": "Yield to the circulating vehicle" },
-      { "id": "C", "text": "Stop and wait for a signal from the other driver" },
-      { "id": "D", "text": "Enter only if turning right" }
+      {
+        "id": "A",
+        "text": "Enter quickly; circulating traffic must yield"
+      },
+      {
+        "id": "B",
+        "text": "Yield to the circulating vehicle"
+      },
+      {
+        "id": "C",
+        "text": "Stop and wait for a signal from the other driver"
+      },
+      {
+        "id": "D",
+        "text": "Enter only if turning right"
+      }
     ],
     "correctChoiceId": "B",
     "explanation": "Drivers entering a roundabout must yield to vehicles already in the roundabout."
@@ -251,10 +479,22 @@
     "topic": "Signs & signals",
     "prompt": "A yellow pennant-shaped sign on the left side of the road indicates:",
     "choices": [
-      { "id": "A", "text": "No passing zone" },
-      { "id": "B", "text": "School zone" },
-      { "id": "C", "text": "Railroad crossing ahead" },
-      { "id": "D", "text": "Divided highway ends" }
+      {
+        "id": "A",
+        "text": "No passing zone"
+      },
+      {
+        "id": "B",
+        "text": "School zone"
+      },
+      {
+        "id": "C",
+        "text": "Railroad crossing ahead"
+      },
+      {
+        "id": "D",
+        "text": "Divided highway ends"
+      }
     ],
     "correctChoiceId": "A",
     "explanation": "A yellow pennant-shaped sign marks the beginning of a no passing zone."
@@ -264,10 +504,22 @@
     "topic": "Right-of-way",
     "prompt": "You are approaching a crosswalk without a signal, and a pedestrian steps into the crosswalk. What should you do?",
     "choices": [
-      { "id": "A", "text": "Proceed if you can clear the crosswalk" },
-      { "id": "B", "text": "Yield and stop for the pedestrian" },
-      { "id": "C", "text": "Honk to alert the pedestrian" },
-      { "id": "D", "text": "Slow down but continue through" }
+      {
+        "id": "A",
+        "text": "Proceed if you can clear the crosswalk"
+      },
+      {
+        "id": "B",
+        "text": "Yield and stop for the pedestrian"
+      },
+      {
+        "id": "C",
+        "text": "Honk to alert the pedestrian"
+      },
+      {
+        "id": "D",
+        "text": "Slow down but continue through"
+      }
     ],
     "correctChoiceId": "B",
     "explanation": "Pedestrians in a crosswalk have the right-of-way. You must yield and stop."
@@ -277,10 +529,22 @@
     "topic": "Signs & signals",
     "prompt": "A rectangular sign with the words 'DO NOT ENTER' means:",
     "choices": [
-      { "id": "A", "text": "You may enter if no traffic is present" },
-      { "id": "B", "text": "You must not enter the roadway" },
-      { "id": "C", "text": "You may enter to turn around" },
-      { "id": "D", "text": "You must yield before entering" }
+      {
+        "id": "A",
+        "text": "You may enter if no traffic is present"
+      },
+      {
+        "id": "B",
+        "text": "You must not enter the roadway"
+      },
+      {
+        "id": "C",
+        "text": "You may enter to turn around"
+      },
+      {
+        "id": "D",
+        "text": "You must yield before entering"
+      }
     ],
     "correctChoiceId": "B",
     "explanation": "A 'DO NOT ENTER' sign prohibits entering the roadway."
@@ -290,10 +554,22 @@
     "topic": "Right-of-way",
     "prompt": "When two vehicles arrive at the same time at a four-way stop and one is turning left, who has the right-of-way?",
     "choices": [
-      { "id": "A", "text": "The vehicle turning left" },
-      { "id": "B", "text": "The vehicle going straight" },
-      { "id": "C", "text": "The larger vehicle" },
-      { "id": "D", "text": "The vehicle that signals first" }
+      {
+        "id": "A",
+        "text": "The vehicle turning left"
+      },
+      {
+        "id": "B",
+        "text": "The vehicle going straight"
+      },
+      {
+        "id": "C",
+        "text": "The larger vehicle"
+      },
+      {
+        "id": "D",
+        "text": "The vehicle that signals first"
+      }
     ],
     "correctChoiceId": "B",
     "explanation": "At a four-way stop, a vehicle turning left must yield to a vehicle going straight when arriving at the same time."
@@ -303,10 +579,22 @@
     "topic": "Signs & signals",
     "prompt": "What does a solid white line between lanes indicate?",
     "choices": [
-      { "id": "A", "text": "Lane changes are discouraged or prohibited" },
-      { "id": "B", "text": "Passing is allowed on both sides" },
-      { "id": "C", "text": "Traffic is moving in opposite directions" },
-      { "id": "D", "text": "The lane is reserved for buses only" }
+      {
+        "id": "A",
+        "text": "Lane changes are discouraged or prohibited"
+      },
+      {
+        "id": "B",
+        "text": "Passing is allowed on both sides"
+      },
+      {
+        "id": "C",
+        "text": "Traffic is moving in opposite directions"
+      },
+      {
+        "id": "D",
+        "text": "The lane is reserved for buses only"
+      }
     ],
     "correctChoiceId": "A",
     "explanation": "A solid white line indicates lane changes should be avoided or are not permitted."
@@ -316,12 +604,924 @@
     "topic": "Right-of-way",
     "prompt": "You are turning right on red where permitted. Who must you yield to?",
     "choices": [
-      { "id": "A", "text": "Only oncoming vehicles" },
-      { "id": "B", "text": "All cross traffic, pedestrians, and cyclists" },
-      { "id": "C", "text": "Only pedestrians in marked crosswalks" },
-      { "id": "D", "text": "Only vehicles turning left" }
+      {
+        "id": "A",
+        "text": "Only oncoming vehicles"
+      },
+      {
+        "id": "B",
+        "text": "All cross traffic, pedestrians, and cyclists"
+      },
+      {
+        "id": "C",
+        "text": "Only pedestrians in marked crosswalks"
+      },
+      {
+        "id": "D",
+        "text": "Only vehicles turning left"
+      }
     ],
     "correctChoiceId": "B",
     "explanation": "After a complete stop, you must yield to all cross traffic and pedestrians before turning right on red."
+  },
+  {
+    "id": "tx-img-001",
+    "topic": "Right-of-way",
+    "prompt": "At the four-way stop shown, both A and B arrive at the same time. Who goes first?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Vehicle A"
+      },
+      {
+        "id": "B",
+        "text": "Vehicle B"
+      },
+      {
+        "id": "C",
+        "text": "They should go together"
+      },
+      {
+        "id": "D",
+        "text": "Neither; wait for a police officer"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "When two vehicles arrive at the same time at a four-way stop, the driver on the left yields to the driver on the right. B is to A\u2019s right.",
+    "image": {
+      "src": "/img/scenarios/scenario-001.svg",
+      "alt": "Four-way stop with car A southbound and car B westbound.",
+      "credit": "Created for this app"
+    }
+  },
+  {
+    "id": "tx-img-002",
+    "topic": "Right-of-way",
+    "prompt": "Vehicle A is stopped at a stop sign on the side street. Vehicle B is on the through road. Who goes first?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Vehicle A"
+      },
+      {
+        "id": "B",
+        "text": "Vehicle B"
+      },
+      {
+        "id": "C",
+        "text": "Whichever signals first"
+      },
+      {
+        "id": "D",
+        "text": "They should go together"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "Traffic on the through road has the right-of-way. The driver at the stop sign must yield.",
+    "image": {
+      "src": "/img/scenarios/scenario-002.svg",
+      "alt": "Side street with stop sign for A, B on through road.",
+      "credit": "Created for this app"
+    }
+  },
+  {
+    "id": "tx-img-003",
+    "topic": "Right-of-way",
+    "prompt": "A is turning left on a green light. B is going straight through oncoming. Who goes first?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Vehicle A"
+      },
+      {
+        "id": "B",
+        "text": "Vehicle B"
+      },
+      {
+        "id": "C",
+        "text": "They should go together"
+      },
+      {
+        "id": "D",
+        "text": "A goes only if B flashes headlights"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "A left turn on a green light must yield to oncoming traffic going straight.",
+    "image": {
+      "src": "/img/scenarios/scenario-003.svg",
+      "alt": "Signalized intersection with A turning left and B going straight.",
+      "credit": "Created for this app"
+    }
+  },
+  {
+    "id": "tx-img-004",
+    "topic": "Signs & signals",
+    "prompt": "A wants to turn right on red. B has a green light going straight. Who goes first?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Vehicle A"
+      },
+      {
+        "id": "B",
+        "text": "Vehicle B"
+      },
+      {
+        "id": "C",
+        "text": "They should go together"
+      },
+      {
+        "id": "D",
+        "text": "Whoever is closer"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "Right turn on red is permitted only after a stop and must yield to cross traffic with a green light.",
+    "image": {
+      "src": "/img/scenarios/scenario-004.svg",
+      "alt": "Signalized intersection with A at red turning right and B moving through on green.",
+      "credit": "Created for this app"
+    }
+  },
+  {
+    "id": "tx-img-005",
+    "topic": "Right-of-way",
+    "prompt": "A is entering the main road from a yield sign. B is already on the main road. Who goes first?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Vehicle A"
+      },
+      {
+        "id": "B",
+        "text": "Vehicle B"
+      },
+      {
+        "id": "C",
+        "text": "They should go together"
+      },
+      {
+        "id": "D",
+        "text": "A goes first because it is merging"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "A yield sign means the entering driver must let main-road traffic go first.",
+    "image": {
+      "src": "/img/scenarios/scenario-005.svg",
+      "alt": "Yield sign for A entering from the side, B traveling on the main road.",
+      "credit": "Created for this app"
+    }
+  },
+  {
+    "id": "tx-img-006",
+    "topic": "Right-of-way",
+    "prompt": "There are no signs or signals. Both A and B arrive at the same time. Who goes first?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Vehicle A"
+      },
+      {
+        "id": "B",
+        "text": "Vehicle B"
+      },
+      {
+        "id": "C",
+        "text": "They should go together"
+      },
+      {
+        "id": "D",
+        "text": "The larger vehicle"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "At an uncontrolled intersection, the driver on the left yields to the driver on the right. B is to A\u2019s right.",
+    "image": {
+      "src": "/img/scenarios/scenario-006.svg",
+      "alt": "Uncontrolled intersection with A southbound and B westbound.",
+      "credit": "Created for this app"
+    }
+  },
+  {
+    "id": "tx-img-007",
+    "topic": "Right-of-way",
+    "prompt": "A is stopped at a stop sign on the side street. B is on the through road. Who goes first?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Vehicle A"
+      },
+      {
+        "id": "B",
+        "text": "Vehicle B"
+      },
+      {
+        "id": "C",
+        "text": "They should go together"
+      },
+      {
+        "id": "D",
+        "text": "Whoever arrived first"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "The driver on the side street must yield to traffic on the through road.",
+    "image": {
+      "src": "/img/scenarios/scenario-007.svg",
+      "alt": "Stop sign for A on the east approach, B on the main road.",
+      "credit": "Created for this app"
+    }
+  },
+  {
+    "id": "tx-img-008",
+    "topic": "Right-of-way",
+    "prompt": "At the four-way stop, A arrived first. B and C arrived after A. Who goes first?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Vehicle A"
+      },
+      {
+        "id": "B",
+        "text": "Vehicle B"
+      },
+      {
+        "id": "C",
+        "text": "Vehicle C"
+      },
+      {
+        "id": "D",
+        "text": "B and C together"
+      }
+    ],
+    "correctChoiceId": "A",
+    "explanation": "At a four-way stop, the first vehicle to come to a complete stop goes first.",
+    "image": {
+      "src": "/img/scenarios/scenario-008.svg",
+      "alt": "Four-way stop with cars A, B, and C waiting.",
+      "credit": "Created for this app"
+    }
+  },
+  {
+    "id": "tx-img-009",
+    "topic": "Signs & signals",
+    "prompt": "A has a protected green left arrow. B has a red light. Who goes first?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Vehicle A"
+      },
+      {
+        "id": "B",
+        "text": "Vehicle B"
+      },
+      {
+        "id": "C",
+        "text": "They should go together"
+      },
+      {
+        "id": "D",
+        "text": "Whoever is closer"
+      }
+    ],
+    "correctChoiceId": "A",
+    "explanation": "A green arrow gives A a protected turn; cross traffic with a red light must wait.",
+    "image": {
+      "src": "/img/scenarios/scenario-009.svg",
+      "alt": "Traffic signal with a protected left turn for A and red for B.",
+      "credit": "Created for this app"
+    }
+  },
+  {
+    "id": "tx-img-010",
+    "topic": "Signs & signals",
+    "prompt": "A faces a red right arrow. B has a green light going straight. Who goes first?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Vehicle A"
+      },
+      {
+        "id": "B",
+        "text": "Vehicle B"
+      },
+      {
+        "id": "C",
+        "text": "They should go together"
+      },
+      {
+        "id": "D",
+        "text": "A can go after slowing"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "A red arrow means A must stop and wait. B proceeds on green.",
+    "image": {
+      "src": "/img/scenarios/scenario-010.svg",
+      "alt": "Signalized intersection with A facing a red right arrow and B with green.",
+      "credit": "Created for this app"
+    }
+  },
+  {
+    "id": "tx-img-011",
+    "topic": "Right-of-way",
+    "prompt": "B is stopped at a stop sign on the side street. A is on the through road. Who goes first?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Vehicle A"
+      },
+      {
+        "id": "B",
+        "text": "Vehicle B"
+      },
+      {
+        "id": "C",
+        "text": "They should go together"
+      },
+      {
+        "id": "D",
+        "text": "The faster vehicle"
+      }
+    ],
+    "correctChoiceId": "A",
+    "explanation": "Traffic on the main road has the right-of-way; the driver at the stop sign must wait.",
+    "image": {
+      "src": "/img/scenarios/scenario-011.svg",
+      "alt": "Through road with A traveling and B waiting at a stop sign.",
+      "credit": "Created for this app"
+    }
+  },
+  {
+    "id": "tx-img-012",
+    "topic": "Right-of-way",
+    "prompt": "At a two-way stop, A is turning left and B is going straight. Who goes first?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Vehicle A"
+      },
+      {
+        "id": "B",
+        "text": "Vehicle B"
+      },
+      {
+        "id": "C",
+        "text": "They should go together"
+      },
+      {
+        "id": "D",
+        "text": "Whoever signals first"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "A left turn must yield to a vehicle going straight from the opposite direction.",
+    "image": {
+      "src": "/img/scenarios/scenario-012.svg",
+      "alt": "Two-way stop with A turning left and B going straight.",
+      "credit": "Created for this app"
+    }
+  },
+  {
+    "id": "tx-img-013",
+    "topic": "Signs & signals",
+    "prompt": "A faces a flashing red signal. B has no stop sign. Who goes first?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Vehicle A"
+      },
+      {
+        "id": "B",
+        "text": "Vehicle B"
+      },
+      {
+        "id": "C",
+        "text": "They should go together"
+      },
+      {
+        "id": "D",
+        "text": "A goes first because it stopped"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "A flashing red is treated like a stop sign, so A must yield to cross traffic.",
+    "image": {
+      "src": "/img/scenarios/scenario-013.svg",
+      "alt": "Flashing red signal for A and cross traffic for B.",
+      "credit": "Created for this app"
+    }
+  },
+  {
+    "id": "tx-img-014",
+    "topic": "Signs & signals",
+    "prompt": "A has a flashing yellow signal on the main road. B is at a stop sign. Who goes first?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Vehicle A"
+      },
+      {
+        "id": "B",
+        "text": "Vehicle B"
+      },
+      {
+        "id": "C",
+        "text": "They should go together"
+      },
+      {
+        "id": "D",
+        "text": "B goes first because A must stop"
+      }
+    ],
+    "correctChoiceId": "A",
+    "explanation": "Flashing yellow means proceed with caution; B must stop and yield at the stop sign.",
+    "image": {
+      "src": "/img/scenarios/scenario-014.svg",
+      "alt": "Flashing yellow for A on the main road and a stop sign for B.",
+      "credit": "Created for this app"
+    }
+  },
+  {
+    "id": "tx-img-015",
+    "topic": "Right-of-way",
+    "prompt": "At a T-intersection, A is on the terminating road with a yield sign. B is on the through road. Who goes first?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Vehicle A"
+      },
+      {
+        "id": "B",
+        "text": "Vehicle B"
+      },
+      {
+        "id": "C",
+        "text": "They should go together"
+      },
+      {
+        "id": "D",
+        "text": "A goes first because it is entering"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "Drivers facing a yield sign must let through traffic go first.",
+    "image": {
+      "src": "/img/scenarios/scenario-015.svg",
+      "alt": "T-intersection with a yield sign for A and B on the through road.",
+      "credit": "Created for this app"
+    }
+  },
+  {
+    "id": "tx-img-016",
+    "topic": "Signs & signals",
+    "prompt": "A has a green light going straight. B wants to turn right on a red light. Who goes first?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Vehicle A"
+      },
+      {
+        "id": "B",
+        "text": "Vehicle B"
+      },
+      {
+        "id": "C",
+        "text": "They should go together"
+      },
+      {
+        "id": "D",
+        "text": "B can go because it is turning right"
+      }
+    ],
+    "correctChoiceId": "A",
+    "explanation": "Traffic with a green light goes first. Right on red must yield after stopping.",
+    "image": {
+      "src": "/img/scenarios/scenario-016.svg",
+      "alt": "Green light for A, red light for B turning right.",
+      "credit": "Created for this app"
+    }
+  },
+  {
+    "id": "tx-img-017",
+    "topic": "Right-of-way",
+    "prompt": "At a two-way stop, A and B arrive at the same time. Who goes first?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Vehicle A"
+      },
+      {
+        "id": "B",
+        "text": "Vehicle B"
+      },
+      {
+        "id": "C",
+        "text": "They should go together"
+      },
+      {
+        "id": "D",
+        "text": "Whoever signals first"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "When arrival is simultaneous, the driver on the left yields to the driver on the right. B is to A\u2019s right.",
+    "image": {
+      "src": "/img/scenarios/scenario-017.svg",
+      "alt": "Two-way stop with A westbound and B southbound.",
+      "credit": "Created for this app"
+    }
+  },
+  {
+    "id": "tx-img-018",
+    "topic": "Right-of-way",
+    "prompt": "At an uncontrolled T-intersection, A is on the through road and B is turning left from the side road. Who goes first?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Vehicle A"
+      },
+      {
+        "id": "B",
+        "text": "Vehicle B"
+      },
+      {
+        "id": "C",
+        "text": "They should go together"
+      },
+      {
+        "id": "D",
+        "text": "B goes first because it is turning"
+      }
+    ],
+    "correctChoiceId": "A",
+    "explanation": "Vehicles on the through road have the right-of-way over vehicles entering from a side road.",
+    "image": {
+      "src": "/img/scenarios/scenario-018.svg",
+      "alt": "Uncontrolled T-intersection with A on the through road and B turning left from the side.",
+      "credit": "Created for this app"
+    }
+  },
+  {
+    "id": "tx-img-019",
+    "topic": "Right-of-way",
+    "prompt": "A is turning left on a green light. B is going straight through the intersection. Who goes first?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Vehicle A"
+      },
+      {
+        "id": "B",
+        "text": "Vehicle B"
+      },
+      {
+        "id": "C",
+        "text": "They should go together"
+      },
+      {
+        "id": "D",
+        "text": "A goes first because it is already turning"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "A left turn on green must yield to oncoming traffic going straight.",
+    "image": {
+      "src": "/img/scenarios/scenario-019.svg",
+      "alt": "Signalized intersection with A turning left and B going straight.",
+      "credit": "Created for this app"
+    }
+  },
+  {
+    "id": "tx-img-020",
+    "topic": "Right-of-way",
+    "prompt": "A is turning right from a stop sign onto the main road. B is already on the main road. Who goes first?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Vehicle A"
+      },
+      {
+        "id": "B",
+        "text": "Vehicle B"
+      },
+      {
+        "id": "C",
+        "text": "They should go together"
+      },
+      {
+        "id": "D",
+        "text": "A goes first because it is turning right"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "Drivers turning from a stop sign must yield to traffic already on the main road.",
+    "image": {
+      "src": "/img/scenarios/scenario-020.svg",
+      "alt": "Stop sign for A turning right onto a main road with B approaching.",
+      "credit": "Created for this app"
+    }
+  },
+  {
+    "id": "tx-img-021",
+    "topic": "Right-of-way",
+    "prompt": "At the four-way stop, A is turning right and B is turning left. Both arrive at the same time. Who goes first?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Vehicle A"
+      },
+      {
+        "id": "B",
+        "text": "Vehicle B"
+      },
+      {
+        "id": "C",
+        "text": "They should go together"
+      },
+      {
+        "id": "D",
+        "text": "Whoever signals first"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "At a four-way stop, drivers yield to the vehicle on their right. B is to A\u2019s right.",
+    "image": {
+      "src": "/img/scenarios/scenario-021.svg",
+      "alt": "Four-way stop with A turning right and B turning left.",
+      "credit": "Created for this app"
+    }
+  },
+  {
+    "id": "tx-img-022",
+    "topic": "Right-of-way",
+    "prompt": "At the two-way stop, A and B arrive at the same time. Who goes first?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Vehicle A"
+      },
+      {
+        "id": "B",
+        "text": "Vehicle B"
+      },
+      {
+        "id": "C",
+        "text": "They should go together"
+      },
+      {
+        "id": "D",
+        "text": "Whoever signals first"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "When two vehicles stop at the same time, the driver on the left yields to the driver on the right. B is to A\u2019s right.",
+    "image": {
+      "src": "/img/scenarios/scenario-022.svg",
+      "alt": "Two-way stop with A northbound and B eastbound.",
+      "credit": "Created for this app"
+    }
+  },
+  {
+    "id": "tx-img-023",
+    "topic": "Right-of-way",
+    "prompt": "A is turning left from a stop sign. B is on the main road going straight. Who goes first?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Vehicle A"
+      },
+      {
+        "id": "B",
+        "text": "Vehicle B"
+      },
+      {
+        "id": "C",
+        "text": "They should go together"
+      },
+      {
+        "id": "D",
+        "text": "A goes first because it stopped"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "The driver at the stop sign must yield to traffic on the main road.",
+    "image": {
+      "src": "/img/scenarios/scenario-023.svg",
+      "alt": "Stop sign for A turning left, B traveling straight on the main road.",
+      "credit": "Created for this app"
+    }
+  },
+  {
+    "id": "tx-img-024",
+    "topic": "Right-of-way",
+    "prompt": "A is turning right on a green light while B is going straight on the cross street with a green light. Who goes first?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Vehicle A"
+      },
+      {
+        "id": "B",
+        "text": "Vehicle B"
+      },
+      {
+        "id": "C",
+        "text": "They should go together"
+      },
+      {
+        "id": "D",
+        "text": "A goes first because it is turning right"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "A right turn on green must yield to cross traffic that has the green light.",
+    "image": {
+      "src": "/img/scenarios/scenario-024.svg",
+      "alt": "Green lights for A turning right and B going straight on the cross street.",
+      "credit": "Created for this app"
+    }
+  },
+  {
+    "id": "tx-img-025",
+    "topic": "Right-of-way",
+    "prompt": "A is turning right on green and B is turning left on green from the opposite direction. Who goes first?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Vehicle A"
+      },
+      {
+        "id": "B",
+        "text": "Vehicle B"
+      },
+      {
+        "id": "C",
+        "text": "They should go together"
+      },
+      {
+        "id": "D",
+        "text": "Whoever signals first"
+      }
+    ],
+    "correctChoiceId": "A",
+    "explanation": "A right turn generally proceeds while the opposing left turn must yield to oncoming traffic.",
+    "image": {
+      "src": "/img/scenarios/scenario-025.svg",
+      "alt": "Opposing turns on green with A turning right and B turning left.",
+      "credit": "Created for this app"
+    }
+  },
+  {
+    "id": "tx-img-026",
+    "topic": "Right-of-way",
+    "prompt": "A is at a yield sign on the side street. B is on the main road. Who goes first?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Vehicle A"
+      },
+      {
+        "id": "B",
+        "text": "Vehicle B"
+      },
+      {
+        "id": "C",
+        "text": "They should go together"
+      },
+      {
+        "id": "D",
+        "text": "A goes first because it is entering"
+      }
+    ],
+    "correctChoiceId": "B",
+    "explanation": "A yield sign requires A to let through traffic go first.",
+    "image": {
+      "src": "/img/scenarios/scenario-026.svg",
+      "alt": "Yield sign for A with B traveling on the main road.",
+      "credit": "Created for this app"
+    }
+  },
+  {
+    "id": "tx-img-027",
+    "topic": "Right-of-way",
+    "prompt": "At the two-way stop, A and B arrive at the same time. Who goes first?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Vehicle A"
+      },
+      {
+        "id": "B",
+        "text": "Vehicle B"
+      },
+      {
+        "id": "C",
+        "text": "They should go together"
+      },
+      {
+        "id": "D",
+        "text": "The faster vehicle"
+      }
+    ],
+    "correctChoiceId": "A",
+    "explanation": "When arrival is simultaneous, the driver on the left yields to the driver on the right. A is to B\u2019s right.",
+    "image": {
+      "src": "/img/scenarios/scenario-027.svg",
+      "alt": "Two-way stop with A southbound and B eastbound.",
+      "credit": "Created for this app"
+    }
+  },
+  {
+    "id": "tx-img-028",
+    "topic": "Right-of-way",
+    "prompt": "A is going straight on a green light. B is turning left from the opposite direction. Who goes first?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Vehicle A"
+      },
+      {
+        "id": "B",
+        "text": "Vehicle B"
+      },
+      {
+        "id": "C",
+        "text": "They should go together"
+      },
+      {
+        "id": "D",
+        "text": "B goes first because it is turning"
+      }
+    ],
+    "correctChoiceId": "A",
+    "explanation": "A vehicle turning left must yield to oncoming traffic going straight on green.",
+    "image": {
+      "src": "/img/scenarios/scenario-028.svg",
+      "alt": "Green lights with A going straight and B turning left from the opposite direction.",
+      "credit": "Created for this app"
+    }
+  },
+  {
+    "id": "tx-img-029",
+    "topic": "Right-of-way",
+    "prompt": "A is going straight on the main road. B is turning left from a stop sign. Who goes first?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Vehicle A"
+      },
+      {
+        "id": "B",
+        "text": "Vehicle B"
+      },
+      {
+        "id": "C",
+        "text": "They should go together"
+      },
+      {
+        "id": "D",
+        "text": "B goes first because it stopped"
+      }
+    ],
+    "correctChoiceId": "A",
+    "explanation": "The driver at the stop sign must yield to traffic on the main road.",
+    "image": {
+      "src": "/img/scenarios/scenario-029.svg",
+      "alt": "A on the main road and B turning left from a stop sign.",
+      "credit": "Created for this app"
+    }
+  },
+  {
+    "id": "tx-img-030",
+    "topic": "Right-of-way",
+    "prompt": "At the three-way stop, A arrived first, then B and C arrived together. Who goes first?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Vehicle A"
+      },
+      {
+        "id": "B",
+        "text": "Vehicle B"
+      },
+      {
+        "id": "C",
+        "text": "Vehicle C"
+      },
+      {
+        "id": "D",
+        "text": "B and C together"
+      }
+    ],
+    "correctChoiceId": "A",
+    "explanation": "The first vehicle to stop goes first. After A goes, B and C would follow by the right-of-way rules.",
+    "image": {
+      "src": "/img/scenarios/scenario-030.svg",
+      "alt": "Three-way stop with vehicles A, B, and C waiting.",
+      "credit": "Created for this app"
+    }
   }
 ]

@@ -56,6 +56,19 @@
   margin: 10px 0 12px;
 }
 
+.scenario {
+  margin: 12px 0 16px;
+  text-align: center;
+}
+
+.scenario img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 12px;
+  border: 1px solid #e2e2e2;
+  background: #fff;
+}
+
 .choices {
   display: grid;
   gap: 10px;

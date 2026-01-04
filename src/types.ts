@@ -7,7 +7,11 @@ export type Question = {
   id: string;            // unique
   topic: string;         // "Right-of-way", "Signs", etc.
   prompt: string;
-  image?: string;        // e.g. "/assets/signs/stop.png"
+  image?: {
+    src: string;
+    alt: string;
+    credit: string;
+  };
   choices: Choice[];
   correctChoiceId: string;
   explanation?: string;
